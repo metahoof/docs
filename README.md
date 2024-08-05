@@ -1,31 +1,25 @@
-# Docsify Template
+# MetaHoof Documentation
 
-> A simple [Docsify](https://github.com/docsifyjs/docsify/) template for creating Markdown-based documentation sites, with no build process required.
+Welcome to the MetaHoof Documentation repository! This repository contains all the necessary information, guides, and resources for developers and users of MetaHoof, the premier digital horse racing game built on the Ultra.io blockchain.
 
-## Site Setup
+## Overview
 
-### Static Webserver
-Upload these template files to any static web server. The file `.nojekyll` is only required if hosting the site on GitHub Pages and otherwise can be removed.
+MetaHoof is an innovative digital horse racing game that combines blockchain technology with exciting gameplay. Players can own, breed, and race unique NFT horses, each with its own set of attributes and characteristics. Built on the Ultra.io platform, MetaHoof leverages zero-fee transactions to provide a seamless and gas-free gaming experience.
 
-### GitHub Pages
+## Contributing
 
-#### Hosting Site
+We welcome contributions from the community! Please read our [Contributing Guide](CONTRIBUTING.md) to learn how you can help improve MetaHoof.
 
-To host this template on GitHub Pages do the following:  
+## License
 
-1. Log into GitHub if you have not done so already
-2. Tap the **Use this template** button in the upper-right of this GitHub Repository and choose **Create a new repository**
-3. Enter a name for your new Repository and then tap the **Create repository** button
-4. Once your new Repostitory is created go to **Settings**, then select **Pages** from the left-hand sidebar, and under **Branch** choose **main** and then tap the **Save** button
-5. Wait a minute or two and refresh the same **Pages** page - once your site is ready a message will be displayed at the top of the screen along with a site link and a **Visit site** button
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for more details.
 
-#### Editing Content
+## Contact
 
-How about editing the content of your new Docsify site on GitHub Pages? View the Markdown page you want to edit (for example, **README.md**) and tap the **Pencil Icon**, then save any changes by tapping the green **Commit changes...** button. In just a few moments the Docsify site will be automatically updated to reflect those changes.
+For any questions or support, please reach out to us via our [Discord server](https://discord.gg/UJ59KgS6rK) or [email us](mailto:support@metahoof.com).
 
-### Viewing Locally 
-Run `npx serve .` (Node.js users) or `python -m http.server 8000` (Python users) in the repo folder to serve run locally.
+## Follow Us
 
-## Docsify Documentation
+Stay updated with the latest news and updates:
 
-To learn more about using Docsify, visit https://docsify.js.org.
+- [Twitter](https://twitter.com/metahoof_game)

@@ -1,0 +1,12 @@
+- [White Paper](white-paper "MetaHoof - White Paper")
+    - [Introduction](white-paper/introduction.md "MetaHoof - White Paper - Introduction")
+    - [Racehorse Traits](white-paper/traits.md "MetaHoof - White Paper - Racehorse Traits")
+    - [Game Mechanics](white-paper/gameplay.md "MetaHoof - White Paper - Game Mechanics")
+    - [Breeding](white-paper/breeding "MetaHoof - White Paper - Breeding")
+    - [Community](white-paper/community.md "MetaHoof - White Paper - Community")
+    - [Fees & Distributions](white-paper/fees-distributions.md "MetaHoof - White Paper - Fees & Distributions")
+    - [Economy Blueprint](white-paper/economy "MetaHoof - White Paper - Economy")
+    - [Roadmap](white-paper/roadmap.md "MetaHoof - White Paper - Roadmap")
+- [Manifesto](manifesto.md)
+- **More**
+- [Changelog](changelog.md "MetaHoof - Changelog")

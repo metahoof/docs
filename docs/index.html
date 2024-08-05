@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
+
+  <!-- Replace with your own title and description. -->
+  <title>MetaHoof | Web3 Digital Racing</title>
+  <meta name="description" content="An awesome docsify site for publishing some content on the web.">
+
+  <!-- Theme: Simple Dark -->
+  <link
+    rel="stylesheet"
+    data-style-group="themeable"
+    media="(prefers-color-scheme: dark)"
+    href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css"
+  />
+  <link rel="stylesheet" href="/assets/css/main.css" />
+</head>
+
+<body>
+<div id="app">Please wait...</div>
+
+<script>
+  // Docsify Configuration (see https://docsify.js.org/#/configuration)
+  window.$docsify = {
+    name: 'MetaHoof Game',
+    homepage: 'white-paper.md',
+    coverpage: 'coverpage.md',
+    logo: '/assets/img/logo.png',
+    // Sidebar Configuration
+    auto2top: true,
+    loadSidebar: 'sidebar.md',
+    maxLevel: 0,
+    // Set subMaxLevel to 0 to remove automatic display of page table of contents (TOC) in Sidebar
+    subMaxLevel: 2,
+
+    // Search Plugin Configuration
+    search: {
+      placeholder: 'Type to search',
+      noData: 'No matches found.',
+      // Headline depth, 1 - 6
+      depth: 2,
+    },
+    ga: 'G-K3SRXQBXLE',
+    githubEditLink: {
+      repo:  'https://github.com/metahoof/docs'
+    },
+  };
+</script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    extensions: ["tex2jax.js"],
+    jax: ["input/TeX", "output/HTML-CSS"],
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+      processEscapes: true
+    },
+  });
+</script>
+<!-- Required -->
+<script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js" data-ga="G-K3SRXQBXLE"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
+
+<!-- Plugins -->
+<script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+<script src="//cdn.bootcss.com/mathjax/2.6.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify-github-edit-link@1/dist/github-edit-link.min.js"></script>
+<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/LIGMATV/docsify-vite-coverpage@main/docsify-vite-coverpage.css">
+</body>
+</html>
