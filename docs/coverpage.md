@@ -1,6 +1,6 @@
 ![logo](assets/img/cover.png)
 
-# MetaHoof<small>0.1</small>
+# MetaHoof<small>0.1 (draft)</small>
 
 > Your Ultimate Guide to Digital Horse Racing
 
