@@ -66,16 +66,16 @@ can combine to create unique and rare colors, adding an extra layer of customiza
 
 **Base and Special Colors by Breed Type:**
 
-| **Breed Type**           | **Common Colors (Base)**     | **Rare Colors (Special)**      |
-|--------------------------|------------------------------|--------------------------------|
-| **Elysian Thoroughbred** | Chestnut, Bay, Black         | Golden, Platinum               |
-| **Shadowmere**           | Black, Dark Brown            | Midnight Blue, Shadow Grey     |
-| **Aurora Charger**       | White, Grey, Light Blue      | Aurora Green, Northern Lights  |
-| **Tempest Mustang**      | Red, Dark Grey, Brown        | Stormy Blue, Lightning Yellow  |
-| **Ametista**   | White, Cream, Palomino       | Celestial Silver, Starry Night |
-| **Inferno Stallion**     | Chestnut, Dark Red, Mahogany | Flame Orange, Volcanic Black   |
-| **Mystic Fjord**         | Grey, Blue Roan, Dun         | Mystic Purple, Frost White     |
-| **Phoenix Steed**        | Red, Gold, Amber             | Phoenix Fire, Ash Grey         |
+| Bloodline            | Base Coat Colors                                                                                | Tail and Mane Colors                                                                                      | Rare Colors                         |
+| -------------------- | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| Elysian Thoroughbred | Chestnut, Bay, Black, Palomino, Grey, Sorrel, Liver Chestnut, Dun                               | Ebony Chestnut, Midnight Bay, Golden Palomino, Silver Grey, Ash Brown, Copper Sorrel, Mahogany, Amber Dun | Sapphire Blue, Emerald Green        |
+| Shadowmere           | Dark Grey, Black, Midnight Blue, Coal, Onyx, Ebony, Charcoal, Slate                             | Obsidian, Nightshade, Midnight Black, Dark Sapphire, Shadow Grey, Iron Coal, Deep Onyx, Smoky Charcoal    | Blood Red, Moonlit Silver           |
+| Aurora Charger       | White, Silver, Pearl, Cream, Light Gold, Champagne, Snow, Ivory                                 | Moonlight, Star Silver, Frost White, Dawn Gold, Silver Mist, Champagne Glow, Snowy White, Ivory Light     | Celestial Blue, Radiant Gold        |
+| Tempest Mustang      | Red Roan, Dun, Buckskin, Sorrel, Bay Roan, Grulla, Claybank, Apricot                            | Ember, Flame, Fiery Red, Blaze Brown, Sunburst, Grulla Grey, Claybank Gold, Apricot Cream                 | Electric Blue, Lightning Yellow     |
+| Inferno Stallion     | Crimson, Charcoal, Fire Orange, Copper, Rust, Burnt Umber, Scarlet, Molten Lava                 | Blaze, Ash, Ember Glow, Smoky Copper, Charred Rust, Umber Ash, Scarlet Flame, Lava Flow                   | Dragon Scale Green, Inferno Gold    |
+| Mystic Fjord         | Silver Dapple, Frost, Ice Blue, Light Grey, Pale Blue, Moonlit White, Misty Blue, Arctic Silver | Glacier, Frostbite, Winter Blue, Ice Shimmer, Arctic White, Moonlit Shine, Misty Frost, Silver Glacier    | Northern Lights Green, Frozen Teal  |
+| Phoenix Steed        | Gold, Copper, Burnt Sienna, Amber, Bronze, Marigold, Fiery Red, Sunset Orange                   | Phoenix Flame, Ember Glow, Sunfire, Golden Bronze, Amber Blaze, Marigold Shine, Fiery Glow, Sunset Flame  | Radiant Crimson, Solar Flare Yellow |
+| Ametista             | Amethyst, Violet, Lavender, Lilac, Deep Purple, Orchid, Plum, Grape                             | Purple Haze, Lilac, Royal Amethyst, Lavender Glow, Deep Violet, Orchid Bloom, Plum Shine, Grape Mist      | Mystic Pink, Ethereal White         |
 
 ## Initial Class Level
 
