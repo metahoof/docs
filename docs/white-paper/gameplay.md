@@ -471,7 +471,7 @@ environment for all players. Horses are categorized into classes based on their 
 expert. The class system allows horses to compete against similarly skilled opponents, providing fair and exciting
 competitions.
 
-**Class System:**
+### Class System
 
 - **Class E (Novice):** Horses start with basic abilities, suitable for new players learning the game mechanics.
 - **Class D (Beginner):** A step up from Novice, these horses have shown some potential in races.
@@ -480,12 +480,91 @@ competitions.
 - **Class A (Expert):** The top-tier horses with exceptional attributes, capable of competing in the most prestigious
   races.
 
-**XP and Leveling:**
+### XP Level Progression System
 
-- **Earning XP:** Horses gain experience points (XP) by participating in races. The amount of XP earned is influenced by
-  their performance, race conditions, and the class of the race.
-- **Leveling Up:** Accumulating sufficient XP allows a horse to level up, potentially advancing to a higher class.
-  Leveling up can also unlock new abilities or improve existing ones.
+In MetaHoof, the XP Level Progression System is designed to simulate the development and growth of horses as they
+advance through different classes. Each class has a defined XP requirement for leveling up, ensuring a structured and
+balanced progression system. The required XP to advance to the next level increases with each class, reflecting the
+growing challenges and complexity as horses evolve from novices to experts.
+
+**Level Progression Explanation**
+
+- **Class E (Novice):** The entry-level class where horses require a relatively low amount of XP to level up, reflecting
+  their novice status. Each level within this class requires 1,000 XP to progress, allowing new players to quickly gain
+  initial levels and understand the game mechanics.
+
+- **Class D (Beginner):** As horses evolve, the XP required to level up increases. In Class D, each level requires 2,500
+  XP, representing the horse’s growth through participation in more competitive races and training.
+
+- **Class C (Intermediate):** Horses in this class have developed more significant attributes and require more effort to
+  level up. Each level in Class C requires 5,000 XP, highlighting the transition from beginner to more advanced racing.
+
+- **Class B (Advanced):** At this stage, horses are seasoned competitors. Each level in Class B requires 10,000 XP,
+  reflecting the intense competition and the need for strategic planning to advance further.
+
+- **Class A (Expert):** The highest tier where horses are at the peak of their abilities. Each level within Class A
+  requires 20,000 XP, symbolizing the elite status of these horses and the substantial effort required to maintain and
+  improve their performance.
+
+**XP Level Progression Table**
+
+The following table outlines the XP required for each level within each class, providing a clear pathway for players as
+they aim to evolve their horses:
+
+| Class | Level Range | XP per Level | Total XP to Max Level |
+|-------|-------------|--------------|-----------------------|
+| E     | 1-5         | 1,000        | 5,000                 |
+| D     | 6-10        | 2,500        | 12,500                |
+| C     | 11-15       | 5,000        | 25,000                |
+| B     | 16-20       | 10,000       | 50,000                |
+| A     | 21-25       | 20,000       | 100,000               |
+
+**Detailed Progression Path**
+
+1. **Class E (Novice):**
+
+- **Level 1-2:** 1,000 XP required to advance.
+- **Level 2-3:** Additional 1,000 XP required (2,000 XP total).
+- **Level 3-4:** Additional 1,000 XP required (3,000 XP total).
+- **Level 4-5:** Additional 1,000 XP required (4,000 XP total).
+- **Max Level:** Reached at 5,000 XP.
+
+2. **Class D (Beginner):**
+
+- **Level 6-7:** 2,500 XP required to advance.
+- **Level 7-8:** Additional 2,500 XP required (5,000 XP total).
+- **Level 8-9:** Additional 2,500 XP required (7,500 XP total).
+- **Level 9-10:** Additional 2,500 XP required (10,000 XP total).
+- **Max Level:** Reached at 12,500 XP.
+
+3. **Class C (Intermediate):**
+
+- **Level 11-12:** 5,000 XP required to advance.
+- **Level 12-13:** Additional 5,000 XP required (10,000 XP total).
+- **Level 13-14:** Additional 5,000 XP required (15,000 XP total).
+- **Level 14-15:** Additional 5,000 XP required (20,000 XP total).
+- **Max Level:** Reached at 25,000 XP.
+
+4. **Class B (Advanced):**
+
+- **Level 16-17:** 10,000 XP required to advance.
+- **Level 17-18:** Additional 10,000 XP required (20,000 XP total).
+- **Level 18-19:** Additional 10,000 XP required (30,000 XP total).
+- **Level 19-20:** Additional 10,000 XP required (40,000 XP total).
+- **Max Level:** Reached at 50,000 XP.
+
+5. **Class A (Expert):**
+
+- **Level 21-22:** 20,000 XP required to advance.
+- **Level 22-23:** Additional 20,000 XP required (40,000 XP total).
+- **Level 23-24:** Additional 20,000 XP required (60,000 XP total).
+- **Level 24-25:** Additional 20,000 XP required (80,000 XP total).
+- **Max Level:** Reached at 100,000 XP.
+
+This progression system is designed to balance the advancement of horses within MetaHoof, ensuring that as players
+invest more time and resources into their horses, the challenge to achieve higher levels becomes progressively steeper.
+This structure not only rewards early engagement but also adds depth to the gameplay by requiring strategic planning and
+continued participation to reach the highest tiers.
 
 **Horse Decay System:**
 

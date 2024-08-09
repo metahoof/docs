@@ -38,33 +38,33 @@ approach to breeding costs.
 
 1. **Class E Filly:**
 
-- **License Fee:** $10
+- **License Fee:** $5
 - **Description:** Breeding a Class E filly incurs the lowest license fee, making it affordable for players starting out
   or those focusing on entry-level breeding. This fee supports the basic features and attributes associated with Class E
   horses.
 
 2. **Class D Filly:**
 
-- **License Fee:** $25
+- **License Fee:** $10
 - **Description:** For breeding a Class D filly, a moderate fee is required. This reflects the improved attributes and
   potential of Class D horses, catering to players who seek a step up from Class E but are not yet at the advanced
   levels.
 
 3. **Class C Filly:**
 
-- **License Fee:** $50
+- **License Fee:** $15
 - **Description:** Breeding a Class C filly involves a higher fee, indicative of the more advanced breeding capabilities
   and attributes. This pricing supports the enhanced quality and potential of Class C horses.
 
 4. **Class B Filly:**
 
-- **License Fee:** $100
+- **License Fee:** $25
 - **Description:** A premium fee is associated with breeding a Class B filly. This reflects the high-performance
   attributes and competitive edge of Class B horses, catering to players looking for superior breeding outcomes.
 
 5. **Class A Filly:**
 
-- **License Fee:** $150
+- **License Fee:** $35
 - **Description:** Breeding a Class A filly involves the highest license fee, consistent with the exceptional attributes
   and elite status of Class A horses. This premium fee ensures that the breeding of top-tier horses is valued
   accordingly.
