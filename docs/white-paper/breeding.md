@@ -1,4 +1,4 @@
-q# Breeding System <!-- {docsify-ignore} -->
+# Breeding System <!-- {docsify-ignore} -->
 
 MetaHoof's breeding system empowers players to strategically create new horses by combining the genetic traits of two
 parent horses. This system is designed to enhance strategic gameplay and maintain a balanced, dynamic environment. The
