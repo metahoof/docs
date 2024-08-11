@@ -258,80 +258,10 @@ which prize distribution types are applicable for each gate configuration and pr
 | Gates | WTA | Top2 | Top3 | Top6 | Double Up | Quadruple Up |
 |-------|-----|------|------|------|-----------|--------------|
 | 2     | Yes | -    | -    | -    | -         | -            |
-| 6     | Yes | Yes  | Yes  | Yes  | -         | -            |
-| 8     | Yes | Yes  | Yes  | Yes  | Yes       | -            |
+| 6     | Yes | Yes  | Yes  | Yes  | Yes       | -            |
+| 8     | Yes | Yes  | Yes  | Yes  | Yes       | Yes          |
 | 12    | Yes | Yes  | Yes  | Yes  | Yes       | Yes          |
 
-#### Prize Distribution Details
-
-**2-Gate Race**:
-
-- **WTA (Winner Takes All)**:
-    - **Description**: The entire prize pool is awarded to the winner.
-    - **Example**: For a $1000 prize pool, the winner receives $1000.
-- **Top2, Top3, Top6, Double Up, Quadruple Up**: Not applicable due to limited number of gates.
-
-**6-Gate Race**:
-
-- **WTA (Winner Takes All)**:
-    - **Description**: The winner receives the entire prize pool.
-    - **Example**: $1000 prize pool is awarded to the 1st place.
-- **Top2**:
-    - **Description**: The prize pool is divided between the top two finishers.
-    - **Example**: For a $1000 prize pool, 60% goes to the 1st place ($600) and 40% to the 2nd place ($400).
-- **Top3**:
-    - **Description**: The prize pool is split among the top three finishers.
-    - **Example**: For a $1000 prize pool, 50% to the 1st place ($500), 30% to the 2nd place ($300), and 20% to the 3rd
-      place ($200).
-- **Top6**:
-    - **Description**: The prize pool is distributed among all six finishers.
-    - **Example**: For a $1000 prize pool, 30% to the 1st place ($300), 20% to the 2nd place ($200), 15% to the 3rd
-      place ($150), and 10% each to the 4th, 5th, and 6th places ($100 each).
-- **Double Up, Quadruple Up**: Not applicable as these formats are generally not used for 6-gate races.
-
-**8-Gate Race**:
-
-- **WTA (Winner Takes All)**:
-    - **Description**: The winner takes the full prize pool.
-    - **Example**: For a $1000 prize pool, the winner gets $1000.
-- **Top2**:
-    - **Description**: Prize pool is divided between the top two finishers.
-    - **Example**: 60% to the 1st place ($600), 40% to the 2nd place ($400).
-- **Top3**:
-    - **Description**: Prize pool is split among the top three.
-    - **Example**: 50% to 1st place ($500), 30% to 2nd place ($300), 20% to 3rd place ($200).
-- **Top6**:
-    - **Description**: Distributed among top six finishers.
-    - **Example**: 30% to 1st place ($300), 20% to 2nd place ($200), 15% to 3rd place ($150), 10% each to 4th, 5th, and
-      6th places ($100 each).
-- **Double Up**:
-    - **Description**: Prize pool is doubled and allocated among top finishers.
-    - **Example**: Base prize pool of $500 doubled to $1000, distributed like Top3 or Top6.
-- **Quadruple Up**:
-    - **Description**: Prize pool is quadrupled and allocated among top finishers.
-    - **Example**: Base prize pool of $250 quadrupled to $1000, distributed similar to Top3 or Top6.
-
-**12-Gate Race**:
-
-- **WTA (Winner Takes All)**:
-    - **Description**: Winner receives the entire prize pool.
-    - **Example**: For a $1000 prize pool, the 1st place gets $1000.
-- **Top2**:
-    - **Description**: Prize pool divided between top two finishers.
-    - **Example**: 60% to 1st place ($600), 40% to 2nd place ($400).
-- **Top3**:
-    - **Description**: Prize pool split among top three.
-    - **Example**: 50% to 1st place ($500), 30% to 2nd place ($300), 20% to 3rd place ($200).
-- **Top6**:
-    - **Description**: Distributed among top six.
-    - **Example**: 30% to 1st place ($300), 20% to 2nd place ($200), 15% to 3rd place ($150), 10% each to 4th, 5th, and
-      6th places ($100 each).
-- **Double Up**:
-    - **Description**: Prize pool doubled and distributed among top finishers.
-    - **Example**: Base prize pool of $500 doubled to $1000, distributed as Top3 or Top6.
-- **Quadruple Up**:
-    - **Description**: Prize pool quadrupled and distributed among top finishers.
-    - **Example**: Base prize pool of $250 quadrupled to $1000, distributed similar to Top3 or Top6.
 
 #### Summary of Prize Distributions
 
