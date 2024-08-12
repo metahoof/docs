@@ -262,6 +262,68 @@ which prize distribution types are applicable for each gate configuration and pr
 | 8     | Yes | Yes  | Yes  | Yes  | Yes       | Yes          |
 | 12    | Yes | Yes  | Yes  | Yes  | Yes       | Yes          |
 
+#### XP Distribution by Number of Gates
+
+**Overview**: The XP distribution for horses in MetaHoof is determined based on the number of gates (participants) in
+each race. The distribution is designed to reward top performers while ensuring that all participants receive a baseline
+amount of XP. The amount of XP distributed is based on the race's base XP points attribute, which defines the total XP
+pool available for that race. The XP distribution varies depending on the race format and the number of gates, as
+outlined below:
+
+| Race Format          | Number of Participants | 1st Place | 2nd Place | 3rd Place | 4th Place | 5th Place | 6th Place | 7th Place | 8th Place | 9th Place | 10th Place | 11th Place | 12th Place |
+|----------------------|------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|------------|------------|------------|
+| **XP Only (0)**      | **2**                  | 200%      | 100%      |           |           |           |           |           |           |           |            |            |            |
+|                      | **6**                  | 200%      | 150%      | 100%      | 100%      | 100%      | 100%      |           |           |           |            |            |            |
+|                      | **8**                  | 200%      | 175%      | 150%      | 125%      | 100%      | 100%      | 100%      | 100%      |           |            |            |            |
+|                      | **12**                 | 200%      | 190%      | 175%      | 160%      | 150%      | 140%      | 130%      | 120%      | 110%      | 100%       | 100%       | 100%       |
+| **WTA (1)**          | **2**                  | 300%      | 100%      |           |           |           |           |           |           |           |            |            |            |
+|                      | **6**                  | 300%      | 100%      | 100%      | 100%      | 100%      | 100%      |           |           |           |            |            |            |
+|                      | **8**                  | 300%      | 100%      | 100%      | 100%      | 100%      | 100%      | 100%      | 100%      |           |            |            |            |
+|                      | **12**                 | 300%      | 100%      | 100%      | 100%      | 100%      | 100%      | 100%      | 100%      | 100%      | 100%       | 100%       | 100%       |
+| **Top2 (2)**         | **2**                  | 250%      | 150%      |           |           |           |           |           |           |           |            |            |            |
+|                      | **6**                  | 250%      | 150%      | 100%      | 100%      | 100%      | 100%      |           |           |           |            |            |            |
+|                      | **8**                  | 250%      | 150%      | 100%      | 100%      | 100%      | 100%      | 100%      | 100%      |           |            |            |            |
+|                      | **12**                 | 250%      | 150%      | 100%      | 100%      | 100%      | 100%      | 100%      | 100%      | 100%      | 100%       | 100%       | 100%       |
+| **Top3 (3)**         | **2**                  | 250%      | 150%      | 100%      |           |           |           |           |           |           |            |            |            |
+|                      | **6**                  | 250%      | 150%      | 100%      | 100%      | 100%      | 100%      |           |           |           |            |            |            |
+|                      | **8**                  | 250%      | 150%      | 100%      | 100%      | 100%      | 100%      | 100%      | 100%      |           |            |            |            |
+|                      | **12**                 | 250%      | 150%      | 100%      | 100%      | 100%      | 100%      | 100%      | 100%      | 100%      | 100%       | 100%       | 100%       |
+| **Top6 (4)**         | **8**                  | 300%      | 200%      | 150%      | 125%      | 100%      | 100%      | 100%      | 100%      |           |            |            |            |
+|                      | **12**                 | 300%      | 200%      | 175%      | 150%      | 125%      | 100%      | 100%      | 100%      | 100%      | 100%       | 100%       | 100%       |
+| **Double Up (4)**    | **6**                  | 150%      | 150%      | 150%      | 100%      | 100%      | 100%      |           |           |           |            |            |            |
+|                      | **8**                  | 150%      | 150%      | 150%      | 150%      | 100%      | 100%      | 100%      | 100%      |           |            |            |            |
+|                      | **12**                 | 150%      | 150%      | 150%      | 150%      | 150%      | 150%      | 100%      | 100%      | 100%      | 100%       | 100%       | 100%       |
+| **Quadruple Up (5)** | **8**                  | 200%      | 200%      | 100%      | 100%      | 100%      | 100%      | 100%      | 100%      |           |            |            |            |
+|                      | **12**                 | 200%      | 200%      | 200%      | 100%      | 100%      | 100%      | 100%      | 100%      | 100%      | 100%       | 100%       | 100%       |
+
+**Key Points:**
+
+- **XP Only (0):** The distribution focuses on rewarding the top finishers, with the 1st place getting up to 200% XP,
+  and the distribution gradually decreases as the number of participants increases. All participants receive at least
+  100%.
+- **WTA (1):** The 1st place finisher takes 300% XP, while all other participants receive 100%.
+- **Top2 (2):** The top two finishers receive 250% and 150% XP, respectively, with all other participants receiving
+  100%.
+- **Top3 (3):** The top three finishers receive 250%, 150%, and 100% XP, respectively, with all other participants
+  receiving 100%.
+- **Top6 (4):** The top six finishers receive a gradually decreasing percentage from 300% down to 100%, with all other
+  participants receiving 100%.
+- **Double Up (4):** The top half of the participants each receive 150% XP, with the remaining participants receiving
+  100%.
+- **Quadruple Up (5):** The top 25% of participants receive 200% XP, while the rest receive 100%.
+
+### Key Points:
+
+- **XP Only (0):** The 1st place gets a maximum of 200%, and the distribution gradually decreases. Everyone gets at
+  least 100%.
+- **Winner Takes All (WTA) (1):** The 1st place gets 300%, and all others get 100%.
+- **Top2 (2):** The 1st place gets 250%, the 2nd place gets 150%, and all others get 100%.
+- **Top3 (3):** The 1st place gets 250%, the 2nd place gets 150%, the 3rd place gets 100%, and all others get 100%.
+- **Double Up (4):** The top half of the participants get 150%, and the others get 100%.
+- **Quadruple Up (5):** The top 25% of the participants get 200%, and the others get 100%.
+
+This table provides a clear and comprehensive overview of how the XP distribution is structured across different race
+formats and participant numbers.
 
 #### Summary of Prize Distributions
 
