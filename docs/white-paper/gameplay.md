@@ -258,8 +258,8 @@ which prize distribution types are applicable for each gate configuration and pr
 | Gates | WTA | Top2 | Top3 | Top6 | Double Up | Quadruple Up |
 |-------|-----|------|------|------|-----------|--------------|
 | 2     | Yes | -    | -    | -    | -         | -            |
-| 6     | Yes | Yes  | Yes  | Yes  | Yes       | -            |
-| 8     | Yes | Yes  | Yes  | Yes  | Yes       | Yes          |
+| 6     | Yes | Yes  | Yes  | -    | Yes       | -            |
+| 8     | Yes | Yes  | Yes  | -    | Yes       | Yes          |
 | 12    | Yes | Yes  | Yes  | Yes  | Yes       | Yes          |
 
 #### XP Distribution by Number of Gates
@@ -286,8 +286,7 @@ outlined below:
 | **Top3**          | **6**                  | 250%      | 150%      | 100%      | 100%      | 100%      | 100%      |           |           |           |            |            |            |
 |                   | **8**                  | 250%      | 150%      | 100%      | 100%      | 100%      | 100%      | 100%      | 100%      |           |            |            |            |
 |                   | **12**                 | 250%      | 150%      | 100%      | 100%      | 100%      | 100%      | 100%      | 100%      | 100%      | 100%       | 100%       | 100%       |
-| **Top6**          | **8**                  | 300%      | 200%      | 150%      | 125%      | 100%      | 100%      | 100%      | 100%      |           |            |            |            |
-|                   | **12**                 | 300%      | 200%      | 175%      | 150%      | 125%      | 100%      | 100%      | 100%      | 100%      | 100%       | 100%       | 100%       |
+| **Top6**          | **12**                 | 300%      | 200%      | 175%      | 150%      | 125%      | 100%      | 100%      | 100%      | 100%      | 100%       | 100%       | 100%       |
 | **Double Up**     | **6**                  | 150%      | 150%      | 150%      | 100%      | 100%      | 100%      |           |           |           |            |            |            |
 |                   | **8**                  | 150%      | 150%      | 150%      | 150%      | 100%      | 100%      | 100%      | 100%      |           |            |            |            |
 |                   | **12**                 | 150%      | 150%      | 150%      | 150%      | 150%      | 150%      | 100%      | 100%      | 100%      | 100%       | 100%       | 100%       |
@@ -318,8 +317,8 @@ allocated:
 | Gates | Distribution Types                             | Description                                                  |
 |-------|------------------------------------------------|--------------------------------------------------------------|
 | 2     | WTA                                            | Full prize pool to 1st place.                                |
-| 6     | WTA, Top2, Top3, Top6                          | Various distributions for 1st to 6th places.                 |
-| 8     | WTA, Top2, Top3, Top6, Double Up, Quadruple Up | Various distributions including enhanced prize pools.        |
+| 6     | WTA, Top2, Top3                                | Various distributions for 1st to 6th places.                 |
+| 8     | WTA, Top2, Top3, Double Up, Quadruple Up       | Various distributions including enhanced prize pools.        |
 | 12    | WTA, Top2, Top3, Top6, Double Up, Quadruple Up | Various distributions with options for enhanced prize pools. |
 
 By clearly defining how prizes are distributed across different gate configurations, MetaHoof ensures transparency and
