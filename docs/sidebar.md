@@ -9,4 +9,5 @@
   - [Roadmap](white-paper/roadmap.md "MetaHoof | White Paper - Future Roadmap & Development")
 - [Manifesto](manifesto.md "MetaHoof | Manifesto - Vision & Core Values")
 - **More**
+- [FAQ](faq.md "MetaHoof | FAQ - Frequently Asked Questions")
 - [Changelog](changelog.md "MetaHoof | Changelog - Latest Updates & Features")
