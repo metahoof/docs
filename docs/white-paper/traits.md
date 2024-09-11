@@ -58,24 +58,60 @@ influence the genetic traits passed to offspring.
 
 ## Coat
 
-**Appearance:** Includes color, markings, and patterns. While primarily cosmetic, coat traits can subtly influence the
-horse's visibility and appeal, impacting their presence in races and the marketplace.
+The **Coat** trait represents the visual style and texture of the horse’s exterior, with each bloodline having specific
+coat types that are unique to their lineage. The **Coat** provides the foundational appearance of the horse and is
+paired with **Color** to give each horse a unique look.
 
-Each breed type may have its own set of base colors that are common for that breed. Through breeding, these base colors
-can combine to create unique and rare colors, adding an extra layer of customization and rarity.
+Below are the **Coat Types** for each bloodline:
 
-**Base and Special Colors by Breed Type:**
+- **Celeste Charger**:  
+  The **Celeste Charger** bloodline exhibits these refined coat types, emphasizing elegance and visual appeal:
+    - **Palomino**: A golden coat with light mane and tail, representing grace and nobility.
+    - **White Splash**: A striking white pattern splashed across the horse's coat, adding a visually dramatic element.
 
-| **Bloodline**            | **Base Coat Colors**                                                                                                  | **Rare Coat Colors**           | **Mane/Tail Colors**                                                   |
-|--------------------------|-----------------------------------------------------------------------------------------------------------------------|--------------------------------|------------------------------------------------------------------------|
-| **Elysian Thoroughbred** | Ivory, Gold, Midnight Blue, Pearl White, Chestnut, Silver Gray, Cream, Light Brown                                    | Opalescent, Starry Night       | Silver, Gold, Midnight Blue, Pearl White, Chestnut                     |
-| **Shadowmere**           | Coal Black, Smoky Gray, Deep Purple, Forest Green, Midnight Black, Dark Brown, Charcoal, Burgundy                     | Phantom, Shadowsteel           | Shadow Black, Deep Purple, Ash Gray, Midnight Blue, Forest Green       |
-| **Aurora Charger**       | Sky Blue, Aurora Green, Radiant Red, Pink Sunrise, Golden Yellow, Light Purple, Sunset Orange, Cyan                   | Aurora Borealis, Rainbow Flame | Aurora Green, Radiant Red, Sky Blue, Pink Sunrise, Sunset Orange       |
-| **Tempest Mustang**      | Stormy Gray, Thunder Black, Rain Blue, Desert Sand, Lightning Yellow, Dusty Brown, Cloud White, Slate                 | Tempest Silver, Electric Blue  | Stormy Gray, Thunder Black, Rain Blue, Desert Sand, Lightning Yellow   |
-| **Inferno Stallion**     | Lava Red, Ember Orange, Ash Gray, Molten Gold, Smoky Black, Copper Brown, Charcoal, Fiery Yellow                      | Inferno Blaze, Volcanic Ash    | Lava Red, Ember Orange, Ash Gray, Molten Gold, Fiery Yellow            |
-| **Mystic Fjord**         | Fjord Blue, Icy White, Frost Gray, Seafoam Green, Glacier Silver, Pale Blue, Arctic White, Cool Mint                  | Northern Lights, Crystal Ice   | Icy White, Frost Gray, Seafoam Green, Glacier Silver, Cool Mint        |
-| **Phoenix Steed**        | Flame Orange, Ember Red, Charcoal Black, Gold, Bright Yellow, Rusty Brown, Dark Red, Copper                           | Phoenix Feather, Eternal Flame | Flame Orange, Ember Red, Charcoal Black, Gold, Bright Yellow           |
-| **Celestial Arabians**   | Starlight Silver, Nebula Grey, Ethereal White, Solar Gold, Midnight Blue, Aurora Green, Cosmic Black, Meteorite Brown | Galactic Opal, Celestial Pearl | Silver Starlight, Galaxy Blue, Aurora White, Golden Dawn, Cosmic Black |
+- **Elysian Thoroughbred**:  
+  Known for their athletic prowess, **Elysian Thoroughbreds** feature these bold and refined coat types:
+    - **Blue Roan**: A mixture of black and white hairs creating a blueish-gray appearance, enhancing their sleek,
+      competitive look.
+    - **Smoky Black**: A dark, almost black coat with a subtle smoky hue, adding to the mystery and power of this breed.
+
+- **Mirage Arabians**:  
+  Reflecting their desert origins, **Mirage Arabians** feature these rich and vibrant coat types:
+    - **Buckskin**: A tan or cream-colored coat with darker points (mane, tail, and legs), evoking the warm tones of the
+      desert.
+    - **Palomino**: A golden coat paired with a lighter mane and tail, enhancing their noble and radiant look.
+
+- **Mystic Fjord**:  
+  Horses from the **Mystic Fjord** bloodline, bred in cold northern climates, showcase the following coat types:
+    - **Blue Roan**: A cool mixture of black and white hairs that gives the horse a frosty, blueish hue.
+    - **Palomino**: A golden coat that contrasts with their cold environment, adding a touch of elegance and resilience.
+
+- **Sakura**:  
+  Inspired by Asiatic beauty and tradition, the **Sakura** bloodline features these symbolic coat types:
+    - **Light Gray**: A soft, muted gray that adds a sense of calm and tradition to the horse’s appearance.
+    - **Tobiano**: A distinctive pattern where white spreads over the horse's body in large, rounded patches,
+      highlighting their cultural heritage.
+
+- **Tempest Mustang**:  
+  Known for their wild and untamed nature, **Tempest Mustangs** exhibit these rugged coat types:
+    - **Regular**: A classic, unmarked coat that symbolizes the raw and unrefined nature of the mustang.
+    - **White Splash**: A bold white pattern that appears as if splashed across the horse’s coat, representing the
+      unpredictability of the breed.
+
+## Color
+
+The **Color** trait complements the coat, adding a unique layer of individuality to each horse. Each bloodline has its
+signature color sets, enhancing the coat types and further distinguishing horses within a lineage. Below are the **Color
+** sets for each bloodline:
+
+| **Bloodline**            | **Base Coat Colors**                                                       | **Rare Coat Colors**          | **Mane/Tail Colors**                                |
+|--------------------------|----------------------------------------------------------------------------|-------------------------------|-----------------------------------------------------|
+| **Celeste Charger**      | Palomino, Pearl White, Chestnut, Cream, Silver Gray, Light Brown           | Golden Palomino, Opalescent   | Gold, Pearl White, Chestnut, Light Brown            |
+| **Elysian Thoroughbred** | Blue Roan, Smoky Black, Silver Gray, Midnight Black, Dapple Gray, Chestnut | Obsidian Black, Starry Night  | Silver, Midnight Black, Chestnut, Smoky Gray        |
+| **Mirage Arabians**      | Buckskin, Golden Brown, Desert Sand, Cream, Mahogany, Palomino             | Amber Gold, Dust Storm        | Golden Brown, Mahogany, Desert Sand, Cream          |
+| **Mystic Fjord**         | Blue Roan, Icy White, Frost Gray, Glacier Silver, Pale Blue                | Crystal Ice, Northern Lights  | Icy White, Frost Gray, Glacier Silver, Pale Blue    |
+| **Sakura**               | Light Gray, White, Chestnut, Ash Gray, Silver                              | Cherry Blossom Pink, Ivory    | Ash Gray, Silver, Light Gray                        |
+| **Tempest Mustang**      | Stormy Gray, Regular Brown, Thunder Black, Cloud White, Slate Gray         | Tempest Silver, Electric Blue | Stormy Gray, Thunder Black, Cloud White, Slate Gray |
 
 ## Initial Class Level
 
@@ -103,11 +139,6 @@ minting and cannot be downgraded, affecting the horse's eligibility for differen
 Represents the starting experience points of the horse, impacting its initial readiness for races and ability to gain
 further XP through racing and other activities.
 
-## Genetic Sequence
-
-A unique identifier of the horse’s genetic makeup, influencing its attributes and performance. This sequence also
-determines the genetic traits passed to offspring.
-
 ## Generation
 
 Indicates the horse’s position in the genetic lineage. Higher generations might have refined traits or special
@@ -125,3 +156,47 @@ decay. This trait determines how long a horse can maintain its peak performance.
   longevity of 50 races will maintain its peak performance for a reasonable number of races before decay starts.
 - Low Longevity: A lower numerical value indicating a shorter period of optimal performance. For example, a horse with a
   longevity of 20 races will experience performance decline relatively quickly.
+
+## Performance Attributes
+
+Each horse’s performance and breeding potential is determined by a visible set of genetic traits.
+Unlike a hidden or encoded system, these traits are fully transparent, allowing players to easily understand and
+strategize based on their horse’s strengths and weaknesses. The following attributes are the primary factors that shape
+a horse's capabilities on the track and in breeding.
+
+### Primary Performance Traits:
+
+- **Speed**: This trait determines the horse's top speed during a race. Horses with higher speed will naturally achieve
+  better results in sprint races and any scenario where maximum velocity is critical.
+
+- **Endurance**: Endurance reflects how well a horse can maintain its speed over longer distances. Horses with high
+  endurance are particularly suited for marathon races and formats that test stamina over extended periods.
+
+- **Agility**: Agility defines how quickly and smoothly a horse can navigate turns and adjust its pace. High agility
+  makes a horse better at handling tracks with sharp curves and unpredictable race conditions.
+
+- **Temperament**: A horse’s temperament influences its behavior under race conditions, particularly in high-stress
+  environments. A calm horse is more likely to remain focused and perform consistently, whereas a more excitable horse
+  may be unpredictable but show bursts of extraordinary performance.
+
+- **Stamina**: Stamina relates to the horse's recovery rate after a race. Horses with high stamina will recover quicker,
+  allowing them to compete in multiple races with minimal downtime between events.
+
+- **Breeding Potential**: This attribute measures how likely a horse is to pass on its desirable traits to its
+  offspring. Horses with high breeding potential are key assets for breeding programs, as they increase the chances of
+  producing high-performing progeny.
+
+### Track-Specific Adaptability:
+
+Every horse has different levels of adaptability to various racing surfaces. This adaptability plays a crucial role in
+performance depending on the race track’s surface type.
+
+- **Dirt Track**: Dirt track adaptability indicates how well a horse performs on natural, uneven dirt surfaces. Horses
+  with high dirt track adaptability excel on rugged terrains that require both speed and agility.
+
+- **Grass Track**: Horses with high grass track adaptability are best suited for racing on softer, grassy surfaces.
+  These tracks typically require more endurance and agility to navigate efficiently.
+
+- **Synthetic Track**: Synthetic track adaptability measures how well a horse performs on artificial racing surfaces,
+  where conditions are consistent. Horses with higher synthetic track adaptability often perform more reliably on these
+  tracks, making them ideal for competitive, controlled environments.
