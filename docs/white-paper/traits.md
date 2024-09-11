@@ -11,22 +11,24 @@ model, the traits include:
 Represents the horse's lineage and can impact its inherent abilities and genetic potential. Bloodline traits can
 affect offspring attributes and performance.
 
-- **Elysian Thoroughbred:** Known for high speed and moderate endurance, this lineage often produces horses with a
-  competitive temperament and impressive acceleration.
-- **Shadowmere:** Features high agility and a stealthy nature, making these horses adept at navigating challenging
-  race conditions with a mysterious temperament.
-- **Aurora Charger:** This bloodline is characterized by high stamina and a dazzling appearance. Horses from this
-  lineage have a gentle temperament and excel in endurance races.
-- **Tempest Mustang:** High power and a wild nature define this lineage, resulting in horses with a fierce
-  temperament that perform well in high-stakes races.
-- **Ametista:** Renowned for high agility and stamina, these horses have a serene temperament, ideal for
-  both sprint and endurance races.
-- **Inferno Stallion:** Combining high speed with endurance, horses from this bloodline exhibit a fiery temperament
-  and excel in competitive racing scenarios.
-- **Mystic Fjord:** With high stamina and intelligence, this lineage produces curious and perceptive horses, often
-  excelling in strategic races.
-- **Phoenix Steed:** Known for quick recovery and resilience, these horses have a unique rebirth ability and a
-  strong, adaptable temperament.
+- **Celeste Charger:** Known for their exceptional stamina and elegance, horses from this bloodline excel in
+  long-distance races. With a calm and composed temperament, they thrive in endurance competitions, gracefully
+  navigating challenging courses with precision and finesse.
+- **Elysian Thoroughbred:** Revered for their unmatched speed and explosive acceleration, Elysian Thoroughbreds are the
+  embodiment of competitive racing. Their moderate endurance is balanced by a sharp, competitive temperament, making
+  them natural sprinters that dominate short to mid-range races.
+- **Mirage Arabians:** Mirage Arabians are characterized by their agility and refined elegance. With a mysterious and
+  graceful temperament, they excel in both speed and endurance, making them ideal for races that require both stamina
+  and strategy. Their adaptability to desert-like conditions adds to their uniqueness.
+- **Mystic Fjord:** This bloodline is recognized for high intelligence and resilience, producing horses with strategic
+  minds and an intuitive racing style. Mystic Fjords are known for their stamina and adaptability, often excelling in
+  races that require cunning and endurance, especially under challenging conditions.
+- **Sakura:** Hailing from Asiatic lineage, Sakura horses combine agility and grace, with an affinity for quick
+  movements and sharp turns. Their serene temperament hides their fierce determination, excelling in technical races
+  where precision and timing are key.
+- **Tempest Mustang:** With unmatched raw power and a fierce, untamed nature, Tempest Mustangs are the embodiment of
+  high-risk, high-reward racing. Their wild temperament makes them formidable in high-stakes races, where their
+  explosive strength and daring spirit lead them to victory in tough and unpredictable conditions.
 
 ## Breed Type
 
@@ -37,8 +39,6 @@ Each breed type has unique attributes contributing to racing performance.
 - **Crossbreed:** A mix of two different breeds, offering a blend of traits from both, potentially creating
   versatile and adaptable horses.
 - **Hybrid:** Combining features from multiple breeds, hybrids may exhibit rare and unique abilities.
-- **Rarebreed:** Unique breeds with limited availability, often featuring special traits and higher performance
-  potential.
 - **Legendary Breed:** Exceptionally rare breeds with extraordinary attributes and abilities, offering a significant
   advantage in races.
 
