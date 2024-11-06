@@ -11,12 +11,6 @@ model, the traits include:
 Represents the horse's lineage and can impact its inherent abilities and genetic potential. Bloodline traits can
 affect offspring attributes and performance.
 
-- **Celeste Charger:** Known for their exceptional stamina and elegance, horses from this bloodline excel in
-  long-distance races. With a calm and composed temperament, they thrive in endurance competitions, gracefully
-  navigating challenging courses with precision and finesse.
-- **Elysian Thoroughbred:** Revered for their unmatched speed and explosive acceleration, Elysian Thoroughbreds are the
-  embodiment of competitive racing. Their moderate endurance is balanced by a sharp, competitive temperament, making
-  them natural sprinters that dominate short to mid-range races.
 - **Mirage Arabians:** Mirage Arabians are characterized by their agility and refined elegance. With a mysterious and
   graceful temperament, they excel in both speed and endurance, making them ideal for races that require both stamina
   and strategy. Their adaptability to desert-like conditions adds to their uniqueness.
@@ -30,17 +24,19 @@ affect offspring attributes and performance.
   high-risk, high-reward racing. Their wild temperament makes them formidable in high-stakes races, where their
   explosive strength and daring spirit lead them to victory in tough and unpredictable conditions.
 
+---
+
 ## Breed Type
 
 Defines the breed of the horse, influencing its advantages or limitations in various race types and conditions.
 Each breed type has unique attributes contributing to racing performance.
 
 - **Purebred:** Horses with a single breed lineage, known for their consistency and specialized traits.
-- **Crossbreed:** A mix of two different breeds, offering a blend of traits from both, potentially creating
+- **Crossbreed:** A mix of two or more different breeds, offering a blend of traits from both, potentially creating
   versatile and adaptable horses.
-- **Hybrid:** Combining features from multiple breeds, hybrids may exhibit rare and unique abilities.
-- **Legendary Breed:** Exceptionally rare breeds with extraordinary attributes and abilities, offering a significant
-  advantage in races.
+- **Legendary Breed:** Exceptionally rare breeds with exclusive traits.
+
+---
 
 ## Gender
 
@@ -56,6 +52,8 @@ influence the genetic traits passed to offspring.
 - **Gelding:** A castrated male horse that cannot breed. Geldings are often used for racing due to their stable
   temperament and performance consistency.
 
+---
+
 ## Coat
 
 The **Coat** trait represents the visual style and texture of the horse’s exterior, with each bloodline having specific
@@ -64,54 +62,45 @@ paired with **Color** to give each horse a unique look.
 
 Below are the **Coat Types** for each bloodline:
 
-- **Celeste Charger**:  
-  The **Celeste Charger** bloodline exhibits these refined coat types, emphasizing elegance and visual appeal:
-    - **Palomino**: A golden coat with light mane and tail, representing grace and nobility.
-    - **White Splash**: A striking white pattern splashed across the horse's coat, adding a visually dramatic element.
+| Bloodline       | Regular | Blue Roan | Buckskin | Cremello | Light Gray | Palomino | Smoky Black | Tobiano | White Splash |
+|-----------------|---------|-----------|----------|----------|------------|----------|-------------|---------|--------------|
+| Tempest Mustang | X       |           |          |          |            | X        | X           |         | X            |
+| Sakura          | X       |           |          | X        | X          |          |             | X       |              |
+| Mirage Arabians | X       |           | X        | X        |            |          |             | X       |              |
+| Mystic Fjord    | X       | X         |          |          |            | X        |             |         | X            |
 
-- **Elysian Thoroughbred**:  
-  Known for their athletic prowess, **Elysian Thoroughbreds** feature these bold and refined coat types:
-    - **Blue Roan**: A mixture of black and white hairs creating a blueish-gray appearance, enhancing their sleek,
-      competitive look.
-    - **Smoky Black**: A dark, almost black coat with a subtle smoky hue, adding to the mystery and power of this breed.
+Here is the redefined **Color** section, now split into two parts: **Coat Color** and **Tail & Mane Color**. This will
+give more distinction and depth to the MetaHoof horse appearance customization.
 
-- **Mirage Arabians**:  
-  Reflecting their desert origins, **Mirage Arabians** feature these rich and vibrant coat types:
-    - **Buckskin**: A tan or cream-colored coat with darker points (mane, tail, and legs), evoking the warm tones of the
-      desert.
-    - **Palomino**: A golden coat paired with a lighter mane and tail, enhancing their noble and radiant look.
+---
 
-- **Mystic Fjord**:  
-  Horses from the **Mystic Fjord** bloodline, bred in cold northern climates, showcase the following coat types:
-    - **Blue Roan**: A cool mixture of black and white hairs that gives the horse a frosty, blueish hue.
-    - **Palomino**: A golden coat that contrasts with their cold environment, adding a touch of elegance and resilience.
+## Coat Color
 
-- **Sakura**:  
-  Inspired by Asiatic beauty and tradition, the **Sakura** bloodline features these symbolic coat types:
-    - **Light Gray**: A soft, muted gray that adds a sense of calm and tradition to the horse’s appearance.
-    - **Tobiano**: A distinctive pattern where white spreads over the horse's body in large, rounded patches,
-      highlighting their cultural heritage.
+The **Coat Color** trait enhances the visual appearance of each horse, adding depth and personality. Each bloodline has
+its own signature coat color sets, with common and rare variants that make the horses stand out within their lineage.
 
-- **Tempest Mustang**:  
-  Known for their wild and untamed nature, **Tempest Mustangs** exhibit these rugged coat types:
-    - **Regular**: A classic, unmarked coat that symbolizes the raw and unrefined nature of the mustang.
-    - **White Splash**: A bold white pattern that appears as if splashed across the horse’s coat, representing the
-      unpredictability of the breed.
+| **Bloodline**       | **Common Coat Colors**                                             | **Rare Coat Colors**          |
+|---------------------|--------------------------------------------------------------------|-------------------------------|
+| **Mirage Arabians** | Buckskin, Golden Brown, Desert Sand, Cream, Mahogany, Palomino     | Amber Gold, Dust Storm        |
+| **Mystic Fjord**    | Blue Roan, Icy White, Frost Gray, Glacier Silver, Pale Blue        | Crystal Ice, Northern Lights  |
+| **Sakura Stallion** | Light Gray, White, Chestnut, Ash Gray, Silver                      | Cherry Blossom Pink, Ivory    |
+| **Tempest Mustang** | Stormy Gray, Regular Brown, Thunder Black, Cloud White, Slate Gray | Tempest Silver, Electric Blue |
 
-## Color
+---
 
-The **Color** trait complements the coat, adding a unique layer of individuality to each horse. Each bloodline has its
-signature color sets, enhancing the coat types and further distinguishing horses within a lineage. Below are the **Color
-** sets for each bloodline:
+## Tail & Mane Color
 
-| **Bloodline**            | **Base Coat Colors**                                                       | **Rare Coat Colors**          | **Mane/Tail Colors**                                |
-|--------------------------|----------------------------------------------------------------------------|-------------------------------|-----------------------------------------------------|
-| **Celeste Charger**      | Palomino, Pearl White, Chestnut, Cream, Silver Gray, Light Brown           | Golden Palomino, Opalescent   | Gold, Pearl White, Chestnut, Light Brown            |
-| **Elysian Thoroughbred** | Blue Roan, Smoky Black, Silver Gray, Midnight Black, Dapple Gray, Chestnut | Obsidian Black, Starry Night  | Silver, Midnight Black, Chestnut, Smoky Gray        |
-| **Mirage Arabians**      | Buckskin, Golden Brown, Desert Sand, Cream, Mahogany, Palomino             | Amber Gold, Dust Storm        | Golden Brown, Mahogany, Desert Sand, Cream          |
-| **Mystic Fjord**         | Blue Roan, Icy White, Frost Gray, Glacier Silver, Pale Blue                | Crystal Ice, Northern Lights  | Icy White, Frost Gray, Glacier Silver, Pale Blue    |
-| **Sakura**               | Light Gray, White, Chestnut, Ash Gray, Silver                              | Cherry Blossom Pink, Ivory    | Ash Gray, Silver, Light Gray                        |
-| **Tempest Mustang**      | Stormy Gray, Regular Brown, Thunder Black, Cloud White, Slate Gray         | Tempest Silver, Electric Blue | Stormy Gray, Thunder Black, Cloud White, Slate Gray |
+The **Tail & Mane Color** trait further complements the coat color, adding another layer of customization. Each
+bloodline's tail and mane colors are inspired by their environment and culture, enhancing their overall appearance.
+
+| **Bloodline**       | **Tail & Mane Colors**                              |
+|---------------------|-----------------------------------------------------|
+| **Mirage Arabians** | Golden Brown, Mahogany, Desert Sand, Cream          |
+| **Mystic Fjord**    | Icy White, Frost Gray, Glacier Silver, Pale Blue    |
+| **Sakura Stallion** | Ash Gray, Silver, Light Gray                        |
+| **Tempest Mustang** | Stormy Gray, Thunder Black, Cloud White, Slate Gray |
+
+---
 
 ## Initial Class Level
 
