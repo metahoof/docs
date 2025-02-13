@@ -1,14 +1,18 @@
 # MetaHoof Documentation
 
-Welcome to the MetaHoof Documentation repository! This repository contains all the necessary information, guides, and resources for developers and users of MetaHoof, the premier digital horse racing game built on the Ultra.io blockchain.
+Welcome to the MetaHoof Documentation repository! This repository contains all the necessary information, guides, and
+resources for developers and users of MetaHoof, the premier digital horse racing game built on the Ultra.io blockchain.
 
 ## Overview
 
-MetaHoof is an innovative digital horse racing game that combines blockchain technology with exciting gameplay. Players can own, breed, and race unique NFT horses, each with its own set of attributes and characteristics. Built on the Ultra.io platform, MetaHoof leverages zero-fee transactions to provide a seamless and gas-free gaming experience.
+MetaHoof is an innovative digital horse racing game that combines blockchain technology with exciting gameplay. Players
+can own, breed, and race unique NFT horses, each with its own set of attributes and characteristics. Built on the
+Ultra.io platform, MetaHoof leverages zero-fee transactions to provide a seamless and gas-free gaming experience.
 
 ## Contributing
 
-We welcome contributions from the community! Please read our [Contributing Guide](CONTRIBUTING.md) to learn how you can help improve MetaHoof.
+We welcome contributions from the community! Please read our [Contributing Guide](CONTRIBUTING.md) to learn how you can
+help improve MetaHoof.
 
 ## License
 
@@ -16,7 +20,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 
 ## Contact
 
-For any questions or support, please reach out to us via our [Discord server](https://discord.gg/UJ59KgS6rK) or [email us](mailto:support@metahoof.com).
+For any questions or support, please reach out to us via our [Discord server](https://discord.gg/UJ59KgS6rK)
+or [email us](mailto:support@metahoof.com).
 
 ## Follow Us
 

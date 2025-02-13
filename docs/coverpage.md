@@ -1,11 +1,10 @@
 ![logo](assets/img/cover.png)
 
-# MetaHoof<small>0.1 (draft)</small>
+# METAHOOF<small>Feb, 2025 v0.2</small>
 
-> Your Ultimate Guide to Digital Horse Racing
+> Experience the future of Horse Racing
 
-- Unleash the Future of Horse Racing
 
-[Read White Paper](/white-paper)
+[Get Started](/whitepaper)
 [Manifesto](/manifesto)
 

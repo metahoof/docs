@@ -25,7 +25,7 @@ blockchain.</h4>
   <a href="/#/manifesto?id=community-commitments">Community Commitments</a> •
 </p>
 
-![logo](assets/img/hero.jpg)
+![logo](assets/img/hero.png)
 
 Welcome to MetaHoof, a revolutionary NFT Digital Horse Racing game built on the [Ultra.io](https://ultra.io/)
 blockchain. Our community is

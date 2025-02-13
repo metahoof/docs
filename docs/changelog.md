@@ -1,4 +1,11 @@
-## v0.1.0
+## v0.2.0 (February, 2025)
 
-- Initial White Paper version
+- Whitepaper Revamp
+- Updated Public Roadmap
+- TBD Game Economy
+
+
+## v0.1.0 (August, 2024)
+
+- Initial Whitepaper version
 - Manifesto
