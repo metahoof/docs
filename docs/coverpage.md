@@ -6,5 +6,5 @@
 
 
 [Get Started](/whitepaper)
-[Manifesto](/manifesto)
+[Go to Website](https://metahoof.com)
 

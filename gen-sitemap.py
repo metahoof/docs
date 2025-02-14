@@ -2,7 +2,7 @@ import datetime
 import os
 
 url = 'https://guide.metahoof.com/#'
-file_path = "./sitemap.xml"
+file_path = "docs/sitemap.xml"
 exclude_files = [
     'coverpage', 'navbar', 'README', 'sidebar',
     'A/README', 'A/Python/README', 'A/Python/sidebar'

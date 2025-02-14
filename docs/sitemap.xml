@@ -2,73 +2,115 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://guide.metahoof.com/#/changelog</loc>
-    <lastmod>2024-08-02</lastmod>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://guide.metahoof.com/#/faq</loc>
+    <lastmod>2024-12-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://guide.metahoof.com/#/manifesto</loc>
-    <lastmod>2024-07-31</lastmod>
+    <lastmod>2025-02-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://guide.metahoof.com/#/white-paper</loc>
-    <lastmod>2024-07-31</lastmod>
+    <loc>https://guide.metahoof.com</loc>
+    <lastmod>2025-02-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://guide.metahoof.com/#/white-paper/traits</loc>
-    <lastmod>2024-08-01</lastmod>
+    <loc>https://guide.metahoof.com/#/sponsorship</loc>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://guide.metahoof.com/#/white-paper/racing</loc>
-    <lastmod>2024-07-31</lastmod>
+    <loc>https://guide.metahoof.com/#/game-economy</loc>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://guide.metahoof.com/#/white-paper/gameplay</loc>
-    <lastmod>2024-08-01</lastmod>
+    <loc>https://guide.metahoof.com/#/racing-mechanics</loc>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://guide.metahoof.com/#/white-paper/community</loc>
-    <lastmod>2024-07-31</lastmod>
+    <loc>https://guide.metahoof.com/#/breed-fees</loc>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://guide.metahoof.com/#/white-paper/introduction</loc>
-    <lastmod>2024-08-01</lastmod>
+    <loc>https://guide.metahoof.com/#/stud</loc>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://guide.metahoof.com/#/white-paper/fees-distributions</loc>
-    <lastmod>2024-08-01</lastmod>
+    <loc>https://guide.metahoof.com/#/breeding</loc>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://guide.metahoof.com/#/white-paper/breeding</loc>
-    <lastmod>2024-08-02</lastmod>
+    <loc>https://guide.metahoof.com/#/roadmap</loc>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://guide.metahoof.com/#/white-paper/roadmap</loc>
-    <lastmod>2024-08-03</lastmod>
+    <loc>https://guide.metahoof.com/#/legal</loc>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://guide.metahoof.com/#/white-paper/economy</loc>
-    <lastmod>2024-08-03</lastmod>
+    <loc>https://guide.metahoof.com/#/uniqs</loc>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://guide.metahoof.com/#/game-overview</loc>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://guide.metahoof.com/#/blockchain-technology</loc>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://guide.metahoof.com/#/monetization</loc>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://guide.metahoof.com/#/team</loc>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://guide.metahoof.com/#/community-governance</loc>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://guide.metahoof.com/#/horses</loc>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

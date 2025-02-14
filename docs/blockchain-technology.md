@@ -17,7 +17,9 @@ and smart contract automation**, removing the need for **third-party control** a
 
 ---
 
-## Ultra.io Blockchain Integration
+## Ultra.io Blockchain
+
+![hero](assets/img/ultra.png)
 
 MetaHoof is fully integrated into the **Ultra.io blockchain**, benefiting from its **scalability, efficiency, and
 ecosystem-wide capabilities**. Ultra’s blockchain ensures:

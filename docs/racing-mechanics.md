@@ -2,6 +2,8 @@
 
 > The Ultimate Test of Strategy, Speed, and Stamina
 
+![race](assets/img/racing.png)
+
 ## 1️⃣ The MetaHoof Racing Experience
 
 MetaHoof introduces players to a **rich and dynamic racing ecosystem**, set in a **futuristic universe** where *

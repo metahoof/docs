@@ -2,6 +2,8 @@
 
 ## What is MetaHoof?
 
+![hero](assets/img/metahoof.png)
+
 MetaHoof is a **next-generation digital horse racing game**, built on the **Ultra.io blockchain**, blending the **thrill of competitive horse racing** with **strategic management and blockchain-powered ownership**.
 
 In MetaHoof, players **own, breed, train, race, and trade** digital horses, each represented as **Non-Fungible Tokens (NFTs)**, ensuring **true ownership, transparency, and scarcity**.
@@ -21,6 +23,8 @@ MetaHoof is more than a game—it’s a **digital horse racing metaverse**, wher
 ---
 
 ## Core Gameplay Mechanics
+
+![hero](assets/img/metahoof_hero.png)
 
 MetaHoof's gameplay is **built around three primary pillars**:
 
