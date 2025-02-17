@@ -1,130 +1,118 @@
 # Breed Fee in MetaHoof <!-- {docsify-ignore} -->
 
-> The Cost of Creating Champions
+> **Ensuring Sustainable Horse Breeding Through a Dynamic Fee Structure**
 
-## 1️⃣ How Breed Fees Are Calculated
+Breeding in **MetaHoof** is not just about combining two horses—it’s a **strategic investment**. To maintain **economic balance, genetic rarity, and competitive value**, breeding requires a **Breeding Fee** that varies based on key factors:
 
-Breeding in MetaHoof comes with **a dynamic fee structure**, ensuring that the **rarity, quality, and lineage** of
-horses are properly valued. The total **Breed Fee** is determined by **three key factors**:
+✔ **Breed Type** → The genetic complexity of the pairing.  
+✔ **Generation** → The rarity and lineage of the offspring.  
+✔ **Class** → The competitive tier of the horses involved.
 
-✅ **Breed Type** → The genetic complexity of the pairing.  
-✅ **Generation** → The rarity and lineage of the offspring.  
-✅ **Class** → The competitive tier of the horses involved.
-
-By combining these factors, MetaHoof ensures **a balanced breeding economy**, rewarding **strategic pairings and
-high-value bloodlines**.
+Breeding Fees act as **a natural supply regulator**, ensuring that higher-quality and rarer offspring **carry a proportional cost** while incentivizing **calculated breeding decisions**.
 
 ---
 
-## 2️⃣ Breed Type & Base Fees
+## **1️⃣ Base Breeding Fees by Generation**
 
-The **Breed Type** determines the **base cost** of breeding, reflecting **genetic predictability, rarity, and bloodline
-stability**.
+Each generation has a **different base breeding cost**, ensuring that earlier generations remain valuable while allowing controlled expansion of new bloodlines.
 
-### 🔹 Breed Type Categories
+| **Generation** | **Base Breeding Fee (USD)** |
+|--------------|------------------|
+| **G1 (Genesis) Mint Price** | **$20** (fixed) |
+| **G2** | **$30** |
+| **G3** | **$25** |
+| **G4+** | **$22** |
 
-| **Breed Type**          | **Description**                                                                                                                                                                                 | **Base Fee** |
-|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
-| **Purebred Breeding**   | Breeding **two horses of the same breed**. This results in **stable and predictable offspring**, making it **the most affordable option**.                                                      | **$10 USD**  |
-| **Crossbreed Breeding** | Breeding **two different breeds**, leading to **increased variability and adaptability**. Due to the **unpredictability of traits**, the cost is slightly higher.                               | **$15 USD**  |
-| **Legendary Breeding**  | Breeding involving **at least one Legendary horse**, which are **rare and highly valuable**. These pairings have **high potential for top-tier offspring**, making them the **most expensive**. | **$50 USD**  |
-
-Breed Type serves as the **foundation for pricing**, ensuring that **more valuable pairings command a higher base fee**.
-
----
-
-## 3️⃣ Generation Multipliers
-
-The **Generation** of the horses being bred further **adjusts the cost**, with **earlier generations (closer to Genesis)
-requiring a higher fee**.
-
-### 🔹 Generation Cost Adjustments
-
-| **Generation**    | **Description**                                                                                                      | **Multiplier**                    |
-|-------------------|----------------------------------------------------------------------------------------------------------------------|-----------------------------------|
-| **G1 (Genesis)**  | **Genesis horses** are **the rarest and most valuable**, commanding the **highest breeding fee**.                    | **x2**                            |
-| **G2 (G1 + G1)**  | The first offspring generation **inherits strong genetic traits**, making them **desirable but slightly less rare**. | **x1.5**                          |
-| **G3 and Beyond** | Later generations maintain value but **gradually decrease in rarity**, reducing breeding costs over time.            | **G3: x1.2, G4: x1.1, G5+: x1.0** |
-
-By **rewarding early-generation breeding**, MetaHoof ensures that **Genesis horses remain high-value assets**, while
-also **encouraging sustainable bloodline development**.
+📌 **Key Takeaways:**
+- **G2 breeding costs more than minting G1**, preventing early mass breeding.
+- **Later generations have slightly lower fees**, making breeding more accessible over time.
+- **This ensures a healthy economy while maintaining rarity.**
 
 ---
 
-## 4️⃣ Class Multipliers
+## **2️⃣ Breed Type Multipliers**
 
-A horse’s **Class (E → A)** represents its **genetic strength, racing potential, and overall breeding value**.
-Higher-class horses are **more desirable**, commanding **higher breeding fees**.
+Breed types **affect the final breeding cost**, based on their genetic complexity and predictability.
 
-### 🔹 Class Cost Adjustments
+| **Breed Type** | **Fee Multiplier** | **Explanation** |
+|--------------|------------|----------------------------------|
+| **Purebred** | **1.2x** | Strong bloodline, predictable traits. |
+| **Crossbreed** | **1.0x** | Balanced, mid-tier breeding. |
+| **Legendary Breed** | **1.5x** | Rare genetics, superior inheritance. |
 
-| **Class**                 | **Description**                                                                                                           | **Multiplier** |
-|---------------------------|---------------------------------------------------------------------------------------------------------------------------|----------------|
-| **Class E (Lowest Tier)** | **Entry-level horses** with basic stats, making their breeding fees **the most affordable**.                              | **x1**         |
-| **Class D**               | A step up from Class E, offering **slightly better traits**.                                                              | **x1.1**       |
-| **Class C**               | **Mid-tier horses** with decent stats, becoming **more desirable for breeding**.                                          | **x1.2**       |
-| **Class B**               | **High-quality horses** with better attributes, making them **premium breeding choices**.                                 | **x1.3**       |
-| **Class A (Top Tier)**    | The **best-performing, genetically superior horses**, leading to **elite offspring** and **commanding the highest fees**. | **x1.5**       |
-
-Class ensures that **breeding elite-tier horses remains a high-value investment**, reinforcing the **importance of
-stable management and competitive racing success**.
+📌 **Key Impact:**
+- **Purebreds pay more** to reflect their **elite, specialized traits**.
+- **Crossbreeds have a neutral fee**, offering a flexible mid-tier option.
+- **Legendary Breeds demand a premium**, ensuring **rarity and competitive value**.
 
 ---
 
-## 5️⃣ Final Breed Fee Calculation
+## **3️⃣ Class-Based Fee Multipliers**
 
-To determine the **total breeding fee**, the following formula is used:
+The **class of the parent horses** affects the **potential racing ability** of the offspring. Fees increase for **higher-class pairings**.
 
-\[
-\text{Total Breed Fee} = (\text{Base Fee}) \times (\text{Generation Multiplier}) \times (\text{Class Multiplier})
-\]
+| **Horse Class** | **Multiplier** | **Reasoning** |
+|--------------|------------|----------------------------------|
+| **Class A** | **2.0x** | Elite racers, high demand. |
+| **Class B** | **1.5x** | Competitive, valuable foals. |
+| **Class C** | **1.2x** | Mid-range, adaptable. |
+| **Class D** | **1.1x** | Entry-level horses. |
+| **Class E** | **1.0x** | Most affordable, common horses. |
 
-### Example Calculations
-
-**📌 Example 1: Breeding Two Class C G3 Crossbreeds**
-
-- **Base Fee (Crossbreed):** $15 USD
-- **Generation Multiplier (G3):** x1.2
-- **Class Multiplier (Class C):** x1.2
-- **Total Fee:** $15 × 1.2 × 1.2 = **$21.60 USD**
-
----
-
-**📌 Example 2: Breeding Two Class A G1 Legendary Horses**
-
-- **Base Fee (Legendary):** $50 USD
-- **Generation Multiplier (G1):** x2
-- **Class Multiplier (Class A):** x1.5
-- **Total Fee:** $50 × 2 × 1.5 = **$150 USD**
+📌 **Key Impact:**
+- **Top-tier horses (Class A, B) require the highest fees** to maintain exclusivity.
+- **Lower-tier classes (D, E) have more accessible fees**, supporting new players.
 
 ---
 
-## 6️⃣ Strategic Considerations for Breeders
+## **4️⃣ Final Breeding Fee Formula**
 
-Breeding in MetaHoof is **not just about pairing any two horses**—it’s about **long-term investment and bloodline
-strategy**.
+### **Total Breeding Fee = Base Fee × Breed Type Multiplier × Class Modifier**
 
-### 🔹 Key Strategies for Cost-Effective Breeding
+📌 **Example Calculations:**
 
-✔ **Maximize Purebred Value** – Lower breeding fees make **Purebred horses cost-effective**, but they lack **Crossbreed
-adaptability bonuses**.  
-✔ **Manage Generations Carefully** – **G1 & G2 horses** command **higher fees** but **offer stronger offspring traits**,
-making them valuable for **elite breeding programs**.  
-✔ **Class-Based Strategy** – **Class A horses are expensive**, but their offspring may **command premium pricing in the
-marketplace**.  
-✔ **Weigh Cost vs. Potential Gains** – Investing in **a higher breeding fee now** may **yield more profitable,
-high-performance foals**.
+1️⃣ **Breeding a Purebred G2 Class A Horse**
+- **Base Cost: $30**
+- **Purebred Modifier: 1.2x**
+- **Class A Modifier: 2.0x**
+- **Final Cost: $30 × 1.2 × 2.0 = $72**
 
-With **the right planning**, breeders can **reduce costs while maximizing genetic advantages**.
+2️⃣ **Breeding a Crossbreed G3 Class C Horse**
+- **Base Cost: $25**
+- **Crossbreed Modifier: 1.0x**
+- **Class C Modifier: 1.2x**
+- **Final Cost: $25 × 1.0 × 1.2 = $30**
+
+3️⃣ **Breeding a Legendary G2 Class B Horse**
+- **Base Cost: $30**
+- **Legendary Modifier: 1.5x**
+- **Class B Modifier: 1.5x**
+- **Final Cost: $30 × 1.5 × 1.5 = $67.50**
+
+---
+
+## **5️⃣ Strategic Benefits of Breeding Fees**
+
+✅ **Encourages Players to Mint G1 Horses** – Since **G1s start cheaper than breeding**, minting remains attractive.  
+✅ **Controls Early Supply Growth** – G2 breeding is **slightly more expensive**, requiring strategic decisions.  
+✅ **Balances Long-Term Economy** – Later generations **become more affordable**, but elite bloodlines remain premium.  
+✅ **Creates a Strong Marketplace** – Higher-class horses remain **valuable**, while lower-class breeds **stay accessible**.
 
 ---
 
-## 7️⃣ Key Takeaways
+## **6️⃣ Future Enhancements: Dynamic Breeding Fees**
 
-✔ **Breed Fee is determined by Breed Type, Generation, and Class, ensuring fair pricing across all levels of breeding.**  
-✔ **Higher-value horses (Genesis, Legendary, and Class A) require premium breeding fees to maintain scarcity and
-desirability.**  
-✔ **Multipliers ensure that breeding rare and powerful horses remains a strategic, long-term investment.**  
-✔ **Proper bloodline management allows players to balance breeding costs with competitive and economic advantages.**
+MetaHoof may introduce **adaptive breeding fees**, adjusting costs based on **market conditions**:  
+✔ **Seasonal Discounts & Events** – Limited-time breeding fee reductions.  
+✔ **Market-Driven Adjustments** – Fees increase/decrease based on supply-demand trends.  
+✔ **Fee Reduction Items** – Special NFTs that **temporarily lower breeding costs**.
+
+This ensures a **dynamic, player-driven breeding economy**, keeping the market fluid and engaging.
 
 ---
+
+### **Conclusion**
+
+Breeding Fees in MetaHoof are designed to **balance rarity, market sustainability, and accessibility**. By factoring in **Breed Type, Generation, and Class**, the system ensures that every breeding decision carries **economic weight and strategic depth**.
+
+This approach creates a **thriving marketplace**, where both elite breeders and casual players **find opportunities to succeed**. 🚀  

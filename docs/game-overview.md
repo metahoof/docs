@@ -58,16 +58,16 @@ Players can create and assign **custom race strategies**, determining how a hors
 
 🔹 **Stamina Management** → Choose between **aggressive, balanced, or passive** energy usage.  
 🔹 **Tactical Approach** → Select **aggressive early bursts, steady pacing, or late-race surges**.  
-🔹 **Ability Selection** → Optimize **horse abilities** (e.g., sprint boosts, endurance recovery).
 
 Once a strategy is assigned, **the horse executes it automatically** during the race—**no real-time adjustments** are allowed.
 
 #### 📌 Track Surfaces & Environmental Factors
+
 Different **track surfaces** impact racing conditions, requiring players to **choose the right horse for the right race**.
 
 🏇 **Dirt Track** → **Classic racing surface**, rewards **powerful acceleration & stamina management**.  
 🌱 **NanoTurf** → **Synthetic surface**, adapts to horse agility, reducing **energy loss** in long races.  
-⚡ **ElectroGrid** → **High-tech track**, featuring **electrically charged zones** that impact performance.
+⚡ **ElectroGrid** → **High-tech electrified track**, enhances burst speed & reaction time, favoring quick starters and tactical sprinters.
 
 Weather conditions, such as **Neon Fog, ElectroStorms, and Thermal Waves**, further **alter racing dynamics**, rewarding **adaptability and strategic preparation**.
 
@@ -100,8 +100,8 @@ Managing a stable requires **smart planning**, ensuring horses remain in **peak 
 Horses require **structured training** to **optimize race strategies** and maintain **high fitness levels**.
 
 🏋 **Fitness Level** → Improved by **Trainer NFTs**, ensuring **long-term race consistency**.  
-🎯 **Trainer Contracts** → **Specialized trainers** provide **race-specific advantages**.  
-📝 **Race Strategy Presets** → Customizable plans, defining **stamina usage, tactical approach, and abilities**.
+🎯 **Trainer Contracts** → Required for training sessions, enabling better fitness management and providing race-specific advantages through specialized coaching.  
+📝 **Race Strategy Presets** → Customizable plans, defining **stamina usage and tactical approach**.
 
 Maintaining **high fitness levels** enhances **race performance**, ensuring **horses remain competitive** across multiple events.
 

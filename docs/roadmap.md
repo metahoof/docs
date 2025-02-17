@@ -9,13 +9,17 @@ Our roadmap provides **transparency** on completed milestones, current developme
 
 ### 2024: Foundation Phase
 
-✅ **Smart Contract Development** – Core blockchain infrastructure and smart contracts deployed to **Ultra’s testnet**.  
+✅ **Smart Contract Development** – Core blockchain infrastructure and smart contracts deployed to **Ultra’s testnet**.
+
 ✅ **dApp Main Mechanics** – Development of key gameplay components, including the **breeding system, race registration,
-and stable management**.  
+and stable management**.
+
 ✅ **3D Horse Modeling** – High-fidelity **horse models, animations, and visual enhancements** designed for an immersive
-racing experience.  
+racing experience.
+
 ✅ **AI-Powered Race Engine** – Advanced **AI simulation** that dynamically **calculates race outcomes** based on **horse
-stats, traits, track conditions, and strategy variables**.  
+stats, traits, track conditions, and strategy variables**.
+
 ✅ **Horse Metadata Specification** – Definition of **on-chain attributes** for **horses, bloodlines, genetics, and
 breeding mechanics** within the Ultra ecosystem.
 
@@ -27,21 +31,25 @@ breeding mechanics** within the Ultra ecosystem.
 
 ✅ **Updated Whitepaper** – A revised version of the **whitepaper**, incorporating game mechanics, economy, and
 tokenization updates.
+
 ✅ **Business Registration** – **ANP Labs officially registered MetaHoof as a business entity**, ensuring regulatory
 compliance.
-🔄 **Closed Testnet Trials** – MetaHoof opens for **select Closed Tests on Testnet**, beginning in **late February 2025
-**, divided into multiple phases.
+
+🔄 **Closed Testnet Trials** – MetaHoof opens for **select Closed Tests on Testnet**, beginning in **late February 2025**, divided into multiple phases.
 
 ### Q2 2025
 
 🔄 **Increase Audience & Community Growth** – Focused efforts to **expand the MetaHoof audience** through **marketing,
-partnerships, and early-access initiatives**.  
+partnerships, and early-access initiatives**.
+
 🔄 **Publish MetaHoof Uniq Factories to Mainnet** – Deployment of **core Uniq Factories**, enabling **full NFT minting
 capabilities** for in-game assets.
-🔄 **Genesis Horses Launch** – Release of **Genesis Horses**, marking the **first-ever breedable generation in MetaHoof
-**.  
+
+🔄 **Genesis Horses Launch** – Release of **Genesis Horses**, marking the **first-ever breedable generation in MetaHoof**.
+
 🔄 **Beta Testnet (Community Trials)** – Open Beta test phase allowing **wider player base access** to **stress-test
 races, economy, and breeding mechanics** before Mainnet launch.
+
 ---
 
 ## Upcoming Milestones
@@ -49,9 +57,11 @@ races, economy, and breeding mechanics** before Mainnet launch.
 ### Q3 2025
 
 🚀 **Stable Addons & Lands** – Expansion of **stable customization options**, including **badges, banners, and land
-ownership mechanics**.  
+ownership mechanics**.
+
 🚀 **Ultra SSO Integration** – Seamless **single sign-on (SSO) integration with Ultra**, enhancing **user experience and
 wallet accessibility**.
+
 🏆 **Seasonal Tournaments & Leaderboard Championships** – Launch **high-stakes tournament formats, sponsored races, and
 competitive seasonal events with exclusive rewards**.
 
@@ -59,12 +69,16 @@ competitive seasonal events with exclusive rewards**.
 
 🎲 **Integrate Ultra RNG** – Implement **Ultra’s Random Number Generator (RNG)** to enhance **race fairness and
 unpredictability**, ensuring **provably fair results** for all races.
+
 💰 **MetaHoof Staking Program** – Launch of **staking mechanics**, allowing players to **stake assets for ecosystem
-rewards**.  
+rewards**.
+
 🏇 **Race Clubs & Team Competitions** – Introduce **player-managed racing syndicates**, allowing teams to **enter
 exclusive club tournaments, share resources, and create unique branding**.
-📱 **MetaHoof Cloud Wallets** *(Rename if needed)* – Introduction of **Ultra-powered cloud wallets**, ensuring **secure
-and user-friendly asset management**.  
+
+📱 **MetaHoof Cloud Wallets** – Introduction of **Ultra-powered cloud wallets**, ensuring **secure
+and user-friendly asset management**.
+
 📱 **Mobile App Development** – Begin work on a **MetaHoof mobile app**, bringing the game experience to **iOS and
 Android**.
 

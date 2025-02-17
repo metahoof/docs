@@ -46,14 +46,47 @@ A horse’s **bloodline influences its natural racing style** and **genetic inhe
 
 ### 🔹 Breed Type: The Genetic Blueprint
 
-A horse’s **breed type** determines how its **traits evolve** and how it interacts with **breeding mechanics**.
+A horse’s **breed type** defines its **genetic foundation**, influencing **breeding outcomes, rarity, and market value**. While **breed type does not impact race stats directly**, it plays a crucial role in **how traits are inherited** and the **rarity** of offspring.
 
-- **Purebred** → Horses of a single breed lineage, offering **consistent, predictable traits**.
-- **Crossbreed** → A mix of two or more breeds, creating **versatile, hybrid traits**.
-- **Legendary Breed** → **Exceptionally rare**, only possible from **Genesis horses** of the **same bloodline**,
-  carrying **exclusive advantages**.
+#### 🏇 **Breed Types & Their Characteristics**
 
-**Breed type does not impact race stats**, but it **affects breeding results**, **rarity**, and **market value**.
+- **Purebred** → Horses from a **single breed lineage**, ensuring **consistent and predictable traits**.
+- **Crossbreed** → A blend of two or more breeds, leading to **hybrid traits**, which can be versatile but less predictable.
+- **Legendary Breed** → **Exceptionally rare**, these horses are only attainable through **specific breeding rules**, carrying **exclusive genetic advantages** that set them apart.
+
+#### 🔀 **Breeding Combinations & Legendary Eligibility**
+
+Breeding outcomes depend on the **parental breed types**:
+
+✅ **Possible Combinations**:
+- **Legendary × Legendary** → Can produce another **Legendary**.
+- **Legendary × Purebred** → Could produce a **Legendary**.
+- **Legendary × Crossbreed** → Could produce a **Legendary**.
+- **Purebred × Purebred** → Could produce a **Legendary**.
+
+❌ **Not Possible**:
+- **Crossbreed × Crossbreed** → Cannot result in a **Legendary** or **Purebred**.
+- **Purebred × Crossbreed** → Cannot result in a **Legendary** or **Purebred**.
+
+Understanding **breed types and their inheritance rules** is essential for **strategic breeding**, ensuring the best genetic outcomes for competitive racing or increasing a horse’s rarity and market value.
+
+#### 🏆 Why Own a Legendary Horse?
+
+Owning a **Legendary horse** provides **significant advantages**, making them highly **valuable in breeding, longevity, and visual appeal**:
+
+🔹 **Superior Breeding Potential**
+- When used in **breeding**, a **Legendary** ensures a **minimum quality threshold** for the offspring's genetics.
+- They help **preserve elite bloodlines** and increase the **chances of inheriting strong traits**.
+
+🔹 **Enhanced Longevity**
+- Due to their **prime genetics**, **Legendary horses** have a **longer career span**, maintaining peak performance for more races compared to other breeds.
+- Their **durability** makes them a more sustainable choice for **long-term breeding and racing strategies**.
+
+🔹 **Exclusive Visual Characteristics**
+- **Legendary horses** feature **unique and rare visual traits**, such as **special inscriptions**, distinct **coat patterns**, and exclusive **mane and tail colors**.
+- These exclusive visuals make them **highly sought after in the market**, increasing their **collector and resale value**.
+
+**Legendary horses are a true symbol of prestige**, offering a mix of **genetic superiority, longevity, and unique aesthetics** that set them apart from all other breed types.
 
 ---
 
@@ -80,8 +113,7 @@ While **cosmetic traits do not affect race performance**, they **impact rarity a
 
 ### 🔹 Initial Class Level: The Starting Point of Every Horse
 
-Every horse in MetaHoof **starts in a class based on its genetic background**, **race performance history**, and *
-*breeding lineage**. The class system ensures **fair matchmaking** and **balanced competition**, preventing high-level
+Every horse in MetaHoof **starts in a class based on its genetic background**, **race performance history**, and **breeding lineage**. The class system ensures **fair matchmaking** and **balanced competition**, preventing high-level
 horses from overpowering beginners.
 
 ---

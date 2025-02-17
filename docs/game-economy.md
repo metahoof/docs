@@ -55,7 +55,7 @@ Racing is at the **core of the economy**, allowing players to earn **$UOS, NFTs,
 - **XP Progression** → Horses earn XP **based on performance**, influencing **class advancement & eligibility for higher-tier races**.
 - **Stable Reputation Points** → Awarded to stables based on **race results, sponsorships, and seasonal leaderboards**.
 
-> **Example:** In a **Top 3 payout format**, a **1,000 $UOS** prize pool may be split as:
+> **Example:** In a **Top 3 payout format**, a **1,000 $UOS** prize pool may be split as: 
 > - 🥇 **1st Place** → 50% (500 $UOS)
 > - 🥈 **2nd Place** → 30% (300 $UOS)
 > - 🥉 **3rd Place** → 20% (200 $UOS)
@@ -88,9 +88,9 @@ Breeding fees are determined by:
 - **Minimum Stud Fees** prevent underpricing & maintain market value.
 
 > **Example Stud Fee Pricing (Base Minimums)**
-> - **Class E Stallion** → 5 $UOS per breeding
-> - **Class C Stallion** → 20 $UOS per breeding
-> - **Class A Stallion** → 75 $UOS per breeding
+> - **Class E-D Stallion** → 5 $USD per breeding
+> - **Class C-B Stallion** → 20 $USD per breeding
+> - **Class A Stallion** → 50 $USD per breeding
 
 ---
 
