@@ -93,17 +93,66 @@ Players select **two horses**, applying **genetics-based rules** to create a **f
 
 Each new foal is **a strategic investment**, with **traits, training potential, and race viability** shaping **its future value**.
 
-### 3️⃣ Stable Management: Training, Fitness & Energy
-Managing a stable requires **smart planning**, ensuring horses remain in **peak racing condition**.
+### 3️⃣ Stable Management: Training, Fitness & Growth
+
+Managing a stable is about **smart planning** and ensuring horses stay in **peak racing condition** across all aspects of their journey—training, fitness, racing, and breeding.
+
+#### 📌 Horse Management
+
+At the core of a successful stable is the management of each individual horse. Every horse is unique, with its own **traits**, **XP progress**, **race history**, and specialized needs. Proper management helps ensure that each horse reaches its full potential.
+
+- **Horse Overview**: Each horse has a profile displaying key details like **breed**, **generation**, **class**, **traits**, **XP progress**, **race strategies**, and any **special items** attached.
+
+- **Horse Care and Maintenance**: Horses require **regular attention** to perform at their best. This includes:
+    - **Resting**: Horses need recovery time between races to avoid **fatigue** and burnout.
+    - **Training**: Consistent training helps improve stats and ensures horses continue to **level up**, preparing them for future races.
 
 #### 📌 Training Center & Race Strategy Management
-Horses require **structured training** to **optimize race strategies** and maintain **high fitness levels**.
+
+The **Training Center** is where horses undergo skill enhancement and strategic preparation for races. Proper training can make the difference between victory and defeat, and race strategies allow players to maximize each horse’s strengths.
 
 🏋 **Fitness Level** → Improved by **Trainer NFTs**, ensuring **long-term race consistency**.  
-🎯 **Trainer Contracts** → Required for training sessions, enabling better fitness management and providing race-specific advantages through specialized coaching.  
-📝 **Race Strategy Presets** → Customizable plans, defining **stamina usage and tactical approach**.
+🎯 **Trainer Contracts** → Required for training sessions, **ensuring optimal fitness management** and preparing horses for race conditions.  
+📝 **Race Strategy Presets** → Customizable plans, defining **stamina usage** and **tactical approach**, including speed bursts and race pacing.
 
-Maintaining **high fitness levels** enhances **race performance**, ensuring **horses remain competitive** across multiple events.
+Maintaining **high fitness levels** ensures **consistent race performance**, keeping your horses competitive across multiple events.
+
+#### 📌 Stable Slots: Expand & Optimize Your Roster
+
+**Stable Slots** are a critical element in the growth and success of your stable. They determine how many horses you can house, train, race, and breed. Expanding your slots allows for more flexibility and strategic growth.
+
+🔓 **Initial Slot Limit** → Players begin with a **set number of slots**, requiring **strategic decisions** about which horses to prioritize for racing or breeding.  
+🔧 **Slot Upgrades** → Unlock additional slots through **Stable Reputation** or by completing **specific milestones** in races or breeding.  
+💸 **Purchasing Additional Slots** → Players can buy **extra slots** using in-game currency or special offers, providing faster stable expansion.
+
+With more slots, players can **breed** more horses while still maintaining a competitive **racing lineup**, allowing for greater overall growth.
+
+#### 📌 Breeding Management
+
+Breeding is a fundamental aspect of stable growth, allowing players to produce new horses with superior genetics. Managing breeding effectively is essential for creating the next generation of **elite racehorses**.
+
+- **Manage Breeding**: Players can access the **Breed License Factory** to pair horses for breeding. Considerations include **Breed Type**, **Class**, and **Breed Licenses**.
+- **Track Bloodlines**: Understanding your horses' **bloodlines** is key to strategic breeding. Focus on high-performance pedigrees to ensure strong offspring that can compete at the highest levels.
+
+By breeding carefully, players can **optimize bloodlines** to create stronger, more competitive horses, ensuring long-term success in both breeding and racing.
+
+#### 📌 Stable Reputation
+
+A stable’s **reputation** reflects its overall success in racing and breeding. Reputation points are awarded based on race performance, breeding achievements, and overall stable management. A high reputation opens doors to exclusive rewards and higher-stakes events.
+
+🏆 **Race Performance** → Winning races, particularly **sponsored** and **high-profile events**, increases your stable’s reputation.  
+📊 **Season Leaderboards** → Reputation points contribute to your standing in the **Season Leaderboards**, where the top-performing stables are recognized and rewarded.  
+🎖 **Reputation Rewards** → High reputation unlocks exclusive rewards like **Legendary Breed horses**, **special training items**, and access to **VIP-only events**.
+
+A strong reputation offers both **competitive advantages** and **unique in-game perks**, reinforcing the importance of consistent performance across all stable management areas.
+
+#### 📌 Summary of Stable Management
+
+A well-managed stable requires a balance of strategic elements—**horse care**, **training**, **breeding**, and **reputation**. By prioritizing horses' fitness, expanding your stable slots, and making smart breeding decisions, you ensure long-term success and competitiveness.
+
+Each aspect of stable management is intertwined. Proper training and fitness lead to better race results, which increases your **Stable Reputation**, unlocking additional **Stable Slots** and more **breeding opportunities**. Over time, careful management will allow you to grow your stable into a powerhouse, driving success both in races and through breeding elite horses.
+
+---
 
 ### 4️⃣ Economy & Marketplace: Play-to-Earn & Asset Trading
 MetaHoof is **fully integrated into the Ultra.io ecosystem**, ensuring **a robust, blockchain-powered economy**.

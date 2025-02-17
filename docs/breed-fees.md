@@ -16,12 +16,12 @@ Breeding Fees act as **a natural supply regulator**, ensuring that higher-qualit
 
 Each generation has a **different base breeding cost**, ensuring that earlier generations remain valuable while allowing controlled expansion of new bloodlines.
 
-| **Generation** | **Base Breeding Fee (USD)** |
-|--------------|------------------|
-| **G1 (Genesis) Mint Price** | **$20** (fixed) |
-| **G2** | **$30** |
-| **G3** | **$25** |
-| **G4+** | **$22** |
+| **Generation**              | **Base Breeding Fee (USD)** |
+|-----------------------------|-----------------------------|
+| **G1 (Genesis) Mint Price** | **$20** (fixed)             |
+| **G2**                      | **$30**                     |
+| **G3**                      | **$25**                     |
+| **G4+**                     | **$22**                     |
 
 📌 **Key Takeaways:**
 - **G2 breeding costs more than minting G1**, preventing early mass breeding.

@@ -7,8 +7,7 @@
 Breeding is one of the **most strategic and rewarding mechanics** in MetaHoof, allowing players to create **new
 generations of racehorses** with inherited traits, unique bloodlines, and competitive advantages.
 
-By carefully selecting parent horses, managing breed licenses, and understanding genetic probabilities, players can *
-*optimize their stable for long-term success**—whether by producing elite racers, valuable marketplace assets, or
+By carefully selecting parent horses, managing breed licenses, and understanding genetic probabilities, players can **optimize their stable for long-term success**—whether by producing elite racers, valuable marketplace assets, or
 specialized breeding bloodlines.
 
 Breeding in MetaHoof is not just about **creating more horses**—it's about **building a legacy of champions**.
@@ -95,11 +94,12 @@ selection can refine a horse’s strengths over generations**.
 When breeding, a foal inherits a **combination of traits** from both parents, with some attributes influenced by **dominant-recessive probabilities**. This means **genetic advantages can carry over or evolve across multiple generations**.
 
 #### **Core Inherited Traits:**
+
 1. **Speed** – Determines **acceleration and peak velocity**.
-2. **Stamina** – Affects **endurance over long distances**.
-3. **Agility** – Governs how well the horse **handles turns and obstacles**.
+2. **Endurance** – Affects **endurance over long distances**.
+3. **Agility** – Governs how well the horse **navigates varying race conditions and adjusts to changing speeds during the race**.
 4. **Temperament** – Influences **race strategy effectiveness**.
-5. **Hidden Genetic Traits** – Occasionally, foals **inherit rare or mutated abilities**, adding an **element of surprise and uniqueness** to bloodline progression.
+5. **Breeding Potential** - Indicates the genetic quality and capacity of a horse to produce offspring with superior traits. A horse with a higher Breeding Potential has a greater chance of passing down desirable attributes such as speed, stamina, and agility to its offspring, resulting in better race performance.
 
 ---
 
