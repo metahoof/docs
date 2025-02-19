@@ -29,11 +29,11 @@ breeding mechanics** within the Ultra ecosystem.
 
 ### Q1 2025
 
-✅ **Updated Whitepaper** – A revised version of the **whitepaper**, incorporating game mechanics, economy, and
-tokenization updates.
-
 ✅ **Business Registration** – **ANP Labs officially registered MetaHoof as a business entity**, ensuring regulatory
 compliance.
+
+🔄 **Updated Whitepaper** – A revised version of the **whitepaper**, incorporating game mechanics, economy, and
+tokenization updates.
 
 🔄 **Closed Testnet Trials** – MetaHoof opens for **select Closed Tests on Testnet**, beginning in **late February 2025**, divided into multiple phases.
 
@@ -42,12 +42,12 @@ compliance.
 🔄 **Increase Audience & Community Growth** – Focused efforts to **expand the MetaHoof audience** through **marketing,
 partnerships, and early-access initiatives**.
 
-🔄 **Publish MetaHoof Uniq Factories to Mainnet** – Deployment of **core Uniq Factories**, enabling **full NFT minting
+🔄 **Publish MetaHoof Uniq Factories on Mainnet** – Deployment of **core Uniq Factories**, enabling **full NFT minting
 capabilities** for in-game assets.
 
-🔄 **Genesis Horses Launch** – Release of **Genesis Horses**, marking the **first-ever breedable generation in MetaHoof**.
+🔄 **Launch Genesis Horses** – Release of **Genesis Horses**, marking the **first-ever breedable generation in MetaHoof**.
 
-🔄 **Beta Testnet (Community Trials)** – Open Beta test phase allowing **wider player base access** to **stress-test
+🔄 **Open Beta Testnet (Community Trials)** – Open Beta test phase allowing **wider player base access** to **stress-test
 races, economy, and breeding mechanics** before Mainnet launch.
 
 ---
@@ -56,14 +56,14 @@ races, economy, and breeding mechanics** before Mainnet launch.
 
 ### Q3 2025
 
-🚀 **Stable Addons & Lands** – Expansion of **stable customization options**, including **badges, banners, and land
-ownership mechanics**.
+🚀 **Launch of Season 1** – The official start of **MetaHoof’s first full competitive season**, featuring a **structured seasonal format, progressive leaderboards, and exclusive in-game events**.
 
-🚀 **Ultra SSO Integration** – Seamless **single sign-on (SSO) integration with Ultra**, enhancing **user experience and
-wallet accessibility**.
+🎟️ **Full Season Pass & Rewards** – Introduction of a **comprehensive Season Pass system**, allowing players to unlock **exclusive rewards, unique NFTs, and special in-game bonuses** by participating in races and completing seasonal challenges.
 
-🏆 **Seasonal Tournaments & Leaderboard Championships** – Launch **high-stakes tournament formats, sponsored races, and
-competitive seasonal events with exclusive rewards**.
+🏡 **Stable Addons & Lands Expansion** – Enhanced **stable customization options**, including **badges, banners, and land ownership features**, giving players more ways to personalize their stables and establish their legacy.
+
+🏆 **Seasonal Tournaments & Leaderboard Championships** – Launch of **high-stakes tournament formats, sponsored races, and competitive seasonal leaderboards**. Players can **compete for top rankings, earn premium rewards, and secure their place in MetaHoof history**.
+
 
 ### Q4 2025
 
@@ -72,9 +72,6 @@ unpredictability**, ensuring **provably fair results** for all races.
 
 💰 **MetaHoof Staking Program** – Launch of **staking mechanics**, allowing players to **stake assets for ecosystem
 rewards**.
-
-🏇 **Race Clubs & Team Competitions** – Introduce **player-managed racing syndicates**, allowing teams to **enter
-exclusive club tournaments, share resources, and create unique branding**.
 
 📱 **MetaHoof Cloud Wallets** – Introduction of **Ultra-powered cloud wallets**, ensuring **secure
 and user-friendly asset management**.
@@ -87,9 +84,6 @@ Android**.
 
 ## Future Milestones (TBD)
 
-🎥 **Race Replay & Spectator Mode** – Introduce **live-streamed races and replay features**, allowing players to **review
-race outcomes, strategize, and share highlights**.
-
 🔗 **Ultra Ecosystem Expansion** – Explore **cross-platform NFT utility** and potential **Ultra-powered collaborations**
 with other blockchain games.
 
@@ -98,6 +92,9 @@ unique race rules, and exclusive entry conditions**.
 
 📢 **Expanded Sponsorship & Brand Collaborations** – Secure **strategic sponsorships** for **exclusive race events, NFT
 collaborations, and marketing growth**.
+
+🏇 **Race Clubs & Team Competitions** – Introduce **player-managed racing syndicates**, allowing teams to **enter
+exclusive club tournaments, share resources, and create unique branding**.
 
 ---
 
