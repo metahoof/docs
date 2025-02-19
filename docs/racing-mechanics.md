@@ -96,10 +96,10 @@ environmental conditions**.
 
 **1️⃣ Horse Traits & Genetics**  
 Each horse possesses **unique, inheritable traits**:  
-🏎 **Speed** → Acceleration and top-speed ability (**critical for sprint races**).  
-🏋 **Stamina** → Sustains speed over long distances (**crucial for endurance races**).  
-⚡ **Agility** → Impacts a horse’s ability to **navigate track obstacles and adapt to weather**.  
-🎯 **Adaptability** → Determines **how well a horse adjusts to unexpected race conditions**.
+🏎 **Speed** → Top speed potential, determines how fast a horse can go.  
+🏋 **Endurance** → Determines how long a horse can sustain its peak performance before slowing down..  
+⚡ **Agility** → Affects how well a horse handles tight turns, dodges obstacles, and adapts to track conditions.  
+🍀 **Temperament** → Governs unpredictability, consistency, and reaction to in-race events. Higher temperament means more controlled behavior.
 
 **2️⃣ XP Leveling & Performance Growth**  
 🔹 **XP Levels** → As horses **race and earn XP**, they **level up**, improving **their base stats**.  
