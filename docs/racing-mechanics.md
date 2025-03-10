@@ -145,12 +145,12 @@ Every MetaHoof race offers **real value**, with **UOS-based prize pools, XP rewa
 
 ### 🏆 Example Prize Distribution
 
-| **Format** | **1st Place** | **2nd Place** | **3rd Place** | **4th - 6th** |
-|------------|---------------|---------------|---------------|---------------|
-| WTA        | **100%**      | -             | -             | -             |
-| Top 2      | **60%**       | **40%**       | -             | -             |
-| Top 3      | **50%**       | **30%**       | **20%**       | -             |
-| Top 6      | **30%**       | **20%**       | **15%**       | **10% Each**  |
+| Race Type | 1st Place | 2nd Place | 3rd Place | 4th Place | 5th Place | 6th Place |
+|-----------|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
+| **WTA**   | 100%      | -         | -         | -         | -         | -         |
+| **TOP2**  | 70%       | 30%       | -         | -         | -         | -         |
+| **TOP3**  | 50%       | 30%       | 20%       | -         | -         | -         |
+| **TOP6**  | 40%       | 25%       | 15%       | 10%       | 6%        | 4%        |
 
 ✔ **XP & Progression** – Even **non-winning horses** earn XP, ensuring **steady progression**.  
 ✔ **Race Entry Fees** – Certain races **require buy-ins**, increasing **prize pool value**.  
@@ -173,5 +173,3 @@ MetaHoof features **a community-driven prize structure**, ensuring that **player
 ✔ **No Entry Fee** → Community-funded **prizes ensure accessible competitions**.  
 ✔ **Massive Payouts** → **Enhanced prize pools** encourage top-tier racing.  
 ✔ **Event Transparency** → **Publicly viewable funding ensures fairness**.
-
----

@@ -1,5 +1,5 @@
 - **Whitepaper**
-- [Introduction](whitepaper "MetaHoof | The Whitepaper - Welcome to the Future of Digital Horse Racing")
+- [Introduction](whitepaper.md "MetaHoof | The Whitepaper - Welcome to the Future of Digital Horse Racing")
 - [Game Overview](game-overview.md "MetaHoof | The Whitepaper - Core Mechanics & Player Experience")
 - [Blockchain & Technology](blockchain-technology.md "MetaHoof | The Whitepaper - Ultra.io Integration & Blockchain Infrastructure")
 - [Game Economy & Tokenomics](game-economy.md "MetaHoof | The Whitepaper - Economy, Rewards & Tokenomics")

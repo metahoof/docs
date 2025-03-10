@@ -163,5 +163,3 @@ MetaHoof is **fully integrated into the Ultra.io ecosystem**, ensuring **a robus
 🔹 **Participate in Exclusive Tournaments** for **high-reward competitions**.
 
 MetaHoof combines **blockchain security, decentralized ownership, and economic sustainability**, making it **a true Play-to-Earn experience**.
-
----

@@ -1,6 +1,6 @@
-# Introduction <!-- {docsify-ignore} -->
-
 ![hero](assets/img/hero.png)
+
+# Introduction <!-- {docsify-ignore} -->
 
 **MetaHoof** is an exclusive digital horse racing game that brings the thrill of traditional horse racing into the modern
 age with the power of blockchain technology. Built on the **[Ultra.io](https://ultra.io) blockchain**, MetaHoof creates

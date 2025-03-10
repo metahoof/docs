@@ -188,5 +188,3 @@ performance over time**.
 
 Now that we understand **horse traits, classes, and progression**, the next section will explore **Breeding & Genetic
 Mechanics**, where we dive into **how bloodlines, breeding licenses, and offspring inheritance work**.
-
----

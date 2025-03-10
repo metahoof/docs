@@ -293,5 +293,3 @@ Each Uniq serves a **specific role**, whether it's for **racing, breeding, train
     - **ADS-Only License** 📢 (Standard ad options).
 
 📌 **Utility**: **Enables sponsorship monetization for businesses**.
-
----

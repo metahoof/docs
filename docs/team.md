@@ -75,5 +75,3 @@ As a **registered entity in Brazil**, **ANP Labs** is responsible for **MetaHoof
 - **Dispute Resolution** → ANP Labs handles **any legal disputes**, ensuring **fair resolution** in accordance with Brazilian business laws.
 
 With **a strong leadership team and Ultra’s cutting-edge blockchain**, MetaHoof is **poised to redefine blockchain gaming**, delivering a **fair, transparent, and community-driven horse racing experience**.
-
----

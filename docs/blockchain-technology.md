@@ -102,8 +102,7 @@ or centralized control**.
 MetaHoof operates **within the Ultra Ecosystem**, allowing players to earn **multiple token rewards**.
 
 💰 **$UOS** → Used for **racing fees, breeding costs, Ultra Marketplace transactions, and trading assets**.  
-🌟 **MetaHoof Token (Future Implementation)** → A potential **game-specific token** designed for **exclusive in-game
-mechanics**.
+🌟 **MetaHoof Token (Future Implementation)** → A potential **game-specific token** designed for **exclusive in-game mechanics**.
 
 #### Planned Utility for MetaHoof Token:
 
@@ -142,5 +141,3 @@ decisions**.
 
 By continuously evolving, MetaHoof **leverages blockchain for long-term success**, ensuring **a fair, secure, and
 future-proof ecosystem**.
-
----

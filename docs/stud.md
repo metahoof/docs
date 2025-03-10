@@ -135,5 +135,3 @@ economy**.
 
 With a **controlled minimum pricing system** and **flexible fee structures**, stud offers **stabilize the breeding
 market while rewarding both breeders and stallion owners**.
-
----

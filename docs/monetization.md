@@ -161,5 +161,3 @@ Key sustainability principles include:
 - **Sustainable game growth** – A portion of revenue funds **new features, tournaments, and future expansions**.
 
 MetaHoof ensures that **all monetization elements align with player engagement and long-term ecosystem growth**, creating a fair, transparent, and rewarding experience.
-
----

@@ -148,5 +148,3 @@ To maintain a **long-term, sustainable economy**, MetaHoof employs:
 MetaHoof's **economy is designed to be sustainable, engaging, and rewarding** for both **competitive players and strategic traders**. Through **racing, breeding, sponsorships, and marketplace trading**, players have **diverse revenue streams**, while **Ultra’s blockchain ensures transparency & security**.
 
 🚀 **Race, breed, trade, and grow your stable in MetaHoof’s evolving digital economy!** 🚀
-
----

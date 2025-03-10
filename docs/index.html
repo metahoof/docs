@@ -54,7 +54,7 @@
     maxLevel: 0,
     // Set subMaxLevel to 0 to remove automatic display of page table of contents (TOC) in Sidebar
     subMaxLevel: 3,
-
+    routerMode: 'history',
     // Search Plugin Configuration
     search: {
       placeholder: 'Type to search',
@@ -64,6 +64,12 @@
     },
     githubEditLink: {
       repo: 'https://github.com/metahoof/docs',
+    },
+    pagination: {
+      previousText: 'Previous',
+      nextText: 'Next',
+      crossChapter: true,
+      crossChapterText: true,
     },
   };
 </script>
@@ -92,6 +98,7 @@
 <!-- Plugins -->
 <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+<script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
 <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>

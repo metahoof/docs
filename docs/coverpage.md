@@ -4,7 +4,6 @@
 
 > Experience the future of Horse Racing
 
-
 [Get Started](/whitepaper)
 [Go to Website](https://metahoof.com)
 

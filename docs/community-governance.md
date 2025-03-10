@@ -126,5 +126,3 @@ models, and governance decisions collaborative and transparent.
 ✔ The marketplace & economy are sustained by player interactions & ownership.
 
 The MetaHoof ecosystem thrives when its players thrive, ensuring a dynamic and fair competitive environment for all.
-
----

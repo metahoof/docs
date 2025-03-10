@@ -135,5 +135,3 @@ Whether you’re **a brand looking for mass visibility** or **a major sponsor ai
 events**, **MetaHoof’s Sponsorship Pass** provides the **perfect entry point into the future of digital sports marketing**.
 
 🚀 **Secure Your Sponsorship Pass & Elevate Your Brand in MetaHoof Today!** 🚀
-
----

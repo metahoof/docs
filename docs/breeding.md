@@ -227,5 +227,3 @@ their offspring**.
 others **seek out hybrid combinations** for unique advantages.  
 📌 **Seasonal & Limited-Edition Breeding Events Drive Prices** → Special **one-time breeding opportunities** create
 **rare horse NFTs with long-term value appreciation**.
-
----

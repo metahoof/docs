@@ -157,5 +157,3 @@ ANP Labs **reserves the right** to **update legal policies in response to regula
 compliance with Brazilian and global blockchain regulations**.
 
 🚀 **MetaHoof: A legally transparent and player-first blockchain gaming experience!** 🚀  
-
----
