@@ -14,11 +14,6 @@ async function build() {
     const linkList = links.map((url) => {
         return { url: url.replace(inputDirectory, ''), changefreq: 'weekly' };
     });
-
-    // Return a promise that resolves with your XML string
-    streamToPromise(Readable.from(linkList).pipe(sitemapStream)).then((sitemap) => {
-        fs.writeFileSync(`dist/sitemap.xml`, sitemap);
-    });
 }
 
 build();
