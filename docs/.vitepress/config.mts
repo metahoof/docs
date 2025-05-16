@@ -53,8 +53,8 @@ export default defineConfig({
                             collapsed: true,
                             link: '/whitepaper/trainers',
                             items: [
-                                { text: 'Synergy', link: '/whitepaper/trainer-synergy' },
-                                { text: 'Skills', link: '/whitepaper/trainer-skills' },
+                                { text: 'Synergy', link: '/whitepaper/trainers-synergy' },
+                                { text: 'Skills', link: '/whitepaper/trainers-skills' },
                             ]
                          },
                         { text: 'Strategies', link: '/whitepaper/strategies' },

@@ -19,7 +19,7 @@ Each Trainer NFT possesses a set of core traits defining their capabilities and 
 | **Personality**   | Defines trainer’s style (e.g., Aggressive, Calm, Analytical).                                                                                                                             |
 | **Specialty**     | Specific focus area (e.g., Sprint Training, Endurance Drills, Conditioning).                                                                                                              |
 | **Skill Slots**   | **Skill 1**, **Skill 2**, **Skill 3**: Unique abilities that provide race-day bonuses. Check [Trainer Skills](./trainers-skills.md) for references.                                       |
-| **Synergy Slots** | **Synergy 1**, **Synergy 2**, **Synergy 3**: Enhanced effects when paired with horses sharing matching bloodlines/traits. Check [Trainer Synergies](./trainer-synergy.md) for references. |
+| **Synergy Slots** | **Synergy 1**, **Synergy 2**, **Synergy 3**: Enhanced effects when paired with horses sharing matching bloodlines/traits. Check [Trainer Synergies](./trainers-synergy.md) for references. |
 
 ## 3️⃣ How Trainer Contracts Work
 

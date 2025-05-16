@@ -107,5 +107,5 @@ Your horse will follow this strategy whenever it's assigned—so pick wisely and
 
 🔗 For more:
 
-- [Trainer Synergy Guide](./trainer-synergy.md)
+- [Trainer Synergy Guide](./trainers-synergy.md)
 - [Trainer Skills Reference](./trainers-skills.md)

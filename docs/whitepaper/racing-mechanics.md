@@ -141,7 +141,7 @@ Each horse possesses **unique, inheritable traits**:
 🏁 **Energy Bars (8 Total)** – Each race consumes 1 bar. Energy regenerates passively or via training over time.  
 💡 _Example:_ A horse can race 8 times fully energized. Idle horses regain 1 bar every 1 hour.  
 💪 **Fitness Level** – A horse’s fitness is **maintained through training sessions**, which are **managed by Trainers**.  
-🔄 **Trainer Influence** – Specialized trainers ([see Trainer Synergy](./trainer-synergy.md)) enhance a horse’s fitness, ensuring **optimal performance for consecutive races**.  
+🔄 **Trainer Influence** – Specialized trainers ([see Trainer Synergy](./trainers-synergy.md)) enhance a horse’s fitness, ensuring **optimal performance for consecutive races**.  
 ⚠ **Declining Fitness** – Without **proper training or maintenance**, a horse’s fitness **gradually depletes**, leading to **weaker performances**.
 
 ---
