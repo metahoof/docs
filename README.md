@@ -20,11 +20,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 
 ## Contact
 
-For any questions or support, please reach out to us via our [Discord server](https://discord.gg/UJ59KgS6rK)
+For any questions or support, please reach out to us via our [Discord server](https://discord.gg/eJVtJ2CCyr)
 or [email us](mailto:support@metahoof.com).
 
 ## Follow Us
 
 Stay updated with the latest news and updates:
 
+- [Website](https://metahoof.com)
 - [Twitter](https://twitter.com/metahoof_game)
+- [Youtube](https://youtube.com/@metahoof)
