@@ -1,4 +1,4 @@
-# Game Economy 
+![hero](/img/banners/GAME_ECONOMY.png)
 
 ## 1️⃣ A Player-Driven & Sustainable Economy
 

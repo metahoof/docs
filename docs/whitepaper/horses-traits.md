@@ -1,4 +1,6 @@
-# Horse Traits: The Foundation of Performance
+![hero](/img/banners/HORSES_TRAITS.png)
+
+> Horse Traits: The Foundation of Performance
 
 Each horse in MetaHoof is defined by several core **traits**, each playing a role in its **identity, performance, and
 breeding potential**.

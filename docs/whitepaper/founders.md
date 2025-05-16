@@ -1,4 +1,4 @@
-![hero](/img/banners/FOUNDERS_COLLECTION.png)
+![hero](/img/banners/FOUNDERS.png)
 
 > **Pioneering Excellence: The MetaHoof Founders Collection**
 

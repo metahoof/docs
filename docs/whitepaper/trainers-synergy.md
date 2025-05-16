@@ -1,4 +1,6 @@
-# Trainer Synergies – Simple Guide
+![hero](/img/banners/TRAINERS_SYNERGY.png)
+
+> Understanding the synergy between a Trainer and your Horse.
 
 ## Synergy Slots by Rarity
 

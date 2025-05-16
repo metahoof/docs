@@ -1,4 +1,6 @@
-# Horse Progression: From Rookie to Racing Legend
+![hero](/img/banners/HORSES_PROGRESSION.png)
+
+> Horse Progression: From Rookie to Racing Legend
 
 In **MetaHoof**, horse progression isn’t just a stat grind — it’s a **strategic evolution**. From a raw, untrained foal to a legendary racehorse, each step of the journey is shaped by **skillful decisions, consistent performance, and smart management**.
 

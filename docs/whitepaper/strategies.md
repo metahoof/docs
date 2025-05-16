@@ -1,5 +1,7 @@
 ![hero](/img/banners/STRATEGIES.png)
 
+> Run smart. Finish strong. 
+
 ## 1️⃣ Overview
 
 Strategies are a core gameplay system in **MetaHoof** that allow players to define how their horse behaves during a race. Before each race, players must select a **Racing Strategy**, which guides how the horse distributes its effort, when to push harder, and how to react to different phases of the race.

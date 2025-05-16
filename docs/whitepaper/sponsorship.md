@@ -1,4 +1,4 @@
-# MetaHoof Sponsorship Pass 
+![hero](/img/banners/SPONSORSHIP.png)
 
 > Elevate Your Brand in the Future of Digital Horse Racing
 

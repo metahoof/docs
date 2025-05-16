@@ -1,4 +1,4 @@
-# Monetization
+![hero](/img/banners/MONETIZATION.png)
 
 ## 1️⃣ Overview
 

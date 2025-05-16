@@ -1,4 +1,4 @@
-# Community & Governance 
+![hero](/img/banners/COMMUNITY.png)
 
 > Building a Thriving Player-Driven Ecosystem in MetaHoof
 

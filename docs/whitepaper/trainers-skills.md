@@ -1,4 +1,6 @@
-# Trainer Skills
+![hero](/img/banners/TRAINERS_SKILLS.png)
+
+> Strategy and Skill elements shape a winner
 
 ## Skill Slots by Rarity
 

@@ -1,4 +1,4 @@
-# Uniqs & Ownership 
+![hero](/img/banners/UNIQS.png)
 
 > A Guide to Understanding NFTs in MetaHoof
 
