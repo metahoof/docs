@@ -63,7 +63,7 @@ Brazilian law**.
 
 ### **3. Financial Transactions & Tax Responsibilities**
 
-MetaHoof operates within the **Ultra ecosystem**, utilizing **$UOS and potentially MetaHoof’s future token** for
+MetaHoof operates within the **Ultra ecosystem**, utilizing **$UOS* for
 transactions.
 
 ✔ **Transparent Fee Structure** → All **race entry fees, breeding costs, and marketplace transactions** have a **clearly

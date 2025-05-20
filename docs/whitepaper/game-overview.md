@@ -156,7 +156,7 @@ Each aspect of stable management is intertwined. Proper training and fitness lea
 MetaHoof is **fully integrated into the Ultra.io ecosystem**, ensuring **a robust, blockchain-powered economy**.
 
 #### 📌 Play-to-Earn Opportunities
-🔹 **Earn $UOS & MetaHoof tokens** through **racing, breeding, and stable reputation growth**.  
+🔹 **Earn $UOS** through **racing, breeding, and stable reputation growth**.  
 🔹 **Sell & Trade NFTs** (horses, trainers, breeding licenses) in the **Ultra Marketplace**.  
 🔹 **Participate in Exclusive Tournaments** for **high-reward competitions**.
 

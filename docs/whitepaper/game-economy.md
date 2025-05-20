@@ -26,7 +26,7 @@ MetaHoof unites four pillars—NFT ownership, competitive racing, strategic bree
 ### 3.1 🔹 Racing Rewards  
 
 - **Free-to-Play Races**: XP, reputation, cosmetic drops — no $UOS.  
-- **Paid Entrants**: $UOS prize pools split 50/30/20% across top three.  
+- **Paid Entrants**: $UOS prize pools split based on defined distribution formats.  
 - **Tournament & Sponsored Events**: Larger pools, bonus NFTs, brand giveaways.
 
 > MetaHoof’s economy is designed to be sustainable, transparent, and engaging—rewarding both casual racers and strategic long-term investors.
