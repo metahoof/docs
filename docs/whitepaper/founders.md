@@ -32,7 +32,7 @@ _All Game Onboarding Packages include exclusive early gameplay access, a custom 
 | Breed Licenses              |          3           |       2        |      1      |
 | Energy Refills              |          10          |       5        |      5      |
 | Trainer                     | Legendary Guaranteed | Rare Guranteed | 1x Mintable |
-| Trainer COntracst           |         10x          |       6x       |     3x      |
+| Trainer Contracts           |         10x          |       6x       |     3x      |
 | Alpha Mainnet Access        |          ✅          |       ✅       |     ✅      |
 | Founder Skin & Stable Badge |          ✅          |       ✅       |     ✅      |
 | Alpha Season Pass           |          ✅          |       ✅       |     ✅      |
