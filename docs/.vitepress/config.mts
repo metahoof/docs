@@ -1,7 +1,8 @@
 import { defineConfig } from 'vitepress'
+import { withMermaid } from "vitepress-plugin-mermaid";
 
 // https://vitepress.dev/reference/site-config
-export default defineConfig({
+export default withMermaid(defineConfig({
     title: 'MetaHoof | Whitepaper',
     description: "Explore MetaHoof documentation for comprehensive guides, gameplay mechanics, breeding systems, race formats, economic models, and developer resources for the innovative NFT digital horse racing game built on the Ultra.io blockchain.",
     themeConfig: {
@@ -68,10 +69,11 @@ export default defineConfig({
                     text: 'Ecosystem',
                     items: [
                         { text: 'Uniqs & Ownership', link: '/whitepaper/uniqs' },
+                        { text: 'Genesis Horses', link: '/whitepaper/genesis' },
+                        { text: 'Founder Collections', link: '/whitepaper/founders' },
+                        { text: 'Sponosrship Pass', link: '/whitepaper/sponsorship' },
                         { text: 'Game Economy', link: '/whitepaper/game-economy' },
                         { text: 'Monetization & Revenue Model', link: '/whitepaper/monetization' },
-                        { text: 'Sponosrship Pass', link: '/whitepaper/sponsorship' },
-                        { text: 'Founder Collections', link: '/whitepaper/founders' },
                         { text: 'Community', link: '/whitepaper/community' }
                     ]
                 },
@@ -138,4 +140,4 @@ export default defineConfig({
     markdown: {
         math: true
     }
-})
+}));

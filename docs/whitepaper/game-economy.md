@@ -1,130 +1,99 @@
 ![hero](/img/banners/GAME_ECONOMY.png)
 
-## 1️⃣ A Player-Driven & Sustainable Economy
+> MetaHoof’s economy is designed to be sustainable, transparent, and engaging—rewarding both casual racers and strategic long-term investors.
 
-MetaHoof’s **economy** is designed to create a **sustainable, competitive, and rewarding ecosystem** where players can earn, trade, and reinvest their assets strategically. Built on the **Ultra.io blockchain**, the game leverages **NFT ownership, racing rewards, breeding incentives, and sponsorship revenues** to ensure a **dynamic and evolving financial landscape**.
+## 1️⃣ Economic Vision
 
-MetaHoof's economy balances **free-to-play accessibility with competitive monetization models**, ensuring both **casual players and strategic investors** can find value.
+MetaHoof unites four pillars—NFT ownership, competitive racing, strategic breeding, and brand partnerships—into a cohesive, player-driven ecosystem.
 
-The core pillars of the economy include:
+- **Play-to-Earn & Play-for-Fun**  
+  We balance free entry points (to onboard new users) with meaningful paid experiences (for deeper engagement and rewards).  
+- **Scarcity Meets Utility**  
+  Finite NFT supplies (horses, trainers, consumables) are backed by ongoing utility (racing, breeding, training) to maintain demand.  
+- **Governance & Growth**  
+  Future on-chain governance will allow token holders to steer economic parameters (fees, sinks, new asset releases).
 
-- **NFT Ownership & Trading** – Horses, trainers, stables, and in-game assets are freely tradeable.
-- **Racing Rewards & Prize Distribution** – Competitive racing formats with diverse earning opportunities.
-- **Breeding System & Stud Market** – A structured economy for producing, selling, and managing bloodlines.
-- **Sponsorship & Advertiser Integration** – Brands can enter the ecosystem through **MetaHoof Sponsorship Passes**.
-- **Seasonal Passes & Limited Edition Assets** – Exclusive, time-based opportunities to engage with the game.
-- **Tokenized Airdrops & Play-to-Earn Models** – Future token distribution for active participants.
+## 2️⃣ In-Game Currencies & Tokenomics
 
+### $UOS (Ultra Native Token)  
 
-## 2️⃣ In-Game Currency & Token Integration
+- **Primary Medium**: Entry fees, marketplace trades, breeding/stud payments.  
+- **Emission**: Awarded as race prizes and seasonal event payouts.  
+- **Sinks**: Breed licenses, energy refills, trainer contracts, marketplace fees and burns.  
 
-MetaHoof operates using **$UOS**, the **Ultra.io blockchain's native token**, as the primary **currency for transactions, marketplace trading, and entry fees**. Additionally, a **MetaHoof-native token (planned for future integration)** will provide further in-game utility, governance opportunities, and staking mechanics.
+## 3️⃣ Player Revenue Streams
 
-### **1. Primary Currency: $UOS**
-- **Used for:**
-  - **Race entry fees** (paid races, qualifiers, championships)
-  - **Marketplace transactions** (buying & selling horses, trainers, breed licenses)
-  - **Breeding fees & stud offers**
-  - **Purchasing in-game consumables** (Trainer Contracts, Energy Refills)
-  - **Sponsorship deals & advertising placements**
+### 3.1 🔹 Racing Rewards  
 
-## 3️⃣ Racing Economy & Prize Distribution
+- **Free-to-Play Races**: XP, reputation, cosmetic drops — no $UOS.  
+- **Paid Entrants**: $UOS prize pools split 50/30/20% across top three.  
+- **Tournament & Sponsored Events**: Larger pools, bonus NFTs, brand giveaways.
 
-Racing is at the **core of the economy**, allowing players to earn **$UOS, NFTs, and exclusive assets**. The **type of race, entry fees, and competitive level** determine the **reward potential**.
+> MetaHoof’s economy is designed to be sustainable, transparent, and engaging—rewarding both casual racers and strategic long-term investors.
 
-### **1. Race Entry Fees & Prize Pools**
-- **Casual (Free) Races** → No entry fee, but provide **small XP & reputation rewards**.
-- **Paid Races** → Players **pay an entry fee** to compete for **$UOS prize pools**.
-- **Sponsored Races** → Sponsored by **brands or premium pass holders**, often featuring **larger prize pools & exclusive rewards**.
-- **Exclusive Tournaments & Special Races** → High-stakes events with **higher fees & unique race conditions**.
+#### 3.1.1 Reward Structures
 
-### **2. Reward Distribution & XP Earnings**
-- **$UOS Prize Payouts** → Distributed based on **placement, race type, and gate count**.
-- **XP Progression** → Horses earn XP **based on performance**, influencing **class advancement & eligibility for higher-tier races**.
-- **Stable Reputation Points** → Awarded to stables based on **race results, sponsorships, and seasonal leaderboards**.
+MetaHoof offers multiple reward structures for paid races:
 
-> **Example:** In a **Top 3 payout format**, a **1,000 $UOS** prize pool may be split as: 
-> - 🥇 **1st Place** → 50% (500 $UOS)
-> - 🥈 **2nd Place** → 30% (300 $UOS)
-> - 🥉 **3rd Place** → 20% (200 $UOS)
+- **Win-To-All (WTA)**: Winner takes the entire prize pool.  
+- **Top 2**: Prize pool split 70% to 1st place, 30% to 2nd place.  
+- **Top 3**: Prize pool split 50%/30%/20% among top three finishers.  
+- **Top 6**: Prize pool distributed across the top six finishers using a weighted distribution.  
 
-### **3. Seasonal Prize Pools & Shared Prize Mechanism**
-- **A portion of entry fees, sponsorships, and breeding revenue is allocated to seasonal prize pools.**
-- **Top-performing stables on leaderboards receive extra payouts & unique rewards.**
-- **Exclusive rewards (NFT horses, breeding licenses, limited-edition assets) are distributed to top competitors.**
+#### 3.1.2 Leaderboard Competitions
 
+Leaderboards track and reward consistent performance over time, funded through race entries and special initiatives:
 
-## 4️⃣ Breeding Economy & Stud Market
+- **Leaderboard Pools**: A set percentage of each paid race entry fee is allocated to weekly, monthly, and seasonal leaderboard prize pools.  
+- **Team-Funded Campaigns**: MetaHoof contributes additional $UOS or NFT rewards for special leaderboard events.  
+- **Gated Access**: Specific leaderboards can be restricted to holders of certain NFTs (e.g., Founders Pass, Genesis Horses, Season Pass).  
+- **Automated Distribution**: Smart contracts distribute leaderboard rewards at the end of each period, ensuring transparency and speed.
 
-Breeding is **both a strategic gameplay element and an economic driver**, creating **valuable offspring, rare bloodlines, and a functioning stud market**.
+### 3.2 🔹 Breeding & Stud Market  
 
-### **1. Breeding License System**
-- **A Breed License is mandatory** for every breeding attempt.
-- **Obtained through the Breed License Factory** or as event rewards.
-- **Some licenses have restrictions** (Class, Bloodline, Date Limits).
+- **Breed Licenses**: Consumable NFT purchased or earned, ensures controlled supply.  
+- **Breeding Fees**: Dynamic pricing by generation and rarity, paid in $UOS.  
+- **Stud Offers**: Stallion owners list per-breed fees; marketplace takes a small cut, owner earns the rest.
 
-### **2. Breeding Fees & Cost Factors**
-Breeding fees are determined by:
-- **Breed Type** (Purebred, Crossbreed, Legendary)
-- **Generation** (Genesis, G2, G3+)
-- **Class** (E → A, higher class = higher fees)
+## 4️⃣ NFT Asset Types & Lifecycle
 
-### **3. Stud Offers & Public Market**
-- **Players can offer their stallions for breeding in a marketplace-style system.**
-- **Public & Private Stud Offers** allow flexible pricing.
-- **Minimum Stud Fees** prevent underpricing & maintain market value.
+| Asset              | Utility & Flow                                                                 |
+|--------------------|--------------------------------------------------------------------------------|
+| **Horses**         | Race → Retire → Breed → Offspring 🎁 → Repeat                                  |
+| **Trainers**       | Assign → Race/Train → Consume Contract → Replenish                              |
+| **Breed Licenses** | Burned on use; limited seasonally to control population growth                  |
+| **Energy Refills** | Burned per race; prevents infinite grinding; replenishable via purchase/events  |
+| **Season Passes**  | Grant time-limited access to special races, gear, and XP boosts                 |
+| **Sponsorship**    | Passes burned over events; revenue share tracked on-chain                        |
 
-> **Example Stud Fee Pricing (Base Minimums)**
-> - **Class E-D Stallion** → 5 $USD per breeding
-> - **Class C-B Stallion** → 20 $USD per breeding
-> - **Class A Stallion** → 50 $USD per breeding
+## 5️⃣ Seasonal Passes & Limited Drops
 
+Each “season” (quarterly) introduces:
 
-## 5️⃣ NFT Economy & Marketplace Trading
+- **Season Pass NFTs**: Unlock exclusive tracks, leaderboards, and cosmetic gear.  
+- **Limited Bloodline Drops**: Small mint runs (e.g. 500–1,000 horses) tied to season themes.  
+- **Partner Series**: Drops co-branded with leagues, influencers, or IP holders—often bundled with real-world perks.
 
-All **horses, trainers, breed licenses, and consumables** in MetaHoof are **NFT-based assets** tradable on the **Ultra Marketplace**.
+## 6️⃣ Sustainability & Balancing
 
-### **1. NFT Types in the Economy**
-- **Horses** – Genesis, Offspring, Special Editions.
-- **Trainer Cards & Contracts** – Specialized trainers that enhance fitness & strategy.
-- **Breed Licenses** – Consumables required for breeding new foals.
-- **Energy Refills** – In-game consumables to optimize racing.
-- **Stable Addons** – Customizable visual upgrades (Avatars, Badges, Banners).
-- **MetaHoof Sponsorship Pass** – Advertising licenses for brands.
+- **Burn Mechanics**  
+  - Every Breed License, Energy Refill, and Trainer Contract used is permanently removed.  
+- **Prize Pool Reinvestment**  
+  - A % of $UOS entry fees is routed back into seasonal and tournament pools.  
+- **Fee Adjustments**  
+  - Governance can tweak marketplace fees, breeding costs, and sponsor cuts to maintain equilibrium.
 
-### **2. Secondary Market Revenue & Resale Opportunities**
-- **Players can list assets for sale, auction, or direct offers.**
-- **Ultra Marketplace ensures gas-free, on-chain verified trades.**
-- **Limited-edition items & high-performance horses hold long-term value.**
+## 7️⃣ Future Expansions & Governance
 
+- **Token Staking**: MHT stakers earn a share of platform revenues and unlock premium drops.  
+- **On-Chain DAO**: MHT holders vote on key economic levers—new asset caps, fee revisions, sink rates.  
+- **Cross-Chain Bridges**: Enable $UOS & NFT interoperability with other blockchains and DeFi protocols.
 
-## 6️⃣ Sponsorship & Advertising Revenue
+## 8️⃣ Key Takeaways
 
-Brands and advertisers can **enter the MetaHoof ecosystem** through the **MetaHoof Sponsorship Pass**, allowing them to **promote within races and host branded events**.
+- **Multiple Earning Paths**: Race, breed, sponsor, stake, and trade.  
+- **Deflationary Sinks**: Consumable NFTs and fees keep the economy healthy.  
+- **Seasonal Rhythm**: Regular drops and events maintain excitement and value.  
+- **Community-Driven**: Future governance rewards active participants who shape MetaHoof’s growth.
 
-- **Common Tier** → Basic ad placements during races.
-- **Premium Tier** → Hosts exclusive races & revenue-sharing opportunities.
-- **Race Sponsorships** → Higher-tier races attract **premium sponsors & larger prize pools**.
-
-
-## 7️⃣ Seasonal Economy & Recurring Revenue
-
-MetaHoof uses **seasons** to create a **cyclical revenue model**, introducing **new race events, NFT drops, and limited-edition content**.
-
-- **Season Pass NFTs** → Grant access to **exclusive rewards & premium race events**.
-- **Limited-Time Breeding Windows** → Restricting breeding seasons adds **strategic planning** to bloodline creation.
-- **Leaderboard Resets & Seasonal Rewards** → Keeps the ecosystem competitive & engaging.
-
-
-## 8️⃣ Economic Sustainability & Future Expansions
-
-To maintain a **long-term, sustainable economy**, MetaHoof employs:
-
-✔ **Burn Mechanisms** – **Consumable items (Breed Licenses, Trainer Contracts, Energy Refills) remove supply from circulation.**  
-✔ **Revenue Reinvestment** – A portion of race fees & breeding costs funds **seasonal prize pools & new gameplay expansions**.  
-✔ **Balanced Token Supply** – Avoids inflation while ensuring active rewards for players.
-
-
-## 9️⃣ Conclusion
-
-MetaHoof's **economy is designed to be sustainable, engaging, and rewarding** for both **competitive players and strategic traders**. Through **racing, breeding, sponsorships, and marketplace trading**, players have **diverse revenue streams**, while **Ultra’s blockchain ensures transparency & security**.
+MetaHoof’s economy weaves together engaging gameplay, collectible scarcity, and on-chain governance to deliver a vibrant, resilient ecosystem that scales with its community.  
