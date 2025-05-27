@@ -1,4 +1,4 @@
-# Game Overview 
+<!-- # Game Overview 
 
 ## What is MetaHoof?
 
@@ -160,4 +160,4 @@ MetaHoof is **fully integrated into the Ultra.io ecosystem**, ensuring **a robus
 🔹 **Sell & Trade NFTs** (horses, trainers, breeding licenses) in the **Ultra Marketplace**.  
 🔹 **Participate in Exclusive Tournaments** for **high-reward competitions**.
 
-MetaHoof combines **blockchain security, decentralized ownership, and economic sustainability**, making it **a true Play-to-Earn experience**.
+MetaHoof combines **blockchain security, decentralized ownership, and economic sustainability**, making it **a true Play-to-Earn experience**. -->

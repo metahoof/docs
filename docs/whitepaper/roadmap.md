@@ -34,23 +34,31 @@ compliance.
 
 ### Q2 2025
 
-🔄 **Community Growth** – Focused efforts to **expand the MetaHoof audience** through **marketing, partnerships, and early-access initiatives**.
+✅ **Core Mechanics** – Finished all game core mechanics.
+
+✅ **Updated Whitepaper** – A revised version of the **whitepaper**, incorporating game mechanics, economy, and
+tokenization updates.
+
+⏳ **Pre-Alpha** - Launch Pre-Alpha tests, players will compete for rewards and test competitiveness.
+
+🔄 **Launch Founder's Collection** – Release of **Founder's Collection**, the **first and more rewardable collection in MetaHoof.**
 
 🔄 **Launch Genesis Horses** – Release of **Genesis Horses**, marking the **first-ever breedable generation in MetaHoof**.
 
-🔄 **Updated Whitepaper** – A revised version of the **whitepaper**, incorporating game mechanics, economy, and
-tokenization updates.
+
 
 
 ## Upcoming Milestones
 
 ### Q3 2025
 
-📱 **Ultra Web Wallet** – Introduction of **Ultra-powered wb wallets**, ensuring **secure and user-friendly asset management**.
+🚀 **Launch Alpha on Mainnet** – The first public release of MetaHoof on the Ultra mainnet, opening competitive play to a broader audience.
 
-🎟️ **Full Season Pass & Rewards** – Introduction of a **comprehensive Season Pass system**, allowing players to unlock **exclusive rewards, unique NFTs, and special in-game bonuses** by participating in races and completing seasonal challenges.
+📱 **Mobile Friendly & Ultra Web Wallet** – Enhanced support for mobile access and seamless wallet integration via Ultra's web wallet.
 
-🏆 **Seasonal Tournaments & Leaderboard Championships** – Launch of **high-stakes tournament formats, sponsored races, and competitive seasonal leaderboards**. Players can **compete for top rankings, earn premium rewards, and secure their place in MetaHoof history**.
+🏆 **Leaderboard Rewards** – Introduction of on-chain leaderboard reward distribution, where top players earn UOS and exclusive prizes based on seasonal rankings.
+
+🐎 **3D Racing** – Launch of the first live 3D race viewer, allowing players to watch their races unfold in real time with animated horse models.
 
 
 ### Q4 2025
@@ -91,4 +99,10 @@ updates may include:
 The **roadmap will be updated regularly** as development progresses. Join our **community channels** for **exclusive
 previews, early access opportunities, and announcements**.
 
-> **Follow us for real-time updates and next-phase reveals!**
+Join our community and stay connected:
+
+- 🐦 [X](https://c.com/metahoof_game)
+- 💬 [Discord](https://discord.gg/eJVtJ2CCyr)
+- 🎥 [YouTube](https://www.youtube.com/@metahoof)
+
+> **Follow us for real-time updates, early access, and behind-the-scenes content!**

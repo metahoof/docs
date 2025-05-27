@@ -9,9 +9,8 @@ MetaHoof introduces players to a **rich and dynamic racing ecosystem**, set in a
 Races are **the heart of competition**, where players test their horses’ abilities against others in a variety of **race
 types, formats, and conditions**. Every race is unique, influenced by a combination of:  
 
-- **Horse traits and genetics** (speed, stamina, adaptability).  
+- **Horse traits and genetics** (speed, endurance, temperament and agility).  
 - **XP progression and training impact** (race experience and growth).  
-- **Energy levels and recovery mechanics** (how well a horse maintains form over multiple races).  
 - **Track surfaces and weather conditions** (environmental adaptability).
 
 A true champion in MetaHoof is **not just fast**, but **strategically bred, trained, and raced** under the right
@@ -26,19 +25,19 @@ MetaHoof races are **categorized based on distance**, requiring different strate
 ### 🏁 Sprint Races
 
 ✔ **Short-distance events**, where **explosive speed and quick acceleration** are key.  
-✔ **Distance Range:** **1000m — 1600m**.  
+✔ **Distance Range:** **1000m — 1400**.  
 ✔ **Key Attributes:** **Speed & Agility**.
 
 ### 🏇 Middle-Distance Races
 
 ✔ **Balanced races** that require a **mix of speed and endurance**.  
-✔ **Distance Range:** **1700m — 2400m**.  
+✔ **Distance Range:** **1600 — 2000**.  
 ✔ **Key Attributes:** **Balanced Speed & Endurance**.
 
 ### 🏆 Endurance Races
 
 ✔ **Long-distance challenges**, testing a horse’s **endurance, and energy management**.  
-✔ **Distance Range:** **2500m — 3200m+**.  
+✔ **Distance Range:** **2200 — 2600+**.  
 ✔ **Key Attributes:** **High Endurance & Consistent Pace**.
 
 Every horse has **natural strengths**, but **training, breeding, and strategy** determine which race type they will
@@ -113,7 +112,7 @@ Understanding these **bloodline affinities** can give players a **strategic edge
 
 ## 4️⃣ Race Performance Mechanics
 
-Every race in MetaHoof is **a dynamic event**, calculated using **horse stats, XP progression, energy levels, andenvironmental conditions**.
+Every race in MetaHoof is **a dynamic event**, calculated using **horse stats, XP progression, energy levels, and environmental conditions**.
 
 ### 📌 Key Factors Affecting Race Performance
 
@@ -176,7 +175,7 @@ Each format **tests different racing strategies**, making **stable management cr
 
 ## 6️⃣ Prize Distribution & Rewards
 
-Every MetaHoof race offers **real value**, with **UOS-based prize pools, XP rewards, and leaderboard ranking points**.
+Every MetaHoof race offers **real value**, which can be **UOS-based prize pools, XP rewards, and leaderboard ranking points**.
 
 ### 🏆 Example Prize Distribution
 

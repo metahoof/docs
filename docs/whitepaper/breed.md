@@ -47,7 +47,7 @@ Each bloodline specializes in a unique balance of performance traits. Below is a
 | **Mirage Arabians** | 68–88           | 70–85               | 72–88             | 68–85                 | 60–100             |
 
 - **Mystic Fjord**: Top-tier endurance and strategic agility, with a stable temperament for consistent performance across varied tracks.
-- **Tempest Mustang**: Explosive speed and raw power, moderate endurance, and a wilder temperament ideal for aggressive, high-stakes races.
+- **Tempest Mustang**: Explosive speed and raw power, moderate endurance, and a wilder temperament ideal for aggressive races.
 - **Sakura**: Balanced speed with supreme agility, excelling in technical circuits and tight maneuvers, underpinned by strong adaptability.
 - **Mirage Arabians**: Well-rounded stats providing reliable speed, solid stamina, and calm temperament for versatile race strategies.
 

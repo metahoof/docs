@@ -38,8 +38,8 @@ The **Common Sponsorship Pass** is ideal for **businesses, content creators, and
 ✔ **Ad Placement in Races** → Sponsor banners are **displayed during races**, ensuring consistent **brand awareness**.  
 ✔ **Shared Visibility System** → Ad impressions are **evenly rotated** across all active sponsors. *(Excludes Exclusive
 Races)*  
-✔ **Branded Non-Revenue Races** → Sponsors can **organize special branded events**, providing **marketing exposure**
-without direct monetization.
+<!-- ✔ **Branded Non-Revenue Races** → Sponsors can **organize special branded events**, providing **marketing exposure**
+without direct monetization. -->
 
 **Ideal for:**
 
@@ -63,8 +63,8 @@ and branding**.
 races.
 
 - **MetaHoof takes a 2% share** from this allocation.  
-  ✔ **Long-Term Sponsorship Duration** → Premium Sponsorship **covers approximately 7 months** *(Alpha phase + 2
-  seasons)*, ensuring **sustained marketing exposure**.  
+  ✔ **Long-Term Sponsorship Duration** → Premium Sponsorship **covers approximately 6 months** *(Alpha phase + First
+  Season)*, ensuring **sustained marketing exposure**.  
   ✔ **Race Hosting Capacity** → Sponsors can **host up to 500 branded races per contract**, with a **daily cap of 5
   races**.  
   ✔ **Additional Races Can Be Purchased** → Sponsors can expand their hosting capacity **via a smart contract system**
@@ -83,7 +83,7 @@ races.
 | Feature                     | Common Sponsorship Pass     | Premium Sponsorship Pass               |
 |-----------------------------|-----------------------------|----------------------------------------|
 | **Ad Placement in Races**   | ✅ Yes (Standard Races)      | ✅ Yes (All Races, Excluding Exclusive) |
-| **Exclusive Branded Races** | ✅ Yes (Custom Themed Races) | ✅ Yes (Custom Themed Races)            |
+| **Exclusive Branded Races** | ✅ Yes (Organized by MetaHoof) | ✅ Yes (Custom Themed Races)            |
 | **Race Hosting**            | ❌ No                        | ✅ Up to 500 Races per Contract         |
 | **Daily Race Cap**          | ❌ No                        | ✅ 5 Races per Day                      |
 | **Revenue Sharing**         | ❌ No                        | ✅ 8% of Race Revenue                   |
@@ -124,7 +124,6 @@ a secure and scalable advertising solution**.
 The **MetaHoof Sponsorship Pass** redefines **in-game branding and sponsorships**, giving **businesses, brands, and
 organizations** a unique opportunity to **engage with a digital sports audience in a competitive blockchain environment**.
 
-Whether you’re **a brand looking for mass visibility** or **a major sponsor aiming to create premium branded racing
-events**, **MetaHoof’s Sponsorship Pass** provides the **perfect entry point into the future of digital sports marketing**.
+Whether you’re **a brand looking for mass visibility** or **a major sponsor aiming to create premium branded racing events**, **MetaHoof’s Sponsorship Pass** provides the **perfect entry point into the future of digital sports marketing**.
 
 🚀 **Secure Your Sponsorship Pass & Elevate Your Brand in MetaHoof Today!** 🚀

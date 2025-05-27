@@ -37,8 +37,8 @@ MetaHoof features **four distinct bloodlines**, each carrying **unique attribute
 
 🌪 **Tempest Mustang** → **Raw Power & Untamed Spirit**
 
-- Tempest Mustangs embody **high-risk, high-reward racing**, bringing **explosive speed and unmatched power**.
-- Their **wild temperament** makes them unpredictable but **dominant in aggressive, high-stakes races**.
+- Tempest Mustangs embody **high-risk racing**, bringing **explosive speed and unmatched power**.
+- Their **wild temperament** makes them unpredictable but **dominant in aggressive races**.
 - Best suited for **tough, unpredictable race conditions**, where sheer strength leads to victory.
 
 

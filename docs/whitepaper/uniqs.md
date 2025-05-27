@@ -63,8 +63,7 @@ success. **Uniqs enable players to fully control their assets**, without worryin
 - **Freedom to Trade** – Sell horses, rent out trainers, or auction limited-edition skins.
 - **Rarity & Scarcity** – Genesis horses, legendary trainers, and breed licenses have **limited supply**, increasing
   their value.
-- **Secure & Verifiable** – Every Uniq is recorded **on the blockchain**, making it **tamper-proof and fraud-resistant
-  **.
+- **Secure & Verifiable** – Every Uniq is recorded **on the blockchain**, making it **tamper-proof and fraud-resistant**.
 
 Whether you're **breeding elite racehorses, collecting limited-edition skins, or managing the next top-tier stable**,
 Uniqs ensure that **every move you make holds real-world value**.
@@ -77,8 +76,7 @@ Every **MetaHoof Uniq** can be traded in **Ultra’s NFT Marketplace**, where pl
 - **Participate in auctions** for rare Uniqs like **Genesis Horses and Legendary Trainers**.
 - **Securely trade** assets with other players in a **fraud-proof environment**.
 
-This marketplace is **seamlessly integrated** into **MetaHoof**, ensuring that every **Uniq transaction is safe, fast,
-and trackable**.
+This marketplace is **seamlessly integrated** into **MetaHoof**, ensuring that every **Uniq transaction is safe, fast, and trackable**.
 
 ## 5️⃣ What is a Uniq Factory?
 
@@ -94,8 +92,7 @@ Each Uniq Factory defines:
 - **The rules for supply and scarcity** (e.g., Genesis Horses cannot be bred, breed licenses have expiration limits).
 - **How NFTs interact with the game** (e.g., training duration, race eligibility, breeding conditions).
 
-In **MetaHoof**, Uniq Factories ensure that every **horse, trainer, stable, and in-game asset** is minted with *
-*authenticity, traceability, and secure ownership**.
+In **MetaHoof**, Uniq Factories ensure that every **horse, trainer, stable, and in-game asset** is minted with **authenticity, traceability, and secure ownership**.
 
 ### How Uniq Factories Work 
 
@@ -176,8 +173,7 @@ MetaHoof has **multiple Uniq Factories**, each controlling a **specific type of 
 
 In **MetaHoof**, every major in-game asset is a **Uniq NFT**, meaning players have **true ownership, the ability to
 trade, and complete control over their assets**. These Uniqs represent **racehorses, trainers, breeding licenses,
-in-game consumables, and customization options**, all of which impact **performance, strategy, and the in-game economy
-**.
+in-game consumables, and customization options**, all of which impact **performance, strategy, and the in-game economy**.
 
 Unlike traditional games where assets are locked to a player’s account, **Uniqs in MetaHoof allow players to freely
 trade, sell, and use their assets across different aspects of gameplay**.
@@ -193,8 +189,7 @@ significance and economic value**.
 ✅ **Tradable & Liquid** – Uniqs can be **bought, sold, and auctioned** on the **Ultra Marketplace**.  
 ✅ **Scarcity & Value Growth** – Certain Uniqs, like **Genesis Horses and Limited Trainers**, have **fixed supply**,
 making them **increasingly valuable** over time.  
-✅ **Game-Changing Utility** – Uniqs **directly impact racing, breeding, training, and customization**, ensuring that *
-*every NFT has strategic importance**.
+✅ **Game-Changing Utility** – Uniqs **directly impact racing, breeding, training, and customization**, ensuring that **every NFT has strategic importance**.
 
 Uniqs are **not just collectibles**—they are **functional assets** that define a player’s **success and strategy** in
 the game.
@@ -219,8 +214,7 @@ Each Uniq serves a **specific role**, whether it's for **racing, breeding, train
 
 - Trainers are key assets in **MetaHoof**, responsible for **enhancing a horse’s fitness**, **fine-tuning its Race
   Strategy**, and **maximizing race performance**.
-- Unlike traditional static attributes, MetaHoof’s trainers **are dynamic**, **strategy-driven** NFTs that provide *
-  *long-term benefits** based on **contract duration and expertise**.
+- Unlike traditional static attributes, MetaHoof’s trainers **are dynamic**, **strategy-driven** NFTs that provide **long-term benefits** based on **contract duration and expertise**.
 
 📌 **Utility**: Used to **boost horse fitness, enhancing race performance, and increase breeding potential**.
 
@@ -258,7 +252,7 @@ Each Uniq serves a **specific role**, whether it's for **racing, breeding, train
   special seasonal content in MetaHoof. Unlike standard progression, Season Pass holders unlock higher-tier rewards
   throughout the current season, ensuring greater in-game benefits and progression opportunities.
 
-📌 **Utility**: Guarantees additional benefits, allowing players to advance faster and earn more rewards.s**.
+📌 **Utility**: Guarantees additional benefits, allowing players to advance faster and earn more **rewards**.
 
 
 ### 7️⃣ Horse Skin Uniqs

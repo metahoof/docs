@@ -4,8 +4,7 @@ MetaHoof is a **product of ANP Labs**, a blockchain gaming company dedicated to 
 experiences**. ANP Labs is responsible for **building, maintaining, and expanding** MetaHoof’s ecosystem, ensuring **long-term sustainability, innovation, and regulatory compliance**.
 
 The **team behind ANP Labs** consists of **blockchain innovators, gaming strategists, and industry professionals** with
-deep experience in **blockchain gaming, NFT ecosystems, and decentralized economies**. Together, they are shaping *
-*MetaHoof** into a **revolutionary blockchain horse racing game** that combines **strategy, true digital ownership, and
+deep experience in **blockchain gaming, NFT ecosystems, and decentralized economies**. Together, they are shaping **MetaHoof** into a **revolutionary blockchain horse racing game** that combines **strategy, true digital ownership, and
 competitive gameplay**.
 
 Beyond its core team, **MetaHoof thrives through strategic partnerships**, particularly with **Ultra**, which serves as
@@ -16,8 +15,7 @@ the **technological foundation** for MetaHoof’s blockchain infrastructure.
 ![hero](/img/anp_labs.png)
 
 **ANP Labs** is a **registered gaming and blockchain development company** based in **Brazil**, officially responsible
-for **MetaHoof’s development, compliance, and ecosystem growth**. As the **parent company**, ANP Labs ensures that *
-*MetaHoof is built with industry-leading technology, regulatory adherence, and long-term economic sustainability**.
+for **MetaHoof’s development, compliance, and ecosystem growth**. As the **parent company**, ANP Labs ensures that **MetaHoof is built with industry-leading technology, regulatory adherence, and long-term economic sustainability**.
 
 **Key Responsibilities of ANP Labs:**
 

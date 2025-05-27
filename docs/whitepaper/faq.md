@@ -1,4 +1,4 @@
-# FAQ 
+# FAQ
 
 ## 1. **What is MetaHoof?**
 
@@ -17,8 +17,7 @@
 
 ## 4. **Do I need to complete AML/KYC to play MetaHoof?**
 
-- **Answer**: No, MetaHoof operates solely on blockchain technology, and users are responsible for their own tax
-  collection, deposits, and withdrawals. AML/KYC procedures are not required.
+- **Answer**: No, MetaHoof does not require AML/KYC procedures directly. All user accounts and identity verification are managed by the Ultra EBA system or within Ultra's network infrastructure. MetaHoof does not handle user onboarding, account custody, or personal identity verification. Players remain responsible for their own tax reporting, deposits, and withdrawals.
 
 ## 5. **What are Genesis Tokens?**
 
@@ -44,26 +43,23 @@
 ## 9. **What are the different horse classes in MetaHoof?**
 
 - **Answer**: Horses are divided into different classes based on their performance level:
-    - **Class E (Novice)**
-    - **Class D (Beginner)**
-    - **Class C (Intermediate)**
-    - **Class B (Advanced)**
-    - **Class A (Expert)**
+  - **Class E (Novice)**
+  - **Class D (Beginner)**
+  - **Class C (Intermediate)**
+  - **Class B (Advanced)**
+  - **Class A (Expert)**
 
 ## 10. **How does the MetaHoof marketplace work?**
 
-- **Answer**: The MetaHoof marketplace allows players to buy, sell, and trade horses, breeding licenses, and other
-  in-game assets. All transactions are conducted using cryptocurrency.
+- **Answer**: Powered by Ultra’s NFT Standard and Marketplace, the MetaHoof marketplace allows players to buy, sell, and trade horses, breeding licenses, and other in-game assets. All transactions are conducted securely on Ultra’s blockchain using cryptocurrency.
 
 ## 11. **What are the platform fees in MetaHoof?**
 
-- **Answer**: MetaHoof charges platform fees on various activities, including racing, breeding, and marketplace
-  transactions. These fees are used to support the platform’s development and maintenance.
+- **Answer**: MetaHoof charges platform fees on specific in-game activities such as racing and breeding. These are separate from blockchain transaction fees, which are managed by the Ultra network. On the marketplace, MetaHoof does not collect blockchain fees and only applies a predefined royalty on NFT sales, in accordance with Ultra’s protocol. All blockchain-level fees follow Ultra’s infrastructure.
 
 ## 12. **Is MetaHoof available worldwide?**
 
-- **Answer**: Yes, MetaHoof is accessible to users worldwide. However, players should ensure that they comply with any
-  local regulations related to blockchain gaming and cryptocurrency.
+- **Answer**: Yes, MetaHoof is accessible to users worldwide. However, players should ensure compliance with any local regulations related to blockchain gaming and cryptocurrency. To play MetaHoof, users need an Ultra account, which can be created via Ultra’s official website or through supported Ultra-enabled applications. Account creation and management are handled entirely within Ultra’s ecosystem.
 
 ## 13. **What are the future plans for MetaHoof?**
 

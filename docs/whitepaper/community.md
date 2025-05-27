@@ -86,7 +86,7 @@ special events provide opportunities for players to connect, compete, and collab
 
 - Player-Organized Races → The community can host, sponsor, and customize race formats.
 - Bespoke Track Conditions → Organizers can adjust track difficulty, weather conditions, and prize structures.
-- Race Sponsorship & Betting (Future Feature) → Brands and players can sponsor races, offering custom rewards.
+<!-- - Race Sponsorship & Betting (Future Feature) → Brands and players can sponsor races, offering custom rewards. -->
 
 ### Social & Player Recognition
 

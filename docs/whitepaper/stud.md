@@ -62,18 +62,14 @@ part of stable management and breeding economics**.
 
 🏆 **Monetize Top-Tier Bloodlines** → Earn consistent **revenue from breeding fees**.  
 💰 **Adjust Pricing Dynamically** → Increase fees based on **demand, rarity, and racing success**.  
-🔬 **Control Bloodline Distribution** → Choose **public or private breeding options** to maintain exclusivity.  
 ⚡ **Maximize Stallion Utility** → Even if a stallion is **not racing**, it can **generate passive income** through stud
 services.
 
 ### 🔹 Benefits for Breeders (Stud Seekers)
 
 🧬 **Access High-Quality Genetics** → Breed with stallions that **improve foal stats and performance**.  
-⚖ **Flexible Pricing Options** → Choose **public offers for premium studs** or **private deals for cost-effective
-breeding**.  
 🚀 **Enhance Stable Growth** → Use **stud services strategically** to create a **competitive, high-value bloodline**.  
-📈 **Invest in Future Bloodlines** → Secure breeding rights to **in-demand stallions before their market price increases
-**.
+📈 **Invest in Future Bloodlines** → Secure breeding rights to **in-demand stallions before their market price increases**.
 
 The **stud system encourages long-term breeding strategies**, where both **stallion owners and breeders benefit from
 competitive pricing, bloodline control, and economic sustainability**.

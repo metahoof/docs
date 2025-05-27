@@ -1,8 +1,6 @@
 ![hero](/img/banners/MONETIZATION.png)
 
-## 💰 MetaHoof’s Monetization & Player Rewards
-
-### 🎯 Core Philosophy
+## 1️⃣ Core Philosophy
 
 MetaHoof is built around a fair, transparent, and player-first economy. Our monetization model is designed to reward players who engage with the game strategically and consistently—whether through racing, breeding, or collecting. Most of the value generated within MetaHoof is returned to the player ecosystem through prize pools, leaderboard incentives, and sustainable reinvestment into the game.
 
@@ -10,7 +8,7 @@ We believe in long-term value over short-term extraction, ensuring that every tr
 
 This section details how MetaHoof generates revenue, how it's distributed, and how it empowers our player-driven economy.
 
-### 🐎 Race Rewards
+## 2️⃣ Race Rewards
 
 Racing is at the heart of MetaHoof—and so are the rewards. Every paid-entry race contributes to a shared prize pool that goes back to the players.
 
@@ -36,11 +34,11 @@ Racing is at the heart of MetaHoof—and so are the rewards. Every paid-entry ra
 
 This balanced distribution ensures that competition remains rewarding while continuously strengthening the ecosystem.
 
-### 🧬 Breeding & Stud Market
+## 3️⃣ Breeding & Stud Market
 
 Breeding and stud mechanics not only expand the ecosystem but also fuel competitive progression. Players contribute to the economy through these interactions while unlocking value.
 
-#### Breeding Fee Distribution
+### Breeding Fee Distribution
 
 | Component           | % of Fee | Purpose                                  |
 | ------------------- | -------- | ---------------------------------------- |
@@ -53,7 +51,7 @@ Breeding fees vary based on horse generation:
 - **G3:** $25
 - **G4+:** $22
 
-#### Stud Fee Distribution
+### Stud Fee Distribution
 
 | Component           | % of Fee | Purpose                                          |
 | ------------------- | -------- | ------------------------------------------------ |
@@ -61,9 +59,7 @@ Breeding fees vary based on horse generation:
 | Game Development    | 10%      | Supports ongoing development                     |
 | Leaderboards/Events | 8%       | Allocated to competitive ecosystem and campaigns |
 
----
-
-### 🧑‍🌾 Founders Collection
+## 4️⃣ Founders Collection
 
 A one-time, exclusive drop of high-utility NFTs designed to support the foundational growth of MetaHoof. This collection offers value to holders and secures early supporters a stake in the game's future.
 
@@ -77,12 +73,10 @@ A one-time, exclusive drop of high-utility NFTs designed to support the foundati
 | Tier | Price (USD) | Supply |
 |----------|-------------|--------|
 | Diamond | $130 | 35 |
-| Gold | $80 | TBA |
-| Silver | $25 | TBA |
+| Gold | $80 | 70 |
+| Silver | $25 | 150 |
 
----
-
-### 🧬 Genesis Horse Sales
+## 5️⃣ Genesis Horse Sales
 
 Genesis Horses are released in waves and act as the first generation (G1) of MetaHoof’s bloodline system.
 
@@ -96,9 +90,7 @@ Genesis Horses are released in waves and act as the first generation (G1) of Met
 - Starting at $20 per horse
 - Supply and drop phases will vary
 
----
-
-### 🛠 Game Collectibles & Consumables
+## 6️⃣ Game Collectibles & Consumables
 
 Includes Trainers, Trainer Contracts, and Energy Refills—used to enhance gameplay and manage performance.
 
@@ -113,9 +105,7 @@ Includes Trainers, Trainer Contracts, and Energy Refills—used to enhance gamep
 | Trainer Contract         | 30x - $3<br>50x - $4<br>90x - $5 |
 | Energy Refill (10x bars) | $1                               |
 
----
-
-### 🎟 Season Pass
+## 7️⃣ Season Pass
 
 Season Passes offer access to special competitions, gated rewards, and exclusive leaderboards.
 
@@ -127,9 +117,7 @@ Season Passes offer access to special competitions, gated rewards, and exclusive
 | ----------- | ----------- |
 | Season Pass | $20         |
 
----
-
-### 🔁 Marketplace Royalties
+## 8️⃣ Marketplace Royalties
 
 MetaHoof earns a royalty on all secondary market sales, sustaining the game and enabling community rewards.
 
@@ -141,9 +129,7 @@ MetaHoof earns a royalty on all secondary market sales, sustaining the game and 
 
 All royalty earnings are flexibly used to fund operations, events, and strategic initiatives.
 
----
-
-### 🔗 Bloodline Forge Pass (Collab)
+## 9️⃣ Bloodline Forge Pass (Collab)
 
 A special collaborative mint that enables co-creation between MetaHoof and artists or partners.
 

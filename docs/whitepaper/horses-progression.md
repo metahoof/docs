@@ -42,13 +42,13 @@ Horses in MetaHoof **earn XP (Experience Points)** through:
 
 Each class has **XP requirements** to level up, reflecting a horse’s **growth and competitive journey**.
 
-| **Class**            | **Level Range** | **XP per Level** | **Total XP to Max Level** |
-| -------------------- | --------------- | ---------------- | ------------------------- |
-| **E (Novice)**       | 1-5             | **1,000 XP**     | **5,000 XP**              |
-| **D (Beginner)**     | 6-10            | **2,500 XP**     | **12,500 XP**             |
-| **C (Intermediate)** | 11-15           | **5,000 XP**     | **25,000 XP**             |
-| **B (Advanced)**     | 16-20           | **10,000 XP**    | **50,000 XP**             |
-| **A (Expert)**       | 21-25           | **20,000 XP**    | **100,000 XP**            |
+| **Class**            | **Level Range** | **XP per Level** | **Total XP to Max Class Level** |
+| -------------------- | --------------- | ---------------- | ------------------------------- |
+| **E (Novice)**       | 1-5             | **1,000 XP**     | **5,000 XP**                    |
+| **D (Beginner)**     | 6-10            | **2,500 XP**     | **12,500 XP**                   |
+| **C (Intermediate)** | 11-15           | **5,000 XP**     | **25,000 XP**                   |
+| **B (Advanced)**     | 16-20           | **10,000 XP**    | **50,000 XP**                   |
+| **A (Expert)**       | 21-25           | **20,000 XP**    | **100,000 XP**                  |
 
 **Advancing to the next class requires reaching max XP**, ensuring that **horses naturally progress into more
 competitive tiers**.
