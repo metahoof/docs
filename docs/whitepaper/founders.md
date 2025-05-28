@@ -74,8 +74,8 @@ Mint Price & Supply Finalization: The MetaHoof team will determine and finalize 
 - **Effective Snapshot Date**: TBD — a final snapshot will be taken on this date, after which no trades may occur; the UNIQ holder at snapshot will be honored as the co-creator of the bloodline.
 
 <video controls="controls" src="./media/forge_pass.mov" />
-
+ -->
+ 
 ## Conclusion
 
 The Founders Collection anchors MetaHoof’s growth, aligning early supporters with governance, in-game utility, and economic upside. As a Founders holder, you become a **co-architect of our racing universe**.
- -->
