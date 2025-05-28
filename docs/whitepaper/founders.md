@@ -38,7 +38,7 @@ _All Game Onboarding Packages include exclusive early gameplay access, a custom 
 | Alpha Season Pass           |          ✅          |       ✅       |     ✅      |
 | #1 Season Pass              |          ✅          |       ✅       |     ❌      |
 
-## 4️⃣ Investor Collaboration: Exclusive Bloodline Co-Creation
+<!-- To come Later ## 4️⃣ Investor Collaboration: Exclusive Bloodline Co-Creation
 
 The **MetaHoof Bloodline Forge Pass** is a one-of-one, ultra-exclusive NFT (1 total) priced at **$3,000**, granting the holder the power to:
 
@@ -78,3 +78,4 @@ Mint Price & Supply Finalization: The MetaHoof team will determine and finalize 
 ## Conclusion
 
 The Founders Collection anchors MetaHoof’s growth, aligning early supporters with governance, in-game utility, and economic upside. As a Founders holder, you become a **co-architect of our racing universe**.
+ -->
