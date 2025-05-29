@@ -71,7 +71,7 @@ export default withMermaid(defineConfig({
                         { text: 'Uniqs & Ownership', link: '/whitepaper/uniqs' },
                         { text: 'Genesis Horses', link: '/whitepaper/genesis' },
                         { text: 'Founder Collections', link: '/whitepaper/founders' },
-                        { text: 'Sponosrship Pass', link: '/whitepaper/sponsorship' },
+                        { text: 'Sponsorship Pass', link: '/whitepaper/sponsorship' },
                         { text: 'Game Economy', link: '/whitepaper/game-economy' },
                         { text: 'Monetization & Revenue Model', link: '/whitepaper/monetization' },
                         { text: 'Community', link: '/whitepaper/community' }
