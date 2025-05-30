@@ -110,7 +110,7 @@ export default withMermaid(defineConfig({
         head: [
             [
                 'script',
-                { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-K3SRXQBXLE' }
+                { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-CZ734K6M57' }
             ],
             [
                 'script',
@@ -118,7 +118,7 @@ export default withMermaid(defineConfig({
                 `window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
-              gtag('config', 'G-K3SRXQBXLE');`
+              gtag('config', 'G-CZ734K6M57');`
             ]
         ],
 
