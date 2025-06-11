@@ -51,21 +51,40 @@ This custom bloodline will be minted as **Genesis**, unlocking all Genesis-level
 Mint Price & Supply Finalization: The MetaHoof team will determine and finalize the mint price and total supply of this exclusive Genesis bloodline, honoring the specifications of this NFT asset and ensuring consistency with MetaHoof’s ecosystem standards.
 :::
 
-### 🔄 Ongoing Revenue Streams
+For full legal terms of this NFT item, [click here to view the Bloodline Forge Pass Terms](./bloodline-forge-terms.md).
 
-- **Launchpad Royalties**: 40% of all launchpad sales from this bloodline.
-- **Perpetual Marketplace Royalties**: 3% of all secondary sales from this bloodline.
-- **Offspring Royalty Share:** 3% of the breeding fee for every breeding using horses from this bloodline (e.g., breeding fee = $30 → co-creator receives $3).
+### 🔄 Revenue Distribution Logic
+
+Royalties paid to the co-creator are based on **net revenue**, defined as the remaining value after mandatory Ultra platform fees (15%) and applicable Brazilian taxes on digital goods (approx. 15%) are deducted.
+
+#### Example: Sale of $30
+
+| Description                     | Value   |
+| ------------------------------ | ------- |
+| Gross Sale                     | $30.00  |
+| Less: Platform Fee (15%)       | –$4.50  |
+| Less: Brazilian VAT (15%)      | –$4.50  |
+| **Net Revenue**                | $21.00  |
+| Co-Creator Share (40%)         | $8.40   |
+| MetaHoof Share (60%)           | $12.60  |
+
+This ensures co-creators receive fair value while remaining compliant with platform and regional regulations.
 
 ### 📊 Collection Economics & ROI
 
-| Metric                         | Value                                  |
+| Metric                          | Value                                  |
 | ------------------------------ | -------------------------------------- |
-| **Auction Start Price**        | $1,000                                 |
-| **Exclusive Bloodline Minted** | 500 horses                             |
-| **Mint Price**                 | $30                                    |
-| **Primary Sale Revenue**       | 500 × $30 = $15,000                    |
-| **Pass Holder Royalty (40%)**  | $15,000 × 40% = $6,000                 |
+| **Auction Start Price**         | $1,000                                 |
+| **Exclusive Bloodline Minted**  | 500 horses                             |
+| **Estimated Mint Price**        | $30 per horse                          |
+| **Gross Primary Sale Revenue**  | 500 × $30 = $15,000                    |
+| **Marketplace Fee (15%)**       | –$2,250                                |
+| **Estimated Brazilian Tax (15%)** | –$2,250                              |
+| **Net Revenue After Deductions**| $10,500                                |
+| **Co-Creator Share (40%)**      | $4,200                                 |
+| **MetaHoof Share (60%)**        | $6,300                                 |
+
+This projection ensures clear visibility into potential ROI for the Forge Pass holder, based on current pricing and tax assumptions.
 
 ### 🗓 Important Dates
 
