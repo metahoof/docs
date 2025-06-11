@@ -55,7 +55,7 @@ For full legal terms of this NFT item, [click here to view the Bloodline Forge P
 
 ### 🔄 Revenue Distribution Logic
 
-Royalties paid to the co-creator are based on **net revenue**, defined as the remaining value after mandatory Ultra platform fees (15%) and applicable Brazilian taxes on digital goods (approx. 15%) are deducted.
+Royalties paid to the co-creator are based on **net revenue**, defined as the remaining value after mandatory platform fees (15%) and applicable Brazilian taxes on digital goods (approx. 15%) are deducted.
 
 #### Example: Sale of $30
 
@@ -78,7 +78,7 @@ This ensures co-creators receive fair value while remaining compliant with platf
 | **Exclusive Bloodline Minted**  | 500 horses                             |
 | **Estimated Mint Price**        | $30 per horse                          |
 | **Gross Primary Sale Revenue**  | 500 × $30 = $15,000                    |
-| **Marketplace Fee (15%)**       | –$2,250                                |
+| **Platform Fee (15%)**          | –$2,250                                |
 | **Estimated Brazilian Tax (15%)** | –$2,250                              |
 | **Net Revenue After Deductions**| $10,500                                |
 | **Co-Creator Share (40%)**      | $4,200                                 |
