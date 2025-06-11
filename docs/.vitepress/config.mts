@@ -87,24 +87,47 @@ export default withMermaid(defineConfig({
             ],
             '/tutorials/': [
                 {
-                    text: 'Getting Started',
+                    text: 'Web3 Onboarding',
                     items: [
-                        { text: 'Setup Ultra Wallet', link: '/tutorials/setup-ultra-wallet' },
+                    { text: 'Setup Ultra Wallet', link: '/tutorials/setup-ultra-wallet' },
                     ]
                 },
-                // {
-                //     text: 'Manage Stable',
-                //     items: [
-                //         { text: 'Manage Horses', link: '/tutorials/manage-horses' },
-                //     ]
-                // },
-                // {
-                //     text: 'Training Center',
-                //     items: [
-                //         { text: 'Create Strategies', link: '/tutorials/create-strategies' },
-                //     ]
-                // },
-            ]
+                {
+                    text: 'Getting Started',
+                    items: [
+                    { text: 'How to Find the Best Horse for a Race', link: '/tutorials/how-to-find-the-best-horse' },
+                    { text: 'Understanding Horse Attributes', link: '/tutorials/horse-attributes-explained' },
+                    ]
+                },
+                {
+                    text: 'Stable Management',
+                    items: [
+                    { text: 'Training & Fitness Guide', link: '/tutorials/training-and-fitness' },
+                    { text: 'Energy & Recovery Tips', link: '/tutorials/energy-recovery-tips' },
+                    ]
+                },
+                {
+                    text: 'Breeding & Bloodlines',
+                    items: [
+                    { text: 'How Breeding Works', link: '/tutorials/breeding-guide' },
+                    { text: 'Bloodlines & Their Strengths', link: '/tutorials/bloodline-characteristics' },
+                    ]
+                },
+                {
+                    text: 'Race Strategy & Tactics',
+                    items: [
+                    { text: 'Choosing the Right Race Strategy', link: '/tutorials/race-strategy-guide' },
+                    { text: 'Reading Race Conditions', link: '/tutorials/race-conditions-guide' },
+                    ]
+                },
+                {
+                    text: 'Progression & Rewards',
+                    items: [
+                    { text: 'Leveling Up & XP', link: '/tutorials/xp-and-leveling' },
+                    { text: 'Season Pass & Daily Tasks', link: '/tutorials/season-pass-guide' },
+                    ]
+                }
+                ]
         },
 
         head: [
