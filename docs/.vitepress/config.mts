@@ -106,27 +106,27 @@ export default withMermaid(defineConfig({
                     { text: 'Energy & Recovery Tips', link: '/tutorials/energy-recovery-tips' },
                     ]
                 },
-                {
-                    text: 'Breeding & Bloodlines',
-                    items: [
-                    { text: 'How Breeding Works', link: '/tutorials/breeding-guide' },
-                    { text: 'Bloodlines & Their Strengths', link: '/tutorials/bloodline-characteristics' },
-                    ]
-                },
-                {
-                    text: 'Race Strategy & Tactics',
-                    items: [
-                    { text: 'Choosing the Right Race Strategy', link: '/tutorials/race-strategy-guide' },
-                    { text: 'Reading Race Conditions', link: '/tutorials/race-conditions-guide' },
-                    ]
-                },
-                {
-                    text: 'Progression & Rewards',
-                    items: [
-                    { text: 'Leveling Up & XP', link: '/tutorials/xp-and-leveling' },
-                    { text: 'Season Pass & Daily Tasks', link: '/tutorials/season-pass-guide' },
-                    ]
-                }
+                // {
+                //     text: 'Breeding & Bloodlines',
+                //     items: [
+                //     { text: 'How Breeding Works', link: '/tutorials/breeding-guide' },
+                //     { text: 'Bloodlines & Their Strengths', link: '/tutorials/bloodline-characteristics' },
+                //     ]
+                // },
+                // {
+                //     text: 'Race Strategy & Tactics',
+                //     items: [
+                //     { text: 'Choosing the Right Race Strategy', link: '/tutorials/race-strategy-guide' },
+                //     { text: 'Reading Race Conditions', link: '/tutorials/race-conditions-guide' },
+                //     ]
+                // },
+                // {
+                //     text: 'Progression & Rewards',
+                //     items: [
+                //     { text: 'Leveling Up & XP', link: '/tutorials/xp-and-leveling' },
+                //     { text: 'Season Pass & Daily Tasks', link: '/tutorials/season-pass-guide' },
+                //     ]
+                // }
                 ]
         },
 
