@@ -119,7 +119,7 @@ The table below shows how many races a horse can run at each decay level dependi
 
 - **Soft Penalties**: Performance gradually declines across decay levels (e.g., -2% to -18%), without hard-stopping horses.
 - **No Attribute Rewrite**: Base stats remain immutable. Decay is applied at runtime for fairness and blockchain compatibility.
-- **Breeding Eligibility**: Horses can breed after reaching Decay Level 2. **G1s** are always breeding-eligible from the start.
+<!-- - **Breeding Eligibility**: Horses can breed after reaching Decay Level 2. **G1s** are always breeding-eligible from the start. -->
 
 ### 🛠️ Extend Career with Strategy
 
