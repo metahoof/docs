@@ -31,7 +31,22 @@ carefully planned genetic investment**.
 Breeding is not just about **luck**—it’s about **strategy, planning, and understanding the genetic probabilities of
 inheritance**.
 
-## 3️⃣ Bloodlines & Breed Types
+## 3️⃣ Breeding Restrictions & Inbreeding Prevention
+
+To ensure **healthy bloodline diversity** and **fair genetic distribution**, MetaHoof enforces strict **breeding restrictions** to prevent inbreeding.
+
+### ❌ Forbidden Breeding Relationships
+
+Certain pairings are **not allowed** in the breeding system:
+
+- **Parent-Offspring**: A stallion cannot breed with a mare that is either **his parent** or **his offspring**, and vice versa.
+- **Siblings**: Horses that share **at least one parent** are considered **siblings** and cannot breed with each other.
+
+These rules apply across all generations and help preserve the **integrity of the genetic pool**, promoting **strategic and sustainable breeding decisions**.
+
+Breeding attempts that violate these rules will be **rejected by the system**, ensuring that all offspring result from **valid, genetically safe pairings**.
+
+## 4️⃣ Bloodlines & Breed Types
 
 MetaHoof's breeding system is designed to **preserve rarity, maintain competitive balance, and introduce real strategic depth** when selecting breeding pairs. The combination of **bloodlines and breed types** determines a horse’s **genetic stability, breeding potential, and overall value**.
 
@@ -58,7 +73,7 @@ Use these attribute ranges to align bloodline selection with race conditions and
 - **Technical short-course events** highlight **Sakura**.
 - **Balanced tracks** reward **Mirage Arabians**.
 
-## 4️⃣ Breed Types & Their Impact
+## 5️⃣ Breed Types & Their Impact
 
 Breed Type determines **how a horse interacts with the breeding system**, affecting **foal quality, genetic predictability, and rarity**. While **bloodline comes from the Mare, breed type is determined by both parents** and influences **inheritance, longevity, and resale value**.
 
@@ -72,7 +87,7 @@ Breed Type determines **how a horse interacts with the breeding system**, affect
 - **Purebreds** provide **genetic consistency**, making them reliable for **specific race strategies and breeding programs**.
 - **Crossbreeds** inherit a **wider range of strengths**, offering **greater adaptability but less predictability** in breeding outcomes.
 
-## 5️⃣ Trait Inheritance & Genetic Mechanics
+## 6️⃣ Trait Inheritance & Genetic Mechanics
 
 Each foal in MetaHoof **inherits a unique combination of traits from both parents**, meaning careful **breeding
 selection can refine a horse’s strengths over generations**.
@@ -146,7 +161,7 @@ $$
 
 This algorithm balances genealogical depth with genetic potential, producing nuanced, unique performance traits for each new foal.
 
-## 6️⃣ Breed Licenses & Controlled Scarcity
+## 7️⃣ Breed Licenses & Controlled Scarcity
 
 Unlike **unrestricted breeding systems**, MetaHoof’s breeding economy is **regulated by Breed License Uniqs**, ensuring
 **scarcity and value retention**.
@@ -167,7 +182,7 @@ Players can **acquire Breed Licenses through:**
 Breed Licenses add **strategic depth**, making breeding a **deliberate, valuable decision rather than an unlimited
 process**.
 
-## 7️⃣ Breeding Cooldown & Generational Limits
+## 8️⃣ Breeding Cooldown & Generational Limits
 
 > **Strategic Bloodline Management Through Controlled Breeding Cycles**
 
