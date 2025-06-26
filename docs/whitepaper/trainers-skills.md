@@ -21,7 +21,7 @@
 | Skill Name               | Effect                                     | When It Triggers                           |
 |--------------------------|--------------------------------------------|---------------------------------------------|
 | **Early Sprinter**       | +1% speed                                 | At race start                              |
-| **Controlled Breathing** | –1% stamina drain per tick                | Entire race                                |
+| **Controlled Breathing** | –3% stamina drain per tick                | Entire race                                |
 | **Basic Tactical Orders**| –5% chance of pacing penalties            | Entire race                                |
 | **Cold Starter**         | +1.5% speed                                | At start, if fog or rain                   |
 | **Dry Track Ready**      | +1% speed                                  | On dry dirt tracks                         |
