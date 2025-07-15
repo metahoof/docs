@@ -1,14 +1,14 @@
 ![hero](/img/banners/CREATOR_PROGRAM.png)
 
-> Turn your influence into in-game impact. Grow the MetaHoofverse—and earn real $UOS rewards based on what your community does.
+> Turn your influence into in-game impact. Grow the MetaHoofverse—and earn real UOS rewards based on what your community does.
 
-The **MetaHoof Creator Program** is a performance-based referral initiative that empowers creators, influencers, and community leaders to grow the MetaHoof ecosystem and earn rewards in $UOS. Unlike traditional Web2 referral systems, this program is deeply integrated with MetaHoof’s game economy, ensuring that value flows back to those who bring engaged, active players into the game.
+The **MetaHoof Creator Program** is a performance-based referral initiative that empowers creators, influencers, and community leaders to grow the MetaHoof ecosystem and earn rewards in UOS. Unlike traditional Web2 referral systems, this program is deeply integrated with MetaHoof’s game economy, ensuring that value flows back to those who bring engaged, active players into the game.
 
 This is not about empty signups — it’s about bringing new **racers**, **breeders**, and **collectors** into the MetaHoofverse.
 
 ## 1️⃣ **Program Overview**
 
-The Creator Program is designed to reward based on **in-game actions** performed by referred players. When a creator brings in a new user who actively plays, mints NFTs, breeds, races, or trades — **the creator earns $UOS rewards**.
+The Creator Program is designed to reward based on **in-game actions** performed by referred players. When a creator brings in a new user who actively plays, mints NFTs, breeds, races, or trades — **the creator earns UOS rewards**.
 
 The program is structured in **three tiers**, with each level unlocking greater rewards and visibility. Progression is based on real performance, not social clout.
 
@@ -16,36 +16,40 @@ The program is structured in **three tiers**, with each level unlocking greater 
 
 Referred users generate rewards for creators when they take meaningful economic actions within MetaHoof. Below is a breakdown of eligible actions and their associated referral rewards:
 
-| Revenue Source                                   | Rookie (T1)          | Pro (T2) | Elite (T3) | Notes                                                  |
-| ------------------------------------------------ | -------------------- | -------- | ---------- | ------------------------------------------------------ |
-| **NFT Minting** (Horses, Trainers, Collectibles) | 1%                   | 1.5%     | 2%         | Applies only to UOS-based sales on MetaHoof Launchpad  |
-| **Marketplace Royalties**                        | 50%                  | 75%      | 100%       | % of royalty fee collected from referred user’s trades |
-| **Entry Fee Races** (MetaHoof-created races)     | 5% of MetaHoof’s cut | 7.5%     | 10%        | Applies only to entry fees paid by referred users      |
-| **Stud Fees**                                    | 1%                   | 1.5%     | 2%         | Applies when referred user pays a breeding fee         |
+| Revenue Source                                   | Rookie (T1) | Pro (T2) | Elite (T3) | Notes                                                                             |
+| ------------------------------------------------ | ----------- | -------- | ---------- | --------------------------------------------------------------------------------- |
+| **NFT Minting** (Horses, Trainers, Collectibles) | 1%          | 1.5%     | 2%         | Applies only to UOS-based sales on MetaHoof Launchpad                             |
+| **Marketplace Royalties** (MetaHoof as promoter) | 1%          | 1.5%     | 2%         | % of royalty fee collected from referred user’s trades                            |
+| **Entry Fee Races** (MetaHoof-created races)     | 5%          | 7.5%     | 10%        | Applies only to entry fees paid by referred users. Only applied on MetaHoof’s cut |
+| **Breed Fees**                                   | 5%          | 7.5%     | 10%        | Applies when referred user pays a breeding fee                                    |
+| **Stud Fees**                                    | 1%          | 1.5%     | 2%         | Applies when referred user pays a breeding fee                                    |
 
-> ⚠️ _Only transactions performed using $UOS are eligible for referral rewards. FIAT-based purchases are excluded from the program._
+> ⚠️ _Only transactions performed using UOS are eligible for referral rewards. FIAT-based purchases are excluded from the program._
 
 ::: info Notes:
-- "MetaHoof’s cut" refers to the portion of the entry fee that goes to the game (not the prize pool).  
-- "Marketplace Royalties" are calculated from the fees collected on trades initiated by referred users.
-:::
+
+- "MetaHoof’s cut" refers to the portion of the entry fee that goes to the game (not the prize pool).
+- "Marketplace Royalties" are calculated from the fees collected on trades initiated by referred users. And only transactoins promoted by MetaHoof Marketplace are elegible.
+  :::
 
 ### 💸 Sample Reward Potential
 
 To give you a clearer picture of what’s possible, here are a few real-world examples based on actual in-game prices:
 
-| Action          | Example Price (USD / $UOS) | Rookie (T1) | Pro (T2) | Elite (T3) |
-| --------------- | -------------------------- | ----------- | -------- | ---------- |
-| Mint Horse NFT  | $20 / 400 $UOS             | 8 $UOS      | 12 $UOS  | 16 $UOS    |
-| Buy Trainer NFT | $10 / 200 $UOS             | 4 $UOS      | 6 $UOS   | 8 $UOS     |
-| Entry Race Fee  | $10 / 200 $UOS             | 10 $UOS     | 15 $UOS  | 20 $UOS    |
-| Pay Stud Fee    | $5 / 100 $UOS              | 1 $UOS      | 1.5 $UOS | 2 $UOS     |
+| Action          | Example Price (USD / UOS) | Rookie (T1) | Pro (T2) | Elite (T3) |
+| --------------- | ------------------------- | ----------- | -------- | ---------- |
+| Mint Horse NFT  | $20 / 400 UOS             | 8 UOS       | 12 UOS   | 16 UOS     |
+| Buy Trainer NFT | $10 / 200 UOS             | 4 UOS       | 6 UOS    | 8 UOS      |
+| Entry Race Fee  | $10 / 200 UOS             | 10 UOS      | 15 UOS   | 20 UOS     |
+| Pay Breed Fee   | $15 / 300 UOS             | 15 UOS      | 22.5 UOS | 30 UOS     |
+| Pay Stud Fee    | $5 / 100 UOS              | 1 UOS       | 1.5 UOS  | 2 UOS      |
 
-_(Examples calculated using the exchange rate of 1 USD = 20 $UOS. Actual in-game prices and token values may vary.)_
+_(Examples calculated using the exchange rate of 1 USD = 20 UOS. Actual in-game prices and token values may vary.)_
 
-🧮 *How rewards are calculated:*  
-- Mint a Horse for 400 $UOS → Elite tier gets 2% → **8 $UOS**  
-- Entry Race Fee of 200 $UOS → MetaHoof’s cut is ~100 $UOS → 10% reward = **10 $UOS**
+🧮 _How rewards are calculated:_
+
+- Mint a Horse for 400 UOS → Elite tier gets 2% → **8 UOS**
+- Entry Race Fee of 1,000 UOS → MetaHoof’s cut is ~100 UOS → 10% reward = **10 UOS**
 
 🔥 Whether you're onboarding 10 or 10,000 players, your earnings scale with their engagement. Bring your community—and earn as they race, trade, and grow!
 
@@ -53,13 +57,14 @@ _(Examples calculated using the exchange rate of 1 USD = 20 $UOS. Actual in-game
 
 Let's see how your earnings could scale based on the number of active referred users:
 
-| Action          | Unit Reward (Elite) | 10 Users     | 100 Users      | 1,000 Users     |
-| --------------- | ------------------- | ------------ | -------------- | --------------- |
-| Mint Horse NFT  | 16 $UOS             | 160 $UOS     | 1,600 $UOS     | 16,000 $UOS     |
-| Buy Trainer NFT | 8 $UOS              | 80 $UOS      | 800 $UOS       | 8,000 $UOS      |
-| Entry Race Fee  | 20 $UOS             | 200 $UOS     | 2,000 $UOS     | 20,000 $UOS     |
-| Pay Stud Fee    | 2 $UOS              | 20 $UOS      | 200 $UOS       | 2,000 $UOS      |
-| **Total**       | —                   | <span style="color:#00c853;font-weight:bold">460 $UOS</span> | <span style="color:#00c853;font-weight:bold">4,600 $UOS</span> | <span style="color:#00c853;font-weight:bold">46,000 $UOS</span> |
+| Action          | Unit Reward (Elite) | 10 Users                                                    | 100 Users                                                     | 1,000 Users                                                    |
+| --------------- | ------------------- | ----------------------------------------------------------- | ------------------------------------------------------------- | -------------------------------------------------------------- |
+| Mint Horse NFT  | 16 UOS              | 160 UOS                                                     | 1,600 UOS                                                     | 16,000 UOS                                                     |
+| Buy Trainer NFT | 8 UOS               | 80 UOS                                                      | 800 UOS                                                       | 8,000 UOS                                                      |
+| Entry Race Fee  | 20 UOS              | 200 UOS                                                     | 2,000 UOS                                                     | 20,000 UOS                                                     |
+| Pay Breed Fee   | 30 UOS              | 300 UOS                                                     | 3,000 UOS                                                     | 30,000 UOS                                                     |
+| Pay Stud Fee    | 2 UOS               | 20 UOS                                                      | 200 UOS                                                       | 2,000 UOS                                                      |
+| **Total**       | —                   | <span style="color:#00c853;font-weight:bold">760 UOS</span> | <span style="color:#00c853;font-weight:bold">7,600 UOS</span> | <span style="color:#00c853;font-weight:bold">76,000 UOS</span> |
 
 _These examples assume all users perform each action once. In reality, active players engage repeatedly, so your actual rewards may be much higher._
 
@@ -86,10 +91,17 @@ A referred user is considered **active** if they perform at least one of the fol
 
 ## 4️⃣ **Apply to the Program**
 
-🎯 Ready to turn your reach into rewards?  
-👉 [Apply to join the MetaHoof Creator Program →](https://forms.gle/RbHv1bijfmJEgfraA)
+🎯 Want to start earning with MetaHoof? It’s easier than ever.
 
-It only takes a few minutes—and once approved, you’ll get access to your referral dashboard and starter rewards.
+Anyone can become a Creator—just start sharing your **unique referral code** (provided after onboarding) and begin earning UOS rewards from your community’s actions.
+
+For creators aiming for **Pro** or **Elite** status with expanded visibility, benefits, and campaign opportunities, you may still apply for advanced tier evaluation:
+
+👉 [Apply for Tier Advancement →](https://forms.gle/RbHv1bijfmJEgfraA)
+
+Whether you’re just getting started or looking to scale, MetaHoof has a path for you.  
+Turn your reach into real in-game impact.
+
 
 ### ❓ Frequently Asked Questions
 
@@ -97,7 +109,7 @@ It only takes a few minutes—and once approved, you’ll get access to your ref
 Every approved creator gets a unique referral code or link that tracks user activity in-game.
 
 **When do I get paid?**  
-Rewards are distributed periodically in $UOS, based on verified in-game actions.
+Rewards are distributed periodically in UOS, based on verified in-game actions.
 
 **Can I promote anywhere?**  
 Yes! Social media, videos, blogs, Discord—you choose where to activate your community.

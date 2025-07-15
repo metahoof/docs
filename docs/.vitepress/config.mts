@@ -82,6 +82,10 @@ export default withMermaid(
               { text: "Founder Collections", link: "/whitepaper/founders" },
               { text: "Bloodline Forge Pass", link: "/whitepaper/bloodline-forge-pass" },
               { text: "Sponsorship Pass", link: "/whitepaper/sponsorship" },
+              {
+                text: "Creator Program",
+                link: "/whitepaper/creator-program",
+              },
               { text: "Game Economy", link: "/whitepaper/game-economy" },
               {
                 text: "Monetization & Revenue Model",

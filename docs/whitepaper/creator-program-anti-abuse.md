@@ -18,11 +18,10 @@ Creators found engaging in any of the following will be disqualified from the pr
 
 A referred user must meet **at least one** of the following to be considered valid:
 
-- Mint an NFT via MetaHoof Launchpad (UOS only)
-- Complete **3 or more races**
+- Mint an NFT via MetaHoof Launchpad
+- Complete **3 or more paid races**
 - Pay a **stud fee**
 - Complete a **marketplace transaction**
-- Maintain **active session behavior** (logged in on 2+ different days within first 7 days)
 
 > ⚠️ A user who signs up but performs **no economic activity** will **not generate** any Creator reward.
 
@@ -61,6 +60,7 @@ Each Creator receives a unique referral code or link:
 `https://play.metahoof.com/?ref=hoofguy123`
 
 On first visit:
+
 - A **referral ID** is stored locally (e.g. cookie or localStorage)
 - Once the user connects a wallet and signs up, the referral is **linked to their account**
 

@@ -17,13 +17,15 @@ Racing is at the heart of MetaHoof—and so are the rewards. Every paid-entry ra
 | Component                   | % of Entry Fees | Purpose                                        |
 | --------------------------- | --------------- | ---------------------------------------------- |
 | Player Rewards              | 90%             | Distributed among winners (WTA, Top 2/3/6)     |
-| Game Development (MetaHoof) | 8%              | Reinvested into game infrastructure and growth |
+| Game Development (MetaHoof) | 7%              | Reinvested into game infrastructure and growth |
+| Creator Program             | 1%              | Reward for Creator and KOLs                    |
 | Leaderboards                | 2%              | Supports competitive leaderboard prizes        |
 
 > Example: For a 1,000 $UOS race pool:
 >
 > - 900 $UOS are paid back to racers
-> - 80 $UOS are reinvested in the platform
+> - 70 $UOS are reinvested in the platform
+> - 10 $UOS are shared with refferer account
 > - 20 $UOS are distributed across leaderboard pools
 
 **Payout Types**
@@ -42,22 +44,24 @@ Breeding and stud mechanics not only expand the ecosystem but also fuel competit
 
 | Component           | % of Fee | Purpose                                  |
 | ------------------- | -------- | ---------------------------------------- |
-| Game Development    | 80%      | Development, infrastructure, and content |
+| Game Development    | 70%      | Development, infrastructure, and content |
 | Leaderboards/Events | 20%      | Distributed through in-game rewards      |
+| Creator Program     | 10%      | Shared with refferer account             |
 
 Breeding fees vary based on horse generation:
 
-- **G2:** $30
-- **G3:** $25
-- **G4+:** $22
+- **G2:** $18
+- **G3:** $15
+- **G4+:** $13
 
 ### Stud Fee Distribution
 
 | Component           | % of Fee | Purpose                                          |
 | ------------------- | -------- | ------------------------------------------------ |
-| Stallion Owner      | 82%      | Earnings from making stallions available         |
+| Stallion Owner      | 80%      | Earnings from making stallions available         |
 | Game Development    | 10%      | Supports ongoing development                     |
 | Leaderboards/Events | 8%       | Allocated to competitive ecosystem and campaigns |
+| Creator Program     | 2%       | Shared with refferer accounts                    |
 
 ## 4️⃣ Founders Collection
 
@@ -128,6 +132,8 @@ MetaHoof earns a royalty on all secondary market sales, sustaining the game and 
 | Promoter Fee       | 2% (up to 10%) |
 
 All royalty earnings are flexibly used to fund operations, events, and strategic initiatives.
+
+Promoter Fee are used to share with referrers via Creator Program, only promoter fees assigned to mh.shares are elegible for it.
 
 ## 9️⃣ Bloodline Forge Pass (Collab)
 

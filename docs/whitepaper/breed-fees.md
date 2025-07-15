@@ -14,9 +14,9 @@ This model incentivizes thoughtful breeding while regulating supply and preservi
 | Generation            | Base Fee (USD) |
 | --------------------- | -------------- |
 | **G1 (Genesis) Mint** | $20 (fixed)    |
-| **G2**                | $30            |
-| **G3**                | $25            |
-| **G4+**               | $22            |
+| **G2**                | $18            |
+| **G3**                | $15            |
+| **G4+**               | $13            |
 
 ## 2️⃣ Parent Rarity Multipliers
 
@@ -40,17 +40,17 @@ $$
 
 Where:
 
-- \(B = 30\) (Base Generation Fee for G2)
+- \(B = 18\) (Base Generation Fee for G2)
 - \(m_1 = 1.1\) (Multiplier for Parent A)
 - \(m_2 = 1.1\) (Multiplier for Parent B)
 
 Therefore:
 
 $$
-F = 30 \times 1.1 \times 1.1 = 30 \times 1.21 = 36.3
+F = 18 \times 1.1 \times 1.1 = 21,6
 $$
 
-Resulting in a final breeding fee of **\$36.30**.
+Resulting in a final breeding fee of **\$21.60**.
 
 ## 3️⃣ Offspring Rarity Probabilities
 
@@ -75,4 +75,5 @@ This probability model aligns breeding costs with genetic outcomes, encouraging 
 - **Market Dynamics**: Diverse parent pairings stimulate marketplace activity.
 
 **Conclusion**  
+
 MetaHoof’s updated breeding fee model leverages **generation-based costs** and **parent rarity multipliers**, underpinned by a **probabilistic rarity table**, to balance supply, preserve genetic integrity, and drive a dynamic breeding economy.
