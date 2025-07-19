@@ -1,20 +1,24 @@
 ![hero](/img/banners/CREATOR_PROGRAM.png)
 
-> Turn your influence into in-game impact. Grow the MetaHoofverse—and earn real UOS rewards based on what your community does.
+> Turn your reach into race-day rewards.
 
-The **MetaHoof Creator Program** is a performance-based referral initiative that empowers creators, influencers, and community leaders to grow the MetaHoof ecosystem and earn rewards in UOS. Unlike traditional Web2 referral systems, this program is deeply integrated with MetaHoof’s game economy, ensuring that value flows back to those who bring engaged, active players into the game.
+Bring your community into the **MetaHoofverse** and earn **real $UOS** every time they play, race, breed, or trade.
 
-This is not about empty signups — it’s about bringing new **racers**, **breeders**, and **collectors** into the MetaHoofverse.
+No gimmicks. No empty signups. Just real in-game impact, rewarded.
 
-## 1️⃣ **Program Overview**
+## 1️⃣ **What It is**
 
-The Creator Program is designed to reward based on **in-game actions** performed by referred players. When a creator brings in a new user who actively plays, mints NFTs, breeds, races, or trades — **the creator earns UOS rewards**.
+The **MetaHoof Creator Program** is built for creators who drive real action.
 
-The program is structured in **three tiers**, with each level unlocking greater rewards and visibility. Progression is based on real performance, not social clout.
+- You refer players. They race, breed, mint NFTs, and trade.
+- You earn $UOS based on what they actually do.
 
-## 2️⃣ **Eligible Revenue Sources & Reward Structure**
+It’s performance-based. Fully on-chain. Scales with your influence.
 
-Referred users generate rewards for creators when they take meaningful economic actions within MetaHoof. Below is a breakdown of eligible actions and their associated referral rewards:
+## 2️⃣ **What You Earn**
+
+Whenever someone you refer takes an in-game action, you get a cut in UOS.
+The more they do, the more you earn.
 
 | Revenue Source                                   | Rookie (T1) | Pro (T2) | Elite (T3) | Notes                                                                             |
 | ------------------------------------------------ | ----------- | -------- | ---------- | --------------------------------------------------------------------------------- |
@@ -24,7 +28,7 @@ Referred users generate rewards for creators when they take meaningful economic 
 | **Breed Fees**                                   | 5%          | 7.5%     | 10%        | Applies when referred user pays a breeding fee                                    |
 | **Stud Fees**                                    | 1%          | 1.5%     | 2%         | Applies when referred user pays a breeding fee                                    |
 
-> ⚠️ _Only transactions performed using UOS are eligible for referral rewards. FIAT-based purchases are excluded from the program._
+> ⚠️ _Only $UOS transactions are eligible. Fiat purchases don’t count._
 
 ::: info Notes:
 
@@ -32,45 +36,29 @@ Referred users generate rewards for creators when they take meaningful economic 
 - "Marketplace Royalties" are calculated from the fees collected on trades initiated by referred users. And only transactoins promoted by MetaHoof Marketplace are elegible.
   :::
 
-### 💸 Sample Reward Potential
-
-To give you a clearer picture of what’s possible, here are a few real-world examples based on actual in-game prices:
-
-| Action          | Example Price (USD / UOS) | Rookie (T1) | Pro (T2) | Elite (T3) |
-| --------------- | ------------------------- | ----------- | -------- | ---------- |
-| Mint Horse NFT  | $20 / 400 UOS             | 8 UOS       | 12 UOS   | 16 UOS     |
-| Buy Trainer NFT | $10 / 200 UOS             | 4 UOS       | 6 UOS    | 8 UOS      |
-| Entry Race Fee  | $10 / 200 UOS             | 10 UOS      | 15 UOS   | 20 UOS     |
-| Pay Breed Fee   | $15 / 300 UOS             | 15 UOS      | 22.5 UOS | 30 UOS     |
-| Pay Stud Fee    | $5 / 100 UOS              | 1 UOS       | 1.5 UOS  | 2 UOS      |
-
-_(Examples calculated using the exchange rate of 1 USD = 20 UOS. Actual in-game prices and token values may vary.)_
-
-🧮 _How rewards are calculated:_
-
-- Mint a Horse for 400 UOS → Elite tier gets 2% → **8 UOS**
-- Entry Race Fee of 1,000 UOS → MetaHoof’s cut is ~100 UOS → 10% reward = **10 UOS**
-
-🔥 Whether you're onboarding 10 or 10,000 players, your earnings scale with their engagement. Bring your community—and earn as they race, trade, and grow!
-
-### 📈 Scaled Reward Example
+### 💸 Example Earnings (Elite Tier)
 
 Let's see how your earnings could scale based on the number of active referred users:
 
-| Action          | Unit Reward (Elite) | 10 Users                                                    | 100 Users                                                     | 1,000 Users                                                    |
-| --------------- | ------------------- | ----------------------------------------------------------- | ------------------------------------------------------------- | -------------------------------------------------------------- |
-| Mint Horse NFT  | 16 UOS              | 160 UOS                                                     | 1,600 UOS                                                     | 16,000 UOS                                                     |
-| Buy Trainer NFT | 8 UOS               | 80 UOS                                                      | 800 UOS                                                       | 8,000 UOS                                                      |
-| Entry Race Fee  | 20 UOS              | 200 UOS                                                     | 2,000 UOS                                                     | 20,000 UOS                                                     |
-| Pay Breed Fee   | 30 UOS              | 300 UOS                                                     | 3,000 UOS                                                     | 30,000 UOS                                                     |
-| Pay Stud Fee    | 2 UOS               | 20 UOS                                                      | 200 UOS                                                       | 2,000 UOS                                                      |
-| **Total**       | —                   | <span style="color:#00c853;font-weight:bold">760 UOS</span> | <span style="color:#00c853;font-weight:bold">7,600 UOS</span> | <span style="color:#00c853;font-weight:bold">76,000 UOS</span> |
+| Action          | Price ($UOS) | Reward ($UOS) |
+| --------------- | ------------ | ------------- |
+| Mint Horse NFT  | 400 UOS      | 16 UOS        |
+| Buy Trainer NFT | 200 UOS      | 8 UOS         |
+| Entry Race Fee  | 200 UOS      | 20 UOS        |
+| Pay Breed Fee   | 300 UOS      | 30 UOS        |
+| Pay Stud Fee    | 100 UOS      | 2 UOS         |
 
-_These examples assume all users perform each action once. In reality, active players engage repeatedly, so your actual rewards may be much higher._
+Scale that up, and here’s what it could look like:
 
-🚀 Whether you're just starting or scaling up, MetaHoof rewards your impact. The more you grow your community, the more you earn!
+|    Users    |                    Estimated Reward ($UOS)                     |
+| :---------: | :------------------------------------------------------------: |
+|  10 Users   |  <span style="color:#00c853;font-weight:bold">760 UOS</span>   |
+|  100 Users  | <span style="color:#00c853;font-weight:bold">7,600 UOS</span> |
+| 1,000 Users | <span style="color:#00c853;font-weight:bold">76,000 UOS</span>  |
 
-## 3️⃣ **Tiers & Advancement**
+🚀 And that’s just the start. Players don’t just play once, they stick around.
+
+## 3️⃣ **Tiers & Perks**
 
 | Tier   | Name           | Requirements                                                  | Benefits                                                                                                  |
 | ------ | -------------- | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
@@ -78,9 +66,9 @@ _These examples assume all users perform each action once. In reality, active pl
 | **T2** | Pro Creator    | 10+ referred users + $200+ total earnings generated           | – Higher reward rates <br> – Priority access to drops <br> – Featured content support                     |
 | **T3** | Elite Creator  | Invite-only or 25+ engaged referrals with consistent impact   | – Max rewards unlocked <br> – Creator badge NFT <br> – Access to co-branded campaigns & exclusive collabs |
 
-### 📌 What counts as an “engaged referral”?
+### 📌 What counts as an “engaged user"?
 
-A referred user is considered **active** if they perform at least one of the following:
+Someone who:
 
 - Mint an NFT via MetaHoof Launchpad
 - Complete 3 or more races
@@ -89,37 +77,9 @@ A referred user is considered **active** if they perform at least one of the fol
 
 👉 [Read our Anti-Abuse & Referral Policy](./creator-program-anti-abuse.md)
 
-## 4️⃣ **Apply to the Program**
+## 4️⃣ **Tools you Get**
 
-🎯 Want to start earning with MetaHoof? It’s easier than ever.
-
-Anyone can become a Creator—just start sharing your **unique referral code** (provided after onboarding) and begin earning UOS rewards from your community’s actions.
-
-For creators aiming for **Pro** or **Elite** status with expanded visibility, benefits, and campaign opportunities, you may still apply for advanced tier evaluation:
-
-👉 [Apply for Tier Advancement →](https://forms.gle/RbHv1bijfmJEgfraA)
-
-Whether you’re just getting started or looking to scale, MetaHoof has a path for you.  
-Turn your reach into real in-game impact.
-
-
-### ❓ Frequently Asked Questions
-
-**How are my referrals tracked?**  
-Every approved creator gets a unique referral code or link that tracks user activity in-game.
-
-**When do I get paid?**  
-Rewards are distributed periodically in UOS, based on verified in-game actions.
-
-**Can I promote anywhere?**  
-Yes! Social media, videos, blogs, Discord—you choose where to activate your community.
-
-**What if someone stops playing?**  
-Rewards are based on real actions. You only earn when users stay active and contribute to the ecosystem.
-
-## 5️⃣ **Creator Tools**
-
-To support creators and help track their performance, MetaHoof provides:
+We’ve got everything you need to win:
 
 - **Referral Dashboard**: Monitor referred users, earnings, and in-game engagement in real-time
 - **Promo Assets**: Logos, banners, video clips, and shareable social content
@@ -128,8 +88,37 @@ To support creators and help track their performance, MetaHoof provides:
 - **Exclusive Channels**: Creator-only Discord access, seasonal updates, early features
 - **Custom Campaigns**: Opportunities for top-tier creators to co-design events, tournaments, or drops
 
-## 6️⃣ **Vision**
+## 5️⃣ **Get Started Now**
 
-The Creator Program is a core pillar of MetaHoof’s community-first approach. Our goal is to build a network of passionate creators who are **economically aligned** with the growth of the game. Whether you're a content creator, a community host, or a guild leader, this program gives you the tools—and the incentives—to turn your influence into ownership.
+Want in? Easy.
 
-Together, we’ll create the next generation of blockchain gaming where **play, create, earn—and own.**
+1. **Apply to become a Creator** (or just start with a Rookie code)
+2. **Get your unique referral link**
+3. **Share it anywhere** YouTube, X, Discord, wherever your community lives
+4. **Earn UOS** as your people race, mint, breed, and trade
+
+🎯 **Apply for Pro/Elite Review** if you’re already making waves.
+
+👉 [Apply NOW](https://forms.gle/RbHv1bijfmJEgfraA)
+
+## ❓ FAQ
+
+**How are referrals tracked?**  
+Via your unique referral link. All in-game actions are tracked on-chain.
+
+**When do I get paid?**  
+UOS rewards are sent out on a regular basis (details after onboarding).
+
+**Can I promote anywhere?**  
+Anywhere. Use your platforms however you like.
+
+**What if users stop playing?**  
+No problem. You only earn when they’re active and taking part in the economy.
+
+## 6️⃣ **Why We’re Doing This**
+
+MetaHoof is built on community, and creators like you are the engine behind it.
+This program isn’t a promo stunt. It’s a core part of how we grow the game:
+By rewarding those who bring in real players and keep the MetaHoofverse alive.
+
+Join us. Build the next-gen of player-owned games.
