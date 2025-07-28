@@ -95,7 +95,17 @@ or centralized control**.
 
 MetaHoof operates **within the Ultra Ecosystem**, allowing players to earn **multiple token rewards**.
 
-💰 **$UOS** → Used for **racing fees, breeding costs, Ultra Marketplace transactions, and trading assets**.  
+
+### 6. Multi-Chain Compatibility (Upcoming)
+
+While MetaHoof’s **core gameplay and economic engine** are powered by the **Ultra blockchain**, we’re building a **multi-chain foundation** that will enable the game to expand beyond a single ecosystem.
+
+Using **Ultra as the source of truth**, MetaHoof will allow:
+- 🌉 **Bridged NFT ownership**: Assets minted on other blockchains can be synchronized with Ultra for gameplay participation.
+- 🎮 **Cross-chain gameplay access**: Players will be able to race horses originating from different chains, while maintaining consistent logic and fairness on Ultra.
+- 🔄 **Secure synchronization layer**: Ownership updates and gameplay results are reconciled with Ultra, preserving security and integrity.
+
+This **interoperable approach** ensures players can benefit from broader market exposure while maintaining the **trustless, secure infrastructure** that Ultra provides.
 
 ## 3️⃣ Security Measures
 

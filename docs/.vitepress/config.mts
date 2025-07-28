@@ -79,6 +79,7 @@ export default withMermaid(
             items: [
               { text: "Uniqs & Ownership", link: "/whitepaper/uniqs" },
               { text: "Genesis Horses", link: "/whitepaper/genesis" },
+              { text: "Horse Staking", link: "/whitepaper/staking" },
               { text: "Founder Collections", link: "/whitepaper/founders" },
               { text: "Bloodline Forge Pass", link: "/whitepaper/bloodline-forge-pass" },
               { text: "Sponsorship Pass", link: "/whitepaper/sponsorship" },

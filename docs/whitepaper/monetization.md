@@ -17,15 +17,17 @@ Racing is at the heart of MetaHoof—and so are the rewards. Every paid-entry ra
 | Component                   | % of Entry Fees | Purpose                                        |
 | --------------------------- | --------------- | ---------------------------------------------- |
 | Player Rewards              | 90%             | Distributed among winners (WTA, Top 2/3/6)     |
-| Game Development (MetaHoof) | 7%              | Reinvested into game infrastructure and growth |
+| Game Development (MetaHoof) | 6%              | Reinvested into game infrastructure and growth |
 | Creator Program             | 1%              | Reward for Creator and KOLs                    |
+| Stake                       | 1%              | Contribution to Stake Pool                     |
 | Leaderboards                | 2%              | Supports competitive leaderboard prizes        |
 
 > Example: For a 1,000 $UOS race pool:
 >
 > - 900 $UOS are paid back to racers
-> - 70 $UOS are reinvested in the platform
+> - 60 $UOS are reinvested in the platform
 > - 10 $UOS are shared with refferer account
+> - 10 $UOS are distributed to stake pool
 > - 20 $UOS are distributed across leaderboard pools
 
 **Payout Types**
@@ -119,7 +121,7 @@ Season Passes offer access to special competitions, gated rewards, and exclusive
 
 | Item        | Price (USD) |
 | ----------- | ----------- |
-| Season Pass | $20         |
+| Season Pass | $15         |
 
 ## 8️⃣ Marketplace Royalties
 
