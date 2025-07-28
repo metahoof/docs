@@ -23,7 +23,7 @@ A minimum lock-in of **24 hours or 10 races** applies. Whichever comes first wil
 
 | Maximum Condition | Value                    |
 | ----------------- | ------------------------ |
-| Duration-based    | 60 days                  |
+| Duration-based    | 30 days                  |
 | Usage-based       | 100 races                |
 | Aging-based       | Up to the next age stage |
 
