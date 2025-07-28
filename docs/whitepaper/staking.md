@@ -6,16 +6,16 @@ Horse Staking is a key system that powers MetaHoof’s Free-to-Play access and c
 
 ## 🎯 Purpose
 
-The staking pool enables players without owned horses to participate in races by borrowing staked horses. These horses are supplied primarily by the community and, when needed, by the platform itself.
+The staking pool enables players without owned horses to participate in races by borrowing staked horses. These horses are supplied primarily by Player’s Horses and, when needed, by the platform itself.
 
 ## 🧩 Core Mechanics
 
 Players can stake their horses under two conditions:
 
-| Condition      | Value    |
-| -------------- | -------- |
-| Duration-based | 5 days   |
-| Usage-based    | 10 races |
+| Condition      |
+| -------------- |
+| Duration-based |
+| Usage-based    |
 
 A minimum lock-in of **24 hours or 10 races** applies. Whichever comes first will trigger the end of staking, and the horse will automatically return to its original owner, provided it is not currently in a race.
 
