@@ -37,7 +37,7 @@ This system prevents indefinite parking while tying staking to the natural aging
 | Restrictions and Conditions                                                  |
 | ---------------------------------------------------------------------------- |
 | Transferred to a **staking smart contract** (ownership temporarily assigned) |
-| Cannot be **bred**, **upgraded**, or **resold**                              |
+| Cannot be **bred**, **upgraded class**, or **resold**                              |
 | Can only be reclaimed by the original owner after the minimum commitment     |
 | Must be in **full energy state** to be eligible                              |
 | Must not have reached **maximum decay (Level 8)**                            |
@@ -50,7 +50,7 @@ This system prevents indefinite parking while tying staking to the natural aging
 | **Lock Period**   | Minimum of 24 hours OR 10 races, whichever comes first.                    |
 | **Active Usage**  | Horse participates in eligible races (Casual, PvE Ranked, etc.).           |
 | **XP & Aging**    | Horse continues to gain XP and age; decay system applies as normal.        |
-| **Max Threshold** | Ends after 60 days, 100 races, or upon reaching the next age stage.        |
+| **Max Threshold** | Ends after 30 days, 100 races, or upon reaching the next age stage.        |
 | **Auto Return**   | Horse is returned automatically once conditions are met or thresholds hit. |
 | **Re-Stake**      | Owner may re-stake if horse is still eligible.                             |
 
@@ -73,7 +73,7 @@ To reward staking participation, **1% of all event entry fees** are allocated to
 | Measure                  | Description                                                                               |
 | ------------------------ | ----------------------------------------------------------------------------------------- |
 | **Per-User Reward Cap**  | A single account can earn a maximum of 8% of the weekly staking pool.                     |
-| **Diminishing Returns**  | After 5 horses, each additional horse counts at reduced efficiency (e.g., 70%, then 50%). |
+<!-- | **Diminishing Returns**  | After 5 horses, each additional horse counts at reduced efficiency (e.g., 70%, then 50%). | -->
 | **Activity Requirement** | Horses must run at least 3 races per week to qualify.                                     |
 | **Eligibility Filters**  | Only horses with full energy and below maximum decay (Level 8) are eligible.              |
 | **Seasonal Resets**      | All staking metrics reset each season to prevent compounding advantages.                  |
