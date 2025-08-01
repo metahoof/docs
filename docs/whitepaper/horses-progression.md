@@ -53,81 +53,63 @@ Each class has **XP requirements** to level up, reflecting a horse’s **growth 
 **Advancing to the next class requires reaching max XP**, ensuring that **horses naturally progress into more
 competitive tiers**.
 
-## 3️⃣ Horse Decay System: Lifecycle & Durability Management
+## 3️⃣ Horse Aging System: Natural Growth & Career Evolution
 
-In MetaHoof, every horse goes through a realistic **career lifecycle** powered by our **Horse Decay System** — a core mechanic that introduces aging, performance management, and strategic depth to ownership.
+In MetaHoof, every horse experiences a **career shaped by natural aging**, reflecting realistic growth, peak performance, and the eventual challenges of time. This **Horse Aging System** introduces a dynamic progression curve where attributes shift as horses mature through different life stages.
 
-### 🔄 Decay Levels: Structured Career Progression
+### 🔄 Life Stages: From Foal to Old Guard
 
-Each horse has a **decay level** ranging from **0 to 6**, representing its career stage:
+Each horse advances through **eight defined stages** over the course of its racing career. Attributes are subtly adjusted to reflect the balance between physical growth, peak condition, and veteran experience.
 
-- **Decay Level 0**: Fresh and peak performance
-- **Decay Level 6**: Veteran stage with slightly reduced capabilities
+| **Age Stage**   | **Description**                                    |
+| --------------- | -------------------------------------------------- |
+| **Foal**        | Raw potential, just beginning the journey.         |
+| **Juvenile**    | Developing strength and racing awareness.          |
+| **Young Adult** | Balanced attributes, ready for competition.        |
+| **Prime Early** | Strong gains in performance and consistency.       |
+| **Peak**        | The height of ability, delivering top performance. |
+| **Mature**      | Retains strength with strategic endurance focus.   |
+| **Veteran**     | Seasoned competitor with stable temperament.       |
+| **Old Guard**   | Legacy stage, competing with wisdom and grit.      |
 
-Decay is not abrupt — it occurs **progressively over races**, with each level reached after a defined number of races. This simulates wear, aging, and encourages lifecycle planning.
+### 🧮 Progression Through Racing
 
-### 🧮 Race Thresholds: Races Until Next Decay
+Horses naturally progress through these stages as they complete races. The transition between stages reflects accumulated racing experience and careful management rather than abrupt changes.
 
-After each race, a horse reduces its “races until next decay” counter. When it reaches 0, the horse advances to the next decay level.
+Progression ensures that no stage is without value:
 
-To reflect fair value and rarity strength, race durability is tied to both **rarity** and **generation**.
+- Early stages build foundation and potential.
+- Peak stages maximize competitive strength.
+- Later stages emphasize resilience, temperament, and experience.
 
-### 📊 Decay Threshold Table (Races Required per Level)
+### 📊 Attribute Evolution
 
-The table below shows how many races a horse can run at each decay level depending on its **rarity** and **generation**.
+Each stage subtly adjusts a horse’s performance factors, creating a living curve of growth, peak, and graceful decline. This ensures that horses remain competitive while rewarding **strategic training and long-term planning**.
 
-::: details 🟤 **Common Horses** – Decay Races by Generation
-| **Decay Level** | **G1** | **G2** | **G3** | **G4+** |
-|-----------------|--------|--------|--------|---------|
-| 0 → 1           | 48     | 40     | 36     | 32      |
-| 1 → 2           | 36     | 30     | 27     | 24      |
-| 2 → 3           | 30     | 25     | 22     | 20      |
-| 3 → 4           | 24     | 20     | 18     | 16      |
-| 4 → 5           | 22     | 18     | 16     | 14      |
-| 5 → 6           | 18     | 15     | 13     | 12      |
-:::
+### 📊 Age Progression Table (Races Required per Stage)
 
-::: details 🟠 **Rare Horses** – Decay Races by Generation
-| **Decay Level** | **G1** | **G2** | **G3** | **G4+** |
-|-----------------|--------|--------|--------|---------|
-| 0 → 1           | 72     | 60     | 54     | 48      |
-| 1 → 2           | 60     | 50     | 45     | 40      |
-| 2 → 3           | 48     | 40     | 36     | 32      |
-| 3 → 4           | 42     | 35     | 31     | 28      |
-| 4 → 5           | 36     | 30     | 27     | 24      |
-| 5 → 6           | 30     | 25     | 23     | 20      |
-:::
+The table below defines how many races a horse can complete before naturally progressing to the next **Age Stage**.  
+All generations share the **same lifecycle length**, ensuring fair competition and accessibility for new players.  
+Prestige for earlier generations (such as G1) is reflected through **enhanced breeding potential**, exclusive events, and leaderboard opportunities — not reduced lifespans.
 
-::: details 🟣 **Legendary Horses** – Decay Races by Generation
-| **Decay Level** | **G1** | **G2** | **G3** | **G4+** |
-|-----------------|--------|--------|--------|---------|
-| 0 → 1           | 96     | 80     | 72     | 64      |
-| 1 → 2           | 84     | 70     | 63     | 56      |
-| 2 → 3           | 72     | 60     | 54     | 48      |
-| 3 → 4           | 60     | 50     | 45     | 40      |
-| 4 → 5           | 54     | 45     | 40     | 36      |
-| 5 → 6           | 48     | 40     | 36     | 32      |
-:::
+| **Age Stage**   | **Description**     | **All Generations (per Rarity)**                           |
+| --------------- | ------------------- | ---------------------------------------------------------- |
+| **Foal**        | Raw potential       | 48 races (Common) / 72 races (Rare) / 96 races (Legendary) |
+| **Juvenile**    | Building awareness  | 36 races (Common) / 60 races (Rare) / 84 races (Legendary) |
+| **Young Adult** | Balanced competitor | 30 races (Common) / 48 races (Rare) / 72 races (Legendary) |
+| **Prime Early** | Strong early peak   | 24 races (Common) / 42 races (Rare) / 60 races (Legendary) |
+| **Peak**        | Top performance     | 22 races (Common) / 36 races (Rare) / 54 races (Legendary) |
+| **Mature**      | Endurance advantage | 18 races (Common) / 30 races (Rare) / 48 races (Legendary) |
+| **Veteran**     | Stable temperament  | 15 races (Common) / 25 races (Rare) / 40 races (Legendary) |
+| **Old Guard**   | Legacy and wisdom   | 12 races (Common) / 20 races (Rare) / 32 races (Legendary) |
 
+#### 📌 Total Career Races (Estimated)
 
-- **Total Career Durability** (sum of all levels):
-  - G1 Legendary: 414 races
-  - G2 Rare: 240 races
-  - G4+ Common: 118 races
+- **Legendary**: ~486 races
+- **Rare**: ~333 races
+- **Common**: ~205 races
 
-### 📘 How Decay Affects Performance
-
-- **Soft Penalties**: Performance gradually declines across decay levels (e.g., -2% to -18%), without hard-stopping horses.
-- **No Attribute Rewrite**: Base stats remain immutable. Decay is applied at runtime for fairness and blockchain compatibility.
-<!-- - **Breeding Eligibility**: Horses can breed after reaching Decay Level 2. **G1s** are always breeding-eligible from the start. -->
-
-### 🛠️ Extend Career with Strategy
-
-- Apply **Recovery Items** to delay decay.
-- Run **Training Sessions** instead test races to avoid fast decay.
-- Use **G1s as legacy assets** with superior longevity and utility.
-
-MetaHoof’s decay system rewards thoughtful play, long-term planning, and maintains the integrity of horse value across all generations.
+Generations differ in **breeding capabilities, prestige events, and legacy value**, while maintaining equal opportunity for competitive play across all stages.
 
 ## 4️⃣ Key Takeaways
 
