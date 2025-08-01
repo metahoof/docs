@@ -46,6 +46,15 @@ These rules apply across all generations and help preserve the **integrity of th
 
 Breeding attempts that violate these rules will be **rejected by the system**, ensuring that all offspring result from **valid, genetically safe pairings**.
 
+### 🔹 Age-Based Breeding Restrictions
+
+To maintain both **realism** and **strategic progression**, MetaHoof’s **Horse Aging System** enforces age restrictions on breeding:
+
+- **Foal** and **Juvenile** horses ❌ **cannot breed** under any circumstances.
+- **Breeding eligibility begins at the Young Adult stage** and continues through later stages (Prime Early, Peak, Mature, and Veteran).
+
+These age-based rules ensure that only mature horses contribute to bloodlines, reinforcing both **game balance** and **thematic consistency**.
+
 ## 4️⃣ Bloodlines & Breed Types
 
 MetaHoof's breeding system is designed to **preserve rarity, maintain competitive balance, and introduce real strategic depth** when selecting breeding pairs. The combination of **bloodlines and breed types** determines a horse’s **genetic stability, breeding potential, and overall value**.
@@ -150,7 +159,7 @@ MetaHoof uses a weighted lineage algorithm to determine offspring performance at
      \Delta_{\min} = -10 + \frac{B_p}{10}, \quad
      \Delta_{\max} = 1 + \frac{B_p}{10}
      $$
-Sample a random variation $(\delta\in[\Delta_{\min},\Delta_{\max}]\%)$ and adjust:
+     Sample a random variation $(\delta\in[\Delta_{\min},\Delta_{\max}]\%)$ and adjust:
 
 $$
 a_{\text{offspring}} = \left\lfloor \bar{a} + \bar{a}\times\frac{\delta}{100}\right\rfloor
@@ -209,11 +218,12 @@ The **cooldown duration scales by generation**, meaning that higher-generation h
 | **G4+**          | **3 total**                  | **40 days**              | **60 days**          | **2-3**                |
 
 ::: info **Key Takeaways**
+
 - **Mares control the breeding pace**, limiting how quickly new foals enter the game.
 - **Genesis horses (G1) have unlimited breeding potential** but still require cooldowns.
 - **Higher generations (G3, G4+) take longer to breed**, ensuring that elite bloodlines remain rare.
 - **The yearly foal output per horse is controlled**, preventing market oversaturation.
-:::
+  :::
 
 ### 🔹 Why Generational Cooldown Increases?
 
@@ -256,10 +266,10 @@ Since **every horse in MetaHoof is an NFT**, breeding has **real economic conseq
 
 ### 💰 How Breeding Creates Value in the Marketplace
 
-- 📌 **Traders & Breeders Can Sell Foals** → Players can **breed, train, and sell** horses on the **Ultra Marketplace**.  
+- 📌 **Traders & Breeders Can Sell Foals** → Players can **breed, train, and sell** horses on the **Ultra Marketplace**.
 - 📌 **Bloodline Specialists Gain Reputation** → Stables with **high-performance lineages** will see **higher demand for
-their offspring**.  
+  their offspring**.
 - 📌 **Crossbreeds vs. Purebreds Affect Pricing** → Some players **pay premium prices for predictable bloodlines**, while
-others **seek out hybrid combinations** for unique advantages.  
+  others **seek out hybrid combinations** for unique advantages.
 - 📌 **Seasonal & Limited-Edition Breeding Events Drive Prices** → Special **one-time breeding opportunities** create
-**rare horse NFTs with long-term value appreciation**.
+  **rare horse NFTs with long-term value appreciation**.

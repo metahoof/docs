@@ -76,11 +76,15 @@ Each horse advances through **eight defined stages** over the course of its raci
 
 Horses naturally progress through these stages as they complete races. The transition between stages reflects accumulated racing experience and careful management rather than abrupt changes.
 
+
 Progression ensures that no stage is without value:
 
 - Early stages build foundation and potential.
 - Peak stages maximize competitive strength.
 - Later stages emphasize resilience, temperament, and experience.
+
+> **Breeding Restriction:** Horses in the **Foal** and **Juvenile** stages cannot breed.  
+Breeding eligibility begins at the **Young Adult** stage and continues through later stages, ensuring that horses mature before contributing to bloodlines.
 
 ### 📊 Attribute Evolution
 
@@ -110,6 +114,16 @@ Prestige for earlier generations (such as G1) is reflected through **enhanced br
 - **Common**: ~205 races
 
 Generations differ in **breeding capabilities, prestige events, and legacy value**, while maintaining equal opportunity for competitive play across all stages.
+
+### 🌱 Visualizing Horse Aging Evolution
+
+To help illustrate how horses progress through their lifecycle, the chart below provides a **visual evolution graph**.
+
+This chart shows the **natural progression** of a horse through all eight stages, with the number of races at each step (Common / Rare / Legendary). It visually reinforces that every stage has value while making the career arc easy to understand at a glance.
+
+![hero](/img/horse-aging.png)
+
+> **Note:** This graph is provided as a demonstration of the aging system. Actual progression values may vary as the game evolves.
 
 ## 4️⃣ Key Takeaways
 
