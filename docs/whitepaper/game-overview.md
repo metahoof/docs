@@ -75,7 +75,7 @@ At the end of each race, players earn **XP, Stable Reputation Points, and in-gam
 
 🏆 **XP Progress** → Horses **level up**, unlocking **stronger attributes** and improving future performance.  
 📊 **Stable Reputation Points** → Contributes to **leaderboards & season rankings**, unlocking **exclusive rewards**.  
-💰 **Race Prizes** → Earn **$UOS, NFTs, rare breeding items, and sponsorship perks**.
+💰 **Race Prizes** → Earn **$TOKEN, NFTs, rare breeding items, and sponsorship perks**.
 
 MetaHoof’s **race economy** ensures **both winners and participants** benefit, creating **a balanced, engaging racing system**.
 
@@ -156,7 +156,7 @@ Each aspect of stable management is intertwined. Proper training and fitness lea
 MetaHoof is **fully integrated into the Ultra.io ecosystem**, ensuring **a robust, blockchain-powered economy**.
 
 #### 📌 Play-to-Earn Opportunities
-🔹 **Earn $UOS** through **racing, breeding, and stable reputation growth**.  
+🔹 **Earn $TOKEN** through **racing, breeding, and stable reputation growth**.  
 🔹 **Sell & Trade NFTs** (horses, trainers, breeding licenses) in the **Ultra Marketplace**.  
 🔹 **Participate in Exclusive Tournaments** for **high-reward competitions**.
 

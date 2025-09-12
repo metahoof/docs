@@ -195,7 +195,7 @@ Each format **tests different racing strategies**, making **stable management cr
 
 ## 6️⃣ Prize Distribution & Rewards
 
-Every MetaHoof race offers **real value**, which can be **UOS-based prize pools, XP rewards, and leaderboard ranking points**.
+Every MetaHoof race offers **real value**, which can be **Token-based prize pools, XP rewards, and leaderboard ranking points**.
 
 ### 🏆 Example Prize Distribution
 

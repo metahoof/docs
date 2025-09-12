@@ -34,7 +34,7 @@ From the initial 2,500 Genesis mint:
 This breakdown ensures fair distribution among core community pillars:
 
 - **Founders Allocation (535)**: Reserved for early supporters via Founders Collection Passes, recognizing their vital role in launching MetaHoof.
-- **Collaboration Pass (500)**: Represents the one-of-one **MetaHoof Bloodline Forge Pass** — a ultra-exclusive NFT that empowers its holder to co-design a new Genesis bloodline, set the mint parameters, and launch 500 Genesis horses in a single drop (no further mints), unlocking full G1 capabilities.
+- **Collaboration Pass (500)**: Represents the one-of-one **MetaHoof Bloodline Forge Pass** — a super-exclusive NFT that empowers its holder to co-design a new Genesis bloodline, set the mint parameters, and launch 500 Genesis horses in a single drop (no further mints), unlocking full G1 capabilities.
 - **Public Mint (1,465)**: Open to the wider community, providing broad access while maintaining exclusivity.
 
 ## 4️⃣ Core Utilities & Benefits
@@ -82,7 +82,7 @@ All 22,000 G1 tokens follow this rarity split:
 ## 8️⃣ How to Acquire Genesis Horses
 
 - **Primary Mint**: Closed—Genesis tokens sold during Mainnet Alpha.  
-- **Secondary Market**: Trade on MetaHoof Marketplace or Ultra’s platform.  
+- **Secondary Market**: Trade on MetaHoof Marketplace.  
 - **Founders & Collaboration Passes**: Early passes include guaranteed G1 slots.
 
 ## 9️⃣ Strategic Tips for Owners

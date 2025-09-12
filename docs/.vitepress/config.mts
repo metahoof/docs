@@ -6,7 +6,7 @@ export default withMermaid(
   defineConfig({
     title: "MetaHoof | Whitepaper",
     description:
-      "Explore MetaHoof documentation for comprehensive guides, gameplay mechanics, breeding systems, race formats, economic models, and developer resources for the innovative NFT digital horse racing game built on the Ultra.io blockchain.",
+      "Explore MetaHoof documentation for comprehensive guides, gameplay mechanics, breeding systems, race formats, economic models, and developer resources for the innovative NFT digital horse racing game built on-chain.",
     themeConfig: {
       logo: "/img/logo.png",
       siteTitle: false,
@@ -35,10 +35,10 @@ export default withMermaid(
             text: "Introduction",
             items: [
               { text: "Game Overview", link: "/whitepaper/introduction" },
-              {
-                text: "Blockchain & Technology",
-                link: "/whitepaper/blockchain",
-              },
+              // {
+              //   text: "Blockchain & Technology",
+              //   link: "/whitepaper/blockchain",
+              // },
               { text: "Team", link: "/whitepaper/team" },
               { text: "Roadmap", link: "/whitepaper/roadmap" },
             ],
@@ -77,12 +77,12 @@ export default withMermaid(
           {
             text: "Ecosystem",
             items: [
-              { text: "Uniqs & Ownership", link: "/whitepaper/uniqs" },
+              { text: "NFTs & Ownership", link: "/whitepaper/nfts" },
               { text: "Genesis Horses", link: "/whitepaper/genesis" },
               { text: "Horse Staking", link: "/whitepaper/staking" },
-              { text: "Founder Collections", link: "/whitepaper/founders" },
-              { text: "Bloodline Forge Pass", link: "/whitepaper/bloodline-forge-pass" },
-              { text: "Sponsorship Pass", link: "/whitepaper/sponsorship" },
+              // { text: "Founder Collections", link: "/whitepaper/founders" },
+              // { text: "Bloodline Forge Pass", link: "/whitepaper/bloodline-forge-pass" },
+              // { text: "Sponsorship Pass", link: "/whitepaper/sponsorship" },
               {
                 text: "Creator Program",
                 link: "/whitepaper/creator-program",
@@ -104,15 +104,15 @@ export default withMermaid(
           },
         ],
         "/tutorials/": [
-          {
-            text: "Web3 Onboarding",
-            items: [
-              {
-                text: "Setup Ultra Wallet",
-                link: "/tutorials/setup-ultra-wallet",
-              },
-            ],
-          },
+          // {
+          //   text: "Web3 Onboarding",
+          //   items: [
+          //     {
+          //       text: "Setup Ultra Wallet",
+          //       link: "/tutorials/setup-ultra-wallet",
+          //     },
+          //   ],
+          // },
           {
             text: "Getting Started",
             items: [

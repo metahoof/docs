@@ -117,7 +117,7 @@ function parseMarkdownAndHtmlLinks(line: string): MarkdownLink[] {
 
 async function getAllFiles(): Promise<string[]> {
     let files = await fg([MD_LOOKUP], { onlyFiles: true, globstar: true });
-    files.push('docs/components/UltraHome.vue');
+    files.push('docs/components/Home.vue');
     files.push('docs/.vitepress/navbar.ts');
     return files;
 }

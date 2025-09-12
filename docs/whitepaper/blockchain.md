@@ -23,7 +23,7 @@ ecosystem-wide capabilities**. Ultra’s blockchain ensures:
 🚀 **Gasless Transactions** → No gas fees for trading, racing, or breeding.  
 ⚡ **High-Speed Network** → Fast, scalable blockchain transactions with near-instant finality.  
 🔒 **Secure & Decentralized Ownership** → All in-game assets (horses, trainer NFTs, breeding licenses) are stored as **Ultra NFTs**.  
-💰 **Native Support for $UOS** → The Ultra token is used for **racing, breeding, and marketplace transactions**.
+💰 **Native Support for $TOKEN** → The Ultra token is used for **racing, breeding, and marketplace transactions**.
 
 Unlike traditional gaming economies, where **players don’t truly own their in-game assets**, MetaHoof’s blockchain
 foundation ensures **permanent ownership, interoperability, and secure asset trading**.
@@ -84,14 +84,14 @@ execution**.
 #### 📌 Race Rewards Distribution
 
 - **Smart contracts** automatically distribute **race winnings**, ensuring:  
-  🔹 **Instant payouts** in **$UOS or in-game rewards**.  
+  🔹 **Instant payouts** in **$TOKEN or in-game rewards**.  
   🔹 **Transparent prize pools**, visible to all participants.  
   🔹 **Secure, tamper-proof results**, preventing cheating or delayed rewards.
 
 By utilizing **blockchain-verified payouts**, players receive **rewards instantly**, eliminating **manual intervention
 or centralized control**.
 
-### 5. Token Economy: $UOS The coin of the Games
+### 5. Token Economy: $TOKEN The coin of the Games
 
 MetaHoof operates **within the Ultra Ecosystem**, allowing players to earn **multiple token rewards**.
 

@@ -266,7 +266,7 @@ Since **every horse in MetaHoof is an NFT**, breeding has **real economic conseq
 
 ### 💰 How Breeding Creates Value in the Marketplace
 
-- 📌 **Traders & Breeders Can Sell Foals** → Players can **breed, train, and sell** horses on the **Ultra Marketplace**.
+- 📌 **Traders & Breeders Can Sell Foals** → Players can **breed, train, and sell** horses on the **Marketplace**.
 - 📌 **Bloodline Specialists Gain Reputation** → Stables with **high-performance lineages** will see **higher demand for
   their offspring**.
 - 📌 **Crossbreeds vs. Purebreds Affect Pricing** → Some players **pay premium prices for predictable bloodlines**, while

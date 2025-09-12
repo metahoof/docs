@@ -2,7 +2,7 @@
 
 > Turn your reach into race-day rewards.
 
-Bring your community into the **MetaHoofverse** and earn **real $UOS** every time they play, race, breed, or trade.
+Bring your community into the **MetaHoofverse** and earn **real $TOKEN** every time they play, race, breed, or trade.
 
 No gimmicks. No empty signups. Just real in-game impact, rewarded.
 
@@ -11,24 +11,24 @@ No gimmicks. No empty signups. Just real in-game impact, rewarded.
 The **MetaHoof Creator Program** is built for creators who drive real action.
 
 - You refer players. They race, breed, mint NFTs, and trade.
-- You earn $UOS based on what they actually do.
+- You earn $TOKEN based on what they actually do.
 
 It’s performance-based. Fully on-chain. Scales with your influence.
 
 ## 2️⃣ **What You Earn**
 
-Whenever someone you refer takes an in-game action, you get a cut in UOS.
+Whenever someone you refer takes an in-game action, you get a cut in TOKEN.
 The more they do, the more you earn.
 
 | Revenue Source                                   | Rookie (T1) | Pro (T2) | Elite (T3) | Notes                                                                             |
 | ------------------------------------------------ | ----------- | -------- | ---------- | --------------------------------------------------------------------------------- |
-| **NFT Minting** (Horses, Trainers, Collectibles) | 1%          | 1.5%     | 2%         | Applies only to UOS-based sales on MetaHoof Launchpad                             |
+| **NFT Minting** (Horses, Trainers, Collectibles) | 1%          | 1.5%     | 2%         | Applies only to TOKEN-based sales on MetaHoof Launchpad                             |
 | **Marketplace Royalties** (MetaHoof as promoter) | 1%          | 1.5%     | 2%         | % of royalty fee collected from referred user’s trades                            |
 | **Entry Fee Races** (MetaHoof-created races)     | 5%          | 7.5%     | 10%        | Applies only to entry fees paid by referred users. Only applied on MetaHoof’s cut |
 | **Breed Fees**                                   | 5%          | 7.5%     | 10%        | Applies when referred user pays a breeding fee                                    |
 | **Stud Fees**                                    | 1%          | 1.5%     | 2%         | Applies when referred user pays a breeding fee                                    |
 
-> ⚠️ _Only $UOS transactions are eligible. Fiat purchases don’t count._
+> ⚠️ _Only $TOKEN transactions are eligible. Fiat purchases don’t count._
 
 ::: info Notes:
 
@@ -40,21 +40,21 @@ The more they do, the more you earn.
 
 Let's see how your earnings could scale based on the number of active referred users:
 
-| Action          | Price ($UOS) | Reward ($UOS) |
+| Action          | Price ($TOKEN) | Reward ($TOKEN) |
 | --------------- | ------------ | ------------- |
-| Mint Horse NFT  | 400 UOS      | 16 UOS        |
-| Buy Trainer NFT | 200 UOS      | 8 UOS         |
-| Entry Race Fee  | 200 UOS      | 20 UOS        |
-| Pay Breed Fee   | 300 UOS      | 30 UOS        |
-| Pay Stud Fee    | 100 UOS      | 2 UOS         |
+| Mint Horse NFT  | 400 TOKEN      | 16 TOKEN        |
+| Buy Trainer NFT | 200 TOKEN      | 8 TOKEN         |
+| Entry Race Fee  | 200 TOKEN      | 20 TOKEN        |
+| Pay Breed Fee   | 300 TOKEN      | 30 TOKEN        |
+| Pay Stud Fee    | 100 TOKEN      | 2 TOKEN         |
 
 Scale that up, and here’s what it could look like:
 
-|    Users    |                    Estimated Reward ($UOS)                     |
+|    Users    |                    Estimated Reward ($TOKEN)                     |
 | :---------: | :------------------------------------------------------------: |
-|  10 Users   |  <span style="color:#00c853;font-weight:bold">760 UOS</span>   |
-|  100 Users  | <span style="color:#00c853;font-weight:bold">7,600 UOS</span> |
-| 1,000 Users | <span style="color:#00c853;font-weight:bold">76,000 UOS</span>  |
+|  10 Users   |  <span style="color:#00c853;font-weight:bold">760 TOKEN</span>   |
+|  100 Users  | <span style="color:#00c853;font-weight:bold">7,600 TOKEN</span> |
+| 1,000 Users | <span style="color:#00c853;font-weight:bold">76,000 TOKEN</span>  |
 
 🚀 And that’s just the start. Players don’t just play once, they stick around.
 
@@ -95,7 +95,7 @@ Want in? Easy.
 1. **Apply to become a Creator** (or just start with a Rookie code)
 2. **Get your unique referral link**
 3. **Share it anywhere** YouTube, X, Discord, wherever your community lives
-4. **Earn UOS** as your people race, mint, breed, and trade
+4. **Earn TOKEN** as your people race, mint, breed, and trade
 
 🎯 **Apply for Pro/Elite Review** if you’re already making waves.
 
@@ -107,7 +107,7 @@ Want in? Easy.
 Via your unique referral link. All in-game actions are tracked on-chain.
 
 **When do I get paid?**  
-UOS rewards are sent out on a regular basis (details after onboarding).
+TOKEN rewards are sent out on a regular basis (details after onboarding).
 
 **Can I promote anywhere?**  
 Anywhere. Use your platforms however you like.

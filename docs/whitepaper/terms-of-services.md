@@ -8,11 +8,11 @@ Welcome to MetaHoof, a digital horse racing game platform developed and operated
 
 If you do not agree to these Terms, you must not use or access MetaHoof in any form.
 
-MetaHoof is a Web3-enabled game that leverages blockchain infrastructure, primarily the Ultra blockchain network, to tokenize in-game assets such as racehorses, trainers, and gameplay items. Users interact with the Platform through Ultra’s services, including its wallet, marketplace, and identity management. Accordingly, Ultra’s Terms of Use, Privacy Policy, and Protocol Rules are hereby incorporated by reference and apply where applicable to MetaHoof’s operations and user interactions.
+MetaHoof is a digital horse racing game. It includes a website, game client, services, features, content, and supporting technologies. Users may interact with MetaHoof using supported sign‑in methods and payment providers. Where MetaHoof integrates third‑party services (such as identity, payments, age‑verification, or storefronts), the terms and policies of those third parties apply to that portion of your experience and are incorporated by reference to the extent required by those providers.
 
 _Important Notice:_
 
-_MetaHoof is intended exclusively for users who are 18 years or older, or who meet the minimum legal age in their jurisdiction for accessing digital games and online services. If it is unlawful or restricted in your region to access blockchain-based games or digital assets, you are prohibited from using MetaHoof._
+_MetaHoof is intended exclusively for users who are 18 years or older, or who meet the minimum legal age in their jurisdiction for accessing digital games and online services. If it is unlawful or restricted in your region to access online games or virtual items, you are prohibited from using MetaHoof._
 
 ANP Labs reserves the right to amend or update these Terms at any time. All changes will be posted on the Platform, and your continued use of MetaHoof constitutes your acceptance of any such updates. It is your responsibility to review the Terms periodically for modifications.
 
@@ -26,14 +26,13 @@ In these Terms of Service ("Terms"), the following definitions apply unless the 
 
 - _**ANP Labs**_ refers to <u>ANP LABS TECNOLOGIA LTDA</u>, a Brazilian company registered and operating under Brazilian law, responsible for developing and maintaining the MetaHoof Platform.
 - _**MetaHoof**_ refers to the digital horse racing game and its associated services, website, content, and features offered by ANP Labs.
-- _**Platform**_ means the MetaHoof ecosystem, including but not limited to its website, application, in-game logic, digital assets, and blockchain integrations.
+- _**Platform**_ means the MetaHoof ecosystem, including but not limited to its website, application, in-game logic, digital assets, and integrations.
 - _**User**, "you", or "your"_ refers to any individual or entity who accesses or uses the MetaHoof Platform.
-- _**Ultra**_ refers to the <u>Ultra blockchain platform</u> and its affiliated services, including the Ultra Wallet, Ultra Marketplace, and Ultra NFT Protocol.
-- _**NFT**_ or _**Non-Fungible Token**_ means a unique digital asset issued and recorded on the Ultra blockchain, representing ownership of a MetaHoof-related item (e.g., horse, trainer, strategy).
-- _$UOS_ refers to the native token of the Ultra blockchain used for transactions, purchases, and fees within the MetaHoof Platform.
+- _**Digital Item**_ means a virtual item used within MetaHoof (e.g., horse, trainer, strategy, cosmetic), which may be earned or purchased and is associated with your account.
+- _**Virtual Currency**_ means in‑game currencies made available by MetaHoof (for example, soft coins or premium currency) used for purchases and fees within the Platform.
 - _**Terms**_ means these Terms of Service, as amended from time to time.
 - _**Content**_ includes all digital content available within or related to MetaHoof, including but not limited to artwork, animations, audio, text, game logic, and code.
-- _**Wallet**_ refers to the Ultra Wallet used by Users to interact with the blockchain components of MetaHoof.
+- _**Account**_ means your MetaHoof user account and any linked third‑party sign‑in or payment profile you use to access the Platform.
 
 ### **2.2. Interpretation**
 
@@ -54,65 +53,58 @@ MetaHoof is intended solely for individuals who are 18 years of age or older, or
 
 ### **3.2. Jurisdictional Restrictions**
 
-It is your responsibility to ensure that your access and use of MetaHoof is not prohibited or restricted under the laws of your country or region. If you are located in a jurisdiction where access to blockchain-based platforms, digital tokens, or online games is restricted or illegal, you are not permitted to use MetaHoof.
+It is your responsibility to ensure that your access and use of MetaHoof is not prohibited or restricted under the laws of your country or region. If you are located in a jurisdiction where access to online games, virtual currencies, or digital items is restricted or illegal, you are not permitted to use MetaHoof.
 
 _MetaHoof explicitly disclaims liability for any use of the Platform in violation of applicable local laws._ ANP Labs reserves the right to restrict, suspend, or terminate access to MetaHoof for any user who is found to be in breach of this provision.
 
 ### **3.3. Geographic and Regulatory Compliance**
 
-We do not target or market MetaHoof to residents of jurisdictions where participation in blockchain-enabled games, digital asset transactions, or similar online platforms is restricted or requires prior regulatory approval.
+We do not target or market MetaHoof to residents of jurisdictions where participation in online games, digital items, virtual currencies, or similar online platforms is restricted or requires prior regulatory approval.
 
 _Users are solely responsible for understanding and complying with the legal, tax, and regulatory requirements of their own jurisdiction before accessing the Platform._
 
 ## **4. Account Registration and Security**
 
-To access and use MetaHoof, you must hold a valid Ultra account and connect your Ultra Wallet to the Platform. MetaHoof does not independently manage user account credentials or identity verification. Instead, authentication, identity management, and wallet access are delegated entirely to the Ultra Platform.
+To access and use MetaHoof, you must create a MetaHoof account (or use a supported sign‑in method) and, where applicable, link a supported payment method. MetaHoof does not independently store your password if you use a third‑party sign‑in provider.
 
 ### **4.1. Account Creation**
-
-- Users must create and maintain an account with Ultra Platform to access MetaHoof’s services.
-- MetaHoof does not store private keys, passwords, or sensitive login credentials.
-- The act of connecting your Ultra Wallet constitutes the creation of a session or association with your MetaHoof in-game profile.
+- Users must create and maintain an account to access MetaHoof’s services.
+- MetaHoof does not store payment credentials; payments, if any, are processed by third‑party providers.
+- Signing in to your account creates a session associated with your in‑game profile.
 
 ### **4.2. Authentication and Credentials**
+- You are fully responsible for maintaining the security of your account and associated devices.
+- You agree not to share access credentials, nor to allow others to control your account or in‑game items on your behalf.
+- Multiple account creation for the purpose of exploiting game mechanics, obtaining unfair advantages, or circumventing rules is strictly prohibited. MetaHoof may ban, suspend, or blacklist such accounts at its _sole discretion_.
 
-- You are fully responsible for maintaining the security of your Ultra account and associated devices.
-- You agree not to share access credentials, nor to allow others to control your wallet or in-game assets on your behalf.
-- Multiple account creation for the purpose of exploiting game mechanics, obtaining unfair advantages, or circumventing rules is strictly prohibited. MetaHoof reserves the right to ban, suspend, or blacklist such accounts at its _sole discretion_.
+### **4.3. Age/KYC/AML**
+- MetaHoof may request verification of age, identity, or origin of funds at any time, either directly or through third‑party vendors, if deemed necessary for legal, regulatory, or anti‑fraud purposes.
+- Some payment providers may require their own verification. You agree to cooperate with any such request where applicable.
 
-### **4.3. KYC / AML (Know Your Customer & Anti–Money Laundering)**
-
-- MetaHoof does not conduct its own KYC or AML processes. All onboarding, identity checks, and legal compliance are handled via Ultra’s user framework.
-- However, ANP Labs reserves the right to request verification of age, identity, or origin of funds at any time, either directly or through a third-party, if deemed necessary for legal, regulatory, or anti-fraud purposes.
-- You agree to cooperate with any such request where applicable.
-
-> _Important Notice: Any attempt to use MetaHoof to engage in money laundering, fraud, or illegal activities will result in immediate termination of access and may lead to further reporting to competent authorities._
+> _Important Notice: Any attempt to use MetaHoof to engage in fraud, abuse, or illegal activities will result in immediate termination of access and may lead to reporting to competent authorities._
 
 ## **5. Scope of Service**
 
-MetaHoof is a blockchain-integrated digital horse racing game developed by ANP Labs. It provides users with an interactive, strategic gameplay experience where digital assets (NFTs) such as racehorses, trainers, and in-game items can be collected, used, and traded through Ultra’s blockchain infrastructure.
+MetaHoof is an online digital horse racing game developed by ANP Labs. It provides users with an interactive, strategic gameplay experience where digital items such as racehorses, trainers, and in-game items can be collected, used, and traded through the Platform.
 
 ### **5.1. Description of MetaHoof and Its Features**
 
 MetaHoof offers a range of features designed to enhance competitive gameplay and digital ownership:
 
 - **Race Simulation:** Horses participate in deterministic, strategy-based races that factor in traits, energy, conditions, and user-selected strategies.
-- **NFT Ownership:** Users own in-game items (e.g., horses, trainers) via Ultra NFTs, which are tokenized assets stored and verifiable on the Ultra blockchain.
+- **Digital Item Ownership:** Users acquire and use in‑game digital items (e.g., horses, trainers) that are associated with their MetaHoof account.
 - **Season Passes & Leaderboards:** Players can earn points and rewards via events, competitions, and limited-time campaigns.
-- **Breeding & Asset Progression:** Certain NFTs (like horses) can evolve or breed, generating new assets with varying rarity and traits.
-- **Gameplay Economy:** Entry fees, rewards, breeding costs, and other economic interactions are conducted in blockchain tokens (primarily $UOS).
+- **Breeding & Asset Progression:** Certain digital items (like horses) can evolve or breed, generating new assets with varying rarity and traits.
+- **Gameplay Economy:** Entry fees, rewards, breeding costs, and other economic interactions may use virtual currency or other in‑game mechanisms.
 
 > _MetaHoof is **not a gambling platform**. Race outcomes are the result of user strategies and simulation logic, with no betting or random financial rewards._
 
 ### **5.2. Platforms and Access Channels**
 
-MetaHoof is accessible through:
+- **Web Browsers:** The primary interface for gameplay and account management.
+- **Supported Sign‑in/Payment Providers:** Where applicable, MetaHoof may integrate third‑party sign‑in or payment services. Their terms govern those interactions.
 
-- **Web Browsers:** The primary interface for gameplay, wallet connection, and marketplace interactions.
-- **Ultra Wallet:** Required to access blockchain features and interact with owned assets. MetaHoof does not issue or manage its own wallet infrastructure.
-- **Ultra Platform Integration:** All identity, wallet management, and asset transfers are performed through Ultra’s SDK, protocols, and APIs.
-
-> _Important Note on Dependencies:_ MetaHoof relies on Ultra’s infrastructure for NFT ownership, account management, and transaction handling. Therefore, users must also agree to and comply with Ultra’s Terms of Use and service availability.
+> _Important Note on Dependencies:_ MetaHoof may rely on third‑party services for identity, payments, content delivery, or storefront functionality. You must also comply with the terms of those services where applicable.
 
 ## **6. License to Use**
 
@@ -123,7 +115,7 @@ By accessing and using MetaHoof, ANP Labs grants you a limited, non-exclusive, n
 You are granted permission to:
 
 - Access and use the MetaHoof game interface via supported web browsers.
-- Interact with in-game content and features, including NFT-based assets held in your connected Ultra Wallet.
+- Interact with in-game content and features, including digital items associated with your account.
 - Participate in races, events, and game systems provided by ANP Labs.
 
 _This license does not transfer any ownership rights in the Platform, intellectual property, or game logic._
@@ -143,84 +135,57 @@ _Violation of these restrictions may result in suspension, termination, or perma
 ### **6.3. Intellectual Property Ownership (Rights of ANP Labs)**
 
 - All content, design elements, software code, branding, art assets, audio, and any other materials made available by MetaHoof are the exclusive intellectual property of ANP Labs, protected under applicable copyright, trademark, and trade secret laws.
-- Holding an NFT from MetaHoof does not grant ownership over the underlying intellectual property. You receive a limited license to use and display the NFT for personal, non-commercial use only.
+- Acquisition of a MetaHoof digital item grants you a limited license to use and display that item within MetaHoof and for personal, non‑commercial purposes, subject to these Terms.
 - You may not use any MetaHoof-related assets or content in connection with offensive, defamatory, illegal, or infringing material.
 
-> _Disclaimer: NFT ownership on Ultra grants tokenized asset control, not full IP rights. This license is governed by the NFT’s smart contract terms and Ultra’s protocol specifications._
+> _Disclaimer: Acquisition of a MetaHoof digital item grants you a limited license to use and display that item within MetaHoof and for personal, non‑commercial purposes, subject to these Terms._
 
-## **7. Tokens and Virtual Currency**
+## **7. Virtual Currency and Digital Items**
 
-MetaHoof utilizes blockchain-based virtual currencies and NFTs to facilitate gameplay mechanics, access to features, and participation in economic systems. However, MetaHoof does not issue or control its own token and does not conduct any form of token sale, ICO, or TGE.
+MetaHoof utilizes in‑game virtual currencies and digital items to facilitate gameplay mechanics, access to features, and participation in the game economy.
 
-All in-game economic interactions occur through Ultra’s native token ($UOS) and assets governed by Ultra’s NFT Protocol.
+### **7.1. Virtual Currency Description**
+- MetaHoof may make available one or more forms of virtual currency (for example, soft coins and/or premium currency) that can be used for in‑game purchases, race entries, and other services.
+- Virtual currency is a limited, non‑transferable, revocable license right associated with your account and has no real‑world monetary value.
 
-### **7.1. Token Description**
+### **7.2. Purchase and Conversion**
+- Purchases of virtual currency or digital items may be offered through the MetaHoof storefront and processed by third‑party payment providers.
+- Pricing and availability may vary by region and are subject to change at any time.
 
-- MetaHoof operates on the Ultra blockchain and uses $UOS as the principal medium of exchange for in-game purchases, race entries, rewards, and asset-related transactions.
-- From time to time, MetaHoof may support other stablecoins or promotional tokens issued on Ultra, provided they are compatible with the Ultra Wallet.
+### **7.3. Purchase and Use Limits**
+- ANP Labs may impose limits on purchases or usage (e.g., daily spending caps, breeding frequency, event entry quotas) to preserve gameplay balance. Limits may change without prior notice.
 
-_MetaHoof does not issue a proprietary token. We do not control supply, monetary policy, or token economics of $UOS or any third-party tokens._
+### **7.4. Transfers and Third‑Party Marketplaces**
+- Virtual currency and digital items are not real currency, are not legal tender, and are not redeemable for any sum of money.
+- Unless expressly permitted within MetaHoof, you may not sell, trade, gift, or transfer virtual currency or digital items outside the Platform.
 
-### **7.2. Token Purchase and Conversion**
+### **7.5. Risk Disclosures**
+- Digital items and virtual currency may be modified, become unavailable, or be discontinued as part of ongoing game balancing and updates.
+- There are no guarantees of any value, availability, or specific utility for any virtual currency or digital item.
 
-- All token purchases and conversions are conducted through Ultra’s Wallet infrastructure or Ultra-affiliated marketplaces and providers.
-- ANP Labs has no control over token pricing, conversion rates, liquidity, or transaction processing times.
-- Users are responsible for ensuring adequate wallet balance in supported tokens to use game features.
+> _MetaHoof is **not an investment platform**. All virtual items and currency are intended solely for **gameplay and entertainment purposes**._
 
-### **7.3. Purchase and Sale Limits**
+## **8. Purchase, Sale, and Transfer of Digital Items**
 
-- ANP Labs may impose limits on token-based actions within MetaHoof, such as:
-  - Maximum daily spending
-  - Breeding frequency
-  - Event entry quotas
-- These controls exist to preserve gameplay balance and are subject to change without prior notice.
+MetaHoof integrates account‑bound digital items (such as racehorses, trainers, breeding licenses, and energy refills). These items are associated with your account and are governed by Platform rules.
 
-### **7.4. Secondary Market for NFTs and Tokens**
+### **8.1. Ownership of Digital Horses and In‑Game Items**
+- Digital items you acquire are associated with your account. MetaHoof does not provide custody of any external wallets.
+- Ownership and availability of items are determined by MetaHoof’s internal records.
 
-- Users may buy, sell, or trade NFTs and Ultra tokens through the Ultra Marketplace or compatible platforms.
-- MetaHoof is not responsible for any disputes, losses, or issues arising from secondary market transactions.
-- All royalties, fees, and conditions related to NFT transfers are executed via Ultra’s NFT smart contracts.
+### **8.2. Sale Conditions**
+- Where MetaHoof offers a storefront or peer‑to‑peer features, listings and purchases are subject to Platform rules, fees, and any applicable policies.
+- ANP Labs may define royalty‑like fees or service charges within the Platform economy where applicable.
 
-### **7.5. Risk and Volatility Disclosures**
-
-- Tokens and NFTs may experience significant price fluctuations, market illiquidity, or complete devaluation.
-- There are no guarantees of financial return, resale value, or appreciation of any digital asset used in or acquired through MetaHoof.
-- You acknowledge and accept that participation in blockchain-based economies carries inherent risk and is done entirely at your _own discretion_.
-
-> _MetaHoof is **not an investment platform**. All virtual items and token usage are intended solely for **gameplay and entertainment purposes**._
-
-## **8. Purchase, Sale, and Transfer of Digital Items (NFTs)**
-
-MetaHoof integrates NFT-based digital items (such as racehorses, trainers, breeding licenses, and energy refills) using Ultra’s NFT protocol. These assets are owned and controlled by users through their Ultra Wallets and can be traded or transferred in accordance with Ultra’s smart contract rules.
-
-### **8.1. Ownership of Digital Horses and In-Game NFTs**
-
-- All NFTs acquired through MetaHoof are minted on the Ultra blockchain and associated with a specific user’s Ultra Wallet.
-- Ownership is entirely determined by blockchain registration, and MetaHoof does not retain control over the assets once issued.
-- ANP Labs does not provide custody of NFTs and does not store private keys or wallet access credentials.
-
-### **8.2. NFT Sale Conditions**
-
-- NFTs may be listed for sale on Ultra’s Marketplace or other supported third-party marketplaces compatible with the Ultra protocol.
-- MetaHoof may set royalty percentages, enforce contract logic, or define sale conditions through Ultra’s NFT contract parameters.
-- All secondary market sales are subject to the rules of Ultra’s smart contracts and may include royalty enforcement, trading fees, and listing requirements.
-
-### **8.3. Transfer of NFT Rights**
-
-- Acquiring a MetaHoof NFT grants the holder a limited, personal-use license for the associated in-game asset.
-- You do **not** receive:
-  - Commercial rights to the art or content;
-  - IP ownership of MetaHoof designs or data;
-  - Rights to duplicate, alter, or re-sell the art beyond allowed secondary trading.
-- Any attempt to misrepresent ownership, modify the NFTs, or use them in unauthorized commercial contexts constitutes a violation of these Terms and may lead to enforcement actions.
+### **8.3. License to Use; No IP Transfer**
+- Acquiring a MetaHoof digital item grants a limited, personal‑use license for the associated in‑game asset.
+- You do **not** receive commercial rights to the art or content; IP ownership remains with ANP Labs.
 
 ### **8.4. Disclaimer of Market Value Guarantees**
+- MetaHoof makes no representations regarding market value, liquidity, or appreciation of any digital item.
+- Items may be modified, disabled, or removed for technical, balancing, or policy reasons.
 
-- MetaHoof makes no representations or warranties regarding the market value, liquidity, or appreciation of any NFT or digital item.
-- Asset pricing is determined by market dynamics, and NFTs may lose their entire value at any time.
-- Users are solely responsible for securing, managing, and maintaining their NFTs.
-
-> _In the event of a software error, human mistake, or mispricing that leads to the accidental distribution of digital items, ANP Labs reserves the right to invalidate, reverse, or correct such actions at its discretion._
+> _In the event of a software error, human mistake, or mispricing that leads to the accidental distribution of digital items, ANP Labs may invalidate, reverse, or correct such actions at its discretion._
 
 ## **9. User Conduct**
 
@@ -235,7 +200,7 @@ You agree **not** to engage in any of the following:
 - Multi-accounting or creating duplicate accounts for the purpose of exploiting in-game systems, leaderboards, or promotions.
 - Collusion with other users or groups to manipulate races, marketplaces, or competitive outcomes.
 - Attempting to reverse engineer, modify, copy, decompile, or gain unauthorized access to any aspect of the Platform.
-- Using MetaHoof as a conduit for money laundering, fraud, or other illegal activities.
+- Using MetaHoof to engage in fraud or other illegal activities.
 
 _MetaHoof reserves the right to roll back races, transactions, or results if bad faith conduct, systemic abuse, or technical exploitation is detected._
 
@@ -261,19 +226,18 @@ If you violate these Terms or attempt to bypass Platform systems, ANP Labs may t
 - Blacklist NFTs associated with misconduct
 - Invalidate race results or rewards
 - Restrict wallet access to the MetaHoof environment
-- Report activity to Ultra or relevant legal authorities
 
 _All enforcement actions are at the sole discretion of ANP Labs, and no refunds or compensation will be issued for lost access or assets resulting from a violation._
 
 ## **10. Privacy and Data Handling**
 
-MetaHoof respects your privacy and is committed to responsible data handling. Due to its integration with the Ultra Platform, most personal and transactional data is managed by Ultra, not directly by ANP Labs. However, MetaHoof may process limited off-chain data necessary for gameplay, analytics, and support.
+MetaHoof respects your privacy and is committed to responsible data handling. MetaHoof processes limited off‑chain data necessary for gameplay, analytics, payments (when applicable), and support.
 
 ### **10.1. Collection of Personal Data**
 
-MetaHoof does not collect or store personal identifiers such as names, email addresses, or payment credentials. All authentication, identity verification, and wallet access are handled through Ultra.
+MetaHoof minimizes collection of personal data. Authentication may be handled by MetaHoof or by supported third‑party sign‑in providers. Payments, if any, are handled by payment processors; MetaHoof does not store payment card data.
 
-We may collect off-chain data including:
+We may collect off‑chain data including:
 
 - Race participation history
 - In-game decisions and performance statistics
@@ -284,9 +248,9 @@ Any data collected is minimal, gameplay-focused, and detached from personally id
 
 ### **10.2. Use, Sharing, and Retention of Information**
 
-- We use off-chain data exclusively to operate, improve, and maintain the MetaHoof game and user experience.
-- MetaHoof may share anonymized or aggregated data with Ultra or service partners for platform optimization, abuse mitigation, or support coordination.
-- You may request the deletion of your off-chain data by contacting us at [support@anplabs.io](mailto:support@anplabs.io).
+- We use off‑chain data exclusively to operate, improve, and maintain the MetaHoof game and user experience.
+- MetaHoof may share anonymized or aggregated data with service partners for platform optimization, abuse mitigation, or support coordination.
+- You may request the deletion of your off‑chain data by contacting us at [support@anplabs.io](mailto:support@anplabs.io).
 
 ### **10.3. Cookies and Tracking Technologies**
 
@@ -298,11 +262,9 @@ You may disable cookies in your browser settings, but doing so may impair certai
 
 You have the right to:
 
-- Request access to the off-chain data MetaHoof holds about your session(s)
+- Request access to the off‑chain data MetaHoof holds about your session(s)
 - Request correction or deletion of such data
 - Withdraw your usage at any time, understanding that game participation will be affected
-
-> _Note: Ultra remains the data controller for all wallet-related data, blockchain identities, and personal account management. Please refer to Ultra’s Privacy Policy for details on how your identity and wallet data are handled._
 
 ## **11. Intellectual Property**
 
@@ -329,8 +291,8 @@ All digital purchases made within MetaHoof are considered final and non-refundab
 
 ### **12.1. Non-Refundable Virtual Items**
 
-- All NFTs, race entries, breeding fees, energy refills, and in-game assets are non-refundable upon purchase or use.
-- Once a transaction is confirmed on the Ultra blockchain, it becomes irreversible. ANP Labs does not have the ability to reverse or cancel on-chain transactions.
+- All digital items, race entries, breeding fees, energy refills, and in-game assets are non‑refundable upon purchase or use.
+- Once a purchase is confirmed by our systems and/or the payment processor, it may be non‑reversible. MetaHoof cannot guarantee cancellations or refunds after fulfillment.
 - Refunds are not granted for:
   - Change of mind
   - Dissatisfaction with game outcomes or item utility
@@ -341,12 +303,12 @@ All digital purchases made within MetaHoof are considered final and non-refundab
 - Any chargeback request, dispute of a confirmed payment, or abuse of payment systems may result in:
   - Suspension of your MetaHoof account
   - Blacklisting of associated NFTs
-  - Reporting to Ultra and payment processors
+  - Reporting to payment processors
 - Users are expected to resolve any billing concerns by contacting MetaHoof at [support@anplabs.io](mailto:support@anplabs.io) before initiating disputes.
 
 ### **12.3. Refunds in Exceptional Cases**
 
-In rare, exceptional situations — such as technical failure or verifiable error in asset delivery — ANP Labs may issue a discretionary refund in the original payment currency, typically in $UOS tokens, or reverse the in-game action.
+In rare, exceptional situations — such as technical failure or verifiable error in asset delivery — ANP Labs may issue a discretionary refund in the original payment currency, typically in $TOKEN tokens, or reverse the in-game action.
 
 - MetaHoof reserves the right to nullify, reverse, or reclaim assets mistakenly distributed due to human or software error.
 - Refund value, if granted, will be determined by ANP Labs based on internal records, not market valuation.
@@ -355,30 +317,26 @@ In rare, exceptional situations — such as technical failure or verifiable erro
 
 ## **13. Payments and Fees**
 
-All payments within MetaHoof are executed using blockchain-compatible tokens, primarily $UOS via Ultra Wallet. Users are responsible for ensuring sufficient wallet balances, understanding transaction fees, and fulfilling any legal tax obligations arising from gameplay or asset ownership.
+All payments within MetaHoof, where offered, are executed using supported payment methods (for example, credit/debit cards, local payment options, or platform storefront balances) and/or in‑game virtual currency.
 
 ### **13.1. Accepted Payment Methods**
 
-- MetaHoof supports payments in:
-  - $UOS (Ultra’s native token)
-  - Ultra-compatible stablecoins or promotional credits (if made available)
-- Payments are executed through your Ultra Wallet; MetaHoof does not manage or store private keys, seed phrases, or wallet balances.
+- MetaHoof supports payments using methods made available in your region by our payment partners and/or platform storefronts.
+- Payments are executed through your chosen provider; MetaHoof does not manage or store payment card details.
 
 ### **13.2. Transaction Fees**
 
-- All transactions on the blockchain may incur fees such as:
-  - Network/Gas fees for asset transfers and minting
+- Transactions may incur fees such as:
   - Platform service fees for breeding, race entries, or participation in seasonal features
-  - Marketplace fees (when trading NFTs through Ultra or affiliated platforms)
-- MetaHoof does not control or profit from network-level fees, but may define its own internal in-game fees as part of the gameplay economy.
+  - Storefront or payment processor fees (as applicable)
+- MetaHoof may define internal in‑game fees as part of the gameplay economy.
 
-_All fees are non-refundable, even in cases of failed transactions, system downtime, or user error._
+_All fees are non‑refundable, even in cases of failed transactions, system downtime, or user error._
 
 ### **13.3. User Tax Obligations**
 
-- Users are solely responsible for:
-  - Reporting and paying any taxes due on gains or sales from NFTs or tokens
-  - Compliance with local regulations concerning digital assets, income, and capital gains
+- Reporting and paying any taxes due on gains or sales from digital items or other purchases
+- Compliance with local regulations concerning digital assets, income, and capital gains
 - ANP Labs does not provide tax, financial, or legal advice. Please consult a qualified professional in your jurisdiction.
 
 ## **14. Risks, Disclaimers, and Notices**
@@ -387,17 +345,17 @@ By accessing and using MetaHoof, you acknowledge that participation in blockchai
 
 ### **14.1. Market Risk and Digital Item Valuation**
 
-- MetaHoof NFTs and in-game assets may fluctuate in value, become illiquid, or lose all value over time.
-- The market for digital assets is volatile, speculative, and impacted by factors outside of ANP Labs’ control.
+- MetaHoof digital items and in-game virtual currency may fluctuate in value, become illiquid, or lose all value over time.
+- The market for digital items is volatile, speculative, and impacted by factors outside of ANP Labs’ control.
 - No part of the Platform constitutes an investment opportunity, financial instrument, or guarantee of future value or rewards.
 
 _Holding or trading MetaHoof assets is entirely at your own risk._
 
 ### **14.2. Service Availability and Technical Limitations**
 
-- MetaHoof may experience downtime, interruptions, bugs, or unexpected failures due to software updates, blockchain congestion, or third-party infrastructure (e.g., Ultra Platform).
+- MetaHoof may experience downtime, interruptions, bugs, or unexpected failures due to software updates, congestion, or third-party infrastructure.
 - We do not guarantee continuous, uninterrupted access to gameplay or assets.
-- Race results, marketplace listings, or other real-time data may be delayed or displayed incorrectly due to caching, frontend errors, or blockchain sync issues. The official source of truth is the data recorded on MetaHoof’s servers and the Ultra blockchain.
+- Race results, marketplace listings, or other real-time data may be delayed or displayed incorrectly due to caching, frontend errors, or sync issues. The official source of truth is the data recorded on MetaHoof’s systems.
 
 _MetaHoof reserves the right to suspend races, events, or services temporarily or permanently, with or without notice, for technical, operational, or legal reasons._
 
@@ -422,13 +380,13 @@ Under no circumstances shall ANP Labs, its affiliates, directors, officers, empl
 - Indirect, incidental, special, punitive, or consequential damages
 - Loss of profits, business opportunities, goodwill, or data
 - Game performance losses due to strategy, randomization mechanics, or player error
-- Issues arising from third-party platforms, including but not limited to Ultra Wallet, the Ultra blockchain, or NFT marketplaces
+- Issues arising from third-party platforms, including but not limited to third‑party sign‑in, payment processors, or external storefronts
 
 _This applies regardless of the legal theory, whether in contract, tort (including negligence), warranty, strict liability, or otherwise — even if ANP Labs was advised of the possibility of such damages._
 
 ### **15.2. Cap on Direct Liability**
 
-- In all cases, ANP Labs’ total aggregate liability for any claims under these Terms or related to your use of MetaHoof is strictly limited to the greater of (i) $100 USD or (ii) the total value of $UOS you spent directly in the game over the past 3 months prior to the incident giving rise to the claim.
+- In all cases, ANP Labs’ total aggregate liability for any claims under these Terms or related to your use of MetaHoof is strictly limited to the greater of (i) $100 USD or (ii) the total value of $TOKEN you spent directly in the game over the past 3 months prior to the incident giving rise to the claim.
 
 _This limitation shall apply even if any remedy fails of its essential purpose._
 
@@ -441,7 +399,7 @@ You agree to defend, indemnify, and hold harmless ANP Labs, its directors, offic
 - Your access to or use of the MetaHoof Platform
 - Your violation of these Terms
 - Your use or transfer of NFTs or tokens, whether inside or outside of MetaHoof
-- Your interaction with third-party services (e.g., Ultra, marketplaces, payment processors)
+- Your interaction with third-party services (e.g., marketplaces, payment processors)
 - Any content or material submitted or shared by you
 - Your violation of any applicable law or regulation, including but not limited to tax, AML, or gaming regulations
 
@@ -479,8 +437,7 @@ _Termination decisions are final and may result in loss of access to NFTs, in-ga
 
 Upon termination:
 
-- Your session and game access are disabled.
-- Associated NFTs may be blacklisted or locked from future gameplay if obtained in violation of Terms.
+- Your session and game access are disabled. Access to in‑game digital items and virtual currency may be restricted.
 - You remain liable for any outstanding obligations or damages incurred prior to termination.
 - Any attempt to circumvent bans or recreate accounts may result in permanent bans on new wallets or IP restrictions.
 
@@ -553,7 +510,7 @@ ANP Labs shall not be held liable for any delay or failure to perform its obliga
 - Governmental actions, embargoes, or regulations
 - Labor disputes, strikes, or supply chain disruptions
 - Failures of telecommunications or internet service providers
-- Blockchain network failures, smart contract malfunctions, or third-party infrastructure outages (e.g., Ultra Platform or Wallet service disruptions)
+- Blockchain network failures, smart contract malfunctions, or third-party infrastructure outages (e.g., Wallet service disruptions)
 - Epidemics, pandemics, or public health emergencies
 
 **Consequences of Force Majeure**

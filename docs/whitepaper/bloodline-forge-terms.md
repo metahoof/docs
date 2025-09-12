@@ -8,7 +8,7 @@ This section outlines the legal terms applicable to the NFT item known as the **
 - The auction is hosted on the **Ultra platform**, and participants agree to comply with all terms and technical conditions of Ultra’s NFT protocol and auction mechanisms.
 - All bids, once submitted, are considered **binding offers**, and successful bids are final and **non-refundable** under any circumstances, except as required by mandatory consumer law.
 - Buyers acknowledge and accept that all purchase prices are presented as **net of deductions**, including but not limited to any third-party platform fees, blockchain protocol transaction costs, and applicable taxes. Participation in the auction constitutes legal acceptance of these terms.
-- All payments for the MetaHoof Founders: Bloodline Forge Pass shall be made exclusively in **$UOS**, the Ultra blockchain’s native currency. The equivalent fiat value will be determined at the time of purchase using the applicable **conversion rate**, and all payment processing, currency conversion, and settlement operations are handled by the **Platform Provider** (Ultra).
+- All payments for the MetaHoof Founders: Bloodline Forge Pass shall be made exclusively in **$TOKEN**, the Ultra blockchain’s native currency. The equivalent fiat value will be determined at the time of purchase using the applicable **conversion rate**, and all payment processing, currency conversion, and settlement operations are handled by the **Platform Provider** (Ultra).
 
 ## 2. Royalties and Revenue Distribution
 

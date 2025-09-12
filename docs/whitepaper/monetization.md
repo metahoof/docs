@@ -22,13 +22,13 @@ Racing is at the heart of MetaHoof—and so are the rewards. Every paid-entry ra
 | Stake                       | 1%              | Contribution to Stake Pool                     |
 | Leaderboards                | 2%              | Supports competitive leaderboard prizes        |
 
-> Example: For a 1,000 $UOS race pool:
+> Example: For a 1,000 $TOKEN race pool:
 >
-> - 900 $UOS are paid back to racers
-> - 60 $UOS are reinvested in the platform
-> - 10 $UOS are shared with refferer account
-> - 10 $UOS are distributed to stake pool
-> - 20 $UOS are distributed across leaderboard pools
+> - 900 $TOKEN are paid back to racers
+> - 60 $TOKEN are reinvested in the platform
+> - 10 $TOKEN are shared with refferer account
+> - 10 $TOKEN are distributed to stake pool
+> - 20 $TOKEN are distributed across leaderboard pools
 
 **Payout Types**
 
@@ -130,7 +130,7 @@ MetaHoof earns a royalty on all secondary market sales, sustaining the game and 
 | Allocation         | % of Sale      |
 | ------------------ | -------------- |
 | MetaHoof           | 5%             |
-| Ultra Protocol Fee | 2%             |
+| Protocol Fee | 2%             |
 | Promoter Fee       | 2% (up to 10%) |
 
 All royalty earnings are flexibly used to fund operations, events, and strategic initiatives.
@@ -146,5 +146,5 @@ A special collaborative mint that enables co-creation between MetaHoof and artis
 | Co-Creator (mint)  | 40%            |
 | Co-Creator Royalty | 2%             |
 | MetaHoof Royalty   | 3%             |
-| Ultra Protocol Fee | 2%             |
+| Protocol Fee | 2%             |
 | Promoter Fee       | 2% (up to 10%) |

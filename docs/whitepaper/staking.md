@@ -56,7 +56,7 @@ This system prevents indefinite parking while tying staking to the natural aging
 
 ## 💰 Remuneration
 
-To reward staking participation, **1% of all event entry fees** are allocated to a **staking reward pool**. Distribution happens **weekly** in $UOS, based on points:
+To reward staking participation, **1% of all event entry fees** are allocated to a **staking reward pool**. Distribution happens **weekly** in $TOKEN, based on points:
 
 | Race Type         | Points Earned  |
 | ----------------- | -------------- |
@@ -99,6 +99,7 @@ Owners can:
 
 Staked horses remain visible in the stable in **read-only mode**.
 
+
 ## 🧵 Free-to-Play Link
 
 | Prize Distribution                                                                        |
@@ -107,6 +108,28 @@ Staked horses remain visible in the stable in **read-only mode**.
 
 - Owners see which player used their horse and its performance logs.
 - Direct interaction with borrowers is disabled to ensure fairness.
+
+## 🛡️ Borrowing Quotas & Abuse Prevention
+
+While Horse Staking enables Free-to-Play access, safeguards are necessary to prevent abuse and ensure fair distribution of borrowed horses.
+
+### Potential Abuses
+- **Multi-Account Farming (Sybil Attack)**: Creating multiple accounts to borrow many horses and farm rewards.
+- **Idle Borrowing**: Borrowing horses but not racing them, blocking access for active players.
+- **Horse Hoarding**: Taking multiple horses at once, reducing availability for other F2P players.
+- **Trophy Hunting**: Attempting to repeatedly borrow only the strongest horses if selection is predictable.
+
+### Borrowing Rules (First Iteration)
+
+| Rule                     | Setting                                                             |
+| ------------------------- | ------------------------------------------------------------------- |
+| **Max Borrowed Horses**  | 1 horse per F2P account (up to 2 if account is verified)             |
+| **Borrowing Duration**   | 24 hours OR 10 races, whichever comes first                         |
+| **Cooldown Between Borrows** | 12 hours cooldown before borrowing another horse after return       |
+| **Assignment Method**    | Randomized (redshifted queue) to prevent targeting specific horses   |
+| **Activity Requirement** | Horses returned automatically if idle for more than 12 hours        |
+
+These quotas ensure fair access for genuine Free-to-Play players while protecting the staking system from abuse. As the ecosystem evolves, quotas may expand to include stake-linked borrowing, seasonal passes, or reputation-based borrowing privileges.
 
 ## 🔮 Future Expansions
 

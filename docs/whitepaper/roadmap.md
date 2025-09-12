@@ -56,7 +56,7 @@ tokenization updates.
 
 📱 **Mobile Friendly & Ultra Web Wallet** – Enhanced support for mobile access and seamless wallet integration via Ultra's web wallet.
 
-🏆 **Leaderboard Rewards** – Introduction of on-chain leaderboard reward distribution, where top players earn UOS and exclusive prizes based on seasonal rankings.
+🏆 **Leaderboard Rewards** – Introduction of on-chain leaderboard reward distribution, where top players earn $Tokens and exclusive prizes based on seasonal rankings.
 
 🐎 **3D Racing** – Launch of the first live 3D race viewer, allowing players to watch their races unfold in real time with animated horse models.
 
@@ -90,9 +90,6 @@ updates may include:
 - **Enhanced Breeding Mechanics** – New **genetics systems, rarity features, and specialized breeding strategies**.
 - **Marketplace & Economic Growth** – Strengthening the **trading ecosystem**, staking utility, and governance
   mechanics.
-- **Ultra Ecosystem Expansion** – Collaborating with **Ultra partners** to integrate **new features, sponsorships, and
-  NFT utility**.
-
 
 ## Stay Updated
 

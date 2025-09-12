@@ -76,7 +76,7 @@ competitive pricing, bloodline control, and economic sustainability**.
 
 ## 6️⃣ Stud Offer Economy & Marketplace Impact
 
-Since stud offers are **fully integrated with the Ultra Marketplace**, they contribute to a **healthy, player-driven economy**.
+Since stud offers are **fully integrated with the Marketplace**, they contribute to a **healthy, player-driven economy**.
 
 How Stud Offers Impact the MetaHoof Economy?
 

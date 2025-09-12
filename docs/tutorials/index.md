@@ -2,10 +2,10 @@
 
 Welcome to the MetaHoof Academy — your go-to place to master the game! Whether you're a new trainer or a seasoned racer, these step-by-step guides will help you understand core mechanics, sharpen your strategies, and get the most out of your stable.
 
-## 🔐 Web3 Onboarding
+<!-- ## 🔐 Web3 Onboarding
 
 - [How to Set Up Your Ultra Wallet](./setup-ultra-wallet.md)  
-  Step-by-step guide to creating and connecting your Ultra Wallet — essential for owning horses, claiming rewards, and managing blockchain assets.
+  Step-by-step guide to creating and connecting your Ultra Wallet — essential for owning horses, claiming rewards, and managing blockchain assets. -->
 
 
 ## 🐴 Getting Started

@@ -2,7 +2,7 @@
 
 ## 1️⃣ Anti-Abuse Policy
 
-To maintain the integrity of the MetaHoof Creator Program and ensure that $UOS rewards are distributed fairly and sustainably, the following rules and monitoring measures will be enforced.
+To maintain the integrity of the MetaHoof Creator Program and ensure that $TOKEN rewards are distributed fairly and sustainably, the following rules and monitoring measures will be enforced.
 
 ### 1. Prohibited Activities
 

@@ -2,32 +2,25 @@
 
 ## 1. **What is MetaHoof?**
 
-- **Answer**: MetaHoof is a digital horse racing game built on blockchain technology. It allows users to breed, race,
-  and trade virtual horses, with each horse represented as a unique NFT (non-fungible token).
+- **Answer**: MetaHoof is a digital horse racing game. It allows users to breed, race, and trade virtual horses, with each horse represented as a unique digital item.
 
 ## 2. **How does MetaHoof work?**
 
 - **Answer**: Players can own, breed, and race digital horses. Each horse has unique traits that affect its performance
   in races. Players can earn rewards through racing, breeding, and trading their horses on the marketplace.
 
-## 3. **What blockchain does MetaHoof use?**
-
-- **Answer**: MetaHoof is built on the Ultra.io blockchain, known for its low transaction fees and high security. All
-  transactions, including breeding, racing, and trading horses, are conducted on the blockchain.
-
 ## 4. **Do I need to complete AML/KYC to play MetaHoof?**
 
-- **Answer**: No, MetaHoof does not require AML/KYC procedures directly. All user accounts and identity verification are managed by the Ultra EBA system or within Ultra's network infrastructure. MetaHoof does not handle user onboarding, account custody, or personal identity verification. Players remain responsible for their own tax reporting, deposits, and withdrawals.
+- **Answer**: No, MetaHoof does not require AML/KYC procedures directly. Some payment providers may request verification depending on your region. Players remain responsible for their own tax reporting and compliance with local regulations.
 
 ## 5. **What are Genesis Tokens?**
 
-- **Answer**: Genesis Tokens are unique NFTs that represent the first generation of horses in MetaHoof. Owning a Genesis
-  Token gives you access to exclusive breeding opportunities and other in-game benefits.
+- **Answer**: Genesis Tokens are unique digital items that represent the first generation of horses in MetaHoof. Owning a Genesis Token gives you access to exclusive breeding opportunities and other in-game benefits.
 
 ## 6. **How do I earn rewards in MetaHoof?**
 
 - **Answer**: You can earn rewards by participating in races, breeding successful offspring, and trading horses on the
-  marketplace. Rewards are distributed in cryptocurrency, which can be used within the game or withdrawn.
+  marketplace. Rewards are distributed in the form of in-game currency or other digital items that can be used within the game.
 
 ## 7. **What is the MetaHoof breeding system?**
 
@@ -51,15 +44,15 @@
 
 ## 10. **How does the MetaHoof marketplace work?**
 
-- **Answer**: Powered by Ultra’s NFT Standard and Marketplace, the MetaHoof marketplace allows players to buy, sell, and trade horses, breeding licenses, and other in-game assets. All transactions are conducted securely on Ultra’s blockchain using cryptocurrency.
+- **Answer**: The MetaHoof marketplace allows players to buy, sell, and trade horses, breeding licenses, and other in-game assets. All transactions are conducted securely within the platform using supported payment or in-game currency options.
 
 ## 11. **What are the platform fees in MetaHoof?**
 
-- **Answer**: MetaHoof charges platform fees on specific in-game activities such as racing and breeding. These are separate from blockchain transaction fees, which are managed by the Ultra network. On the marketplace, MetaHoof does not collect blockchain fees and only applies a predefined royalty on NFT sales, in accordance with Ultra’s protocol. All blockchain-level fees follow Ultra’s infrastructure.
+- **Answer**: MetaHoof charges platform fees on specific in-game activities such as racing, breeding, and marketplace sales. These fees are predefined within the platform’s economy and may vary depending on the activity.
 
 ## 12. **Is MetaHoof available worldwide?**
 
-- **Answer**: Yes, MetaHoof is accessible to users worldwide. However, players should ensure compliance with any local regulations related to blockchain gaming and cryptocurrency. To play MetaHoof, users need an Ultra account, which can be created via Ultra’s official website or through supported Ultra-enabled applications. Account creation and management are handled entirely within Ultra’s ecosystem.
+- **Answer**: Yes, MetaHoof is accessible to users worldwide. However, players should ensure compliance with any local regulations related to online gaming and digital items.
 
 ## 13. **What are the future plans for MetaHoof?**
 

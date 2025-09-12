@@ -1,6 +1,6 @@
 ![hero](/img/banners/FORGE_PASS.png)
 
-> **PInvestor Collaboration: Exclusive Bloodline Co-Creation**
+> ** Investor Collaboration: Exclusive Bloodline Co-Creation**
 
 ## 1️⃣ Overview
 

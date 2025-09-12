@@ -15,4 +15,3 @@
 ## v0.1.0 (August, 2024)
 
 - Initial Whitepaper version
-- Manifesto

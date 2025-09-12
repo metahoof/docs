@@ -105,7 +105,7 @@ evolves, sponsorship opportunities will **expand**, offering even more **interac
 
 ## How to Obtain a Sponsorship Pass
 
-Sponsors can **acquire a MetaHoof Sponsorship Pass** through the **Ultra Marketplace**, where **Sponsorship Passes are
+Sponsors can **acquire a MetaHoof Sponsorship Pass** through the **Marketplace**, where **Sponsorship Passes are
 minted as Uniq NFTs**.
 
 Each **Sponsorship Pass NFT** contains:
