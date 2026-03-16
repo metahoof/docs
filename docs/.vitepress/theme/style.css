@@ -75,25 +75,28 @@
  * -------------------------------------------------------------------------- */
 
 :root {
+  /* MetaHoof Brand Kit (2025):
+     Black: #020320 | Tron Blue: #00ccf6 | Pink: #c30dff | Yellow: #ead91c | White: #ffffff */
 
-  --vp-c-brand: #00a76f;
-  --vp-c-brand-1: #00a76f;
-  --vp-c-brand-2: #00a76f;
-  --vp-c-brand-light: #00a76f;
-  --vp-c-brand-lighter: #00a76f;
-  --vp-c-brand-lightest: #00a76f;
-  --vp-c-brand-dark: #00a76f;
-  --vp-c-brand-darker: #00a76f;
+  /* VitePress Brand Scale */
+  --vp-c-brand: #00ccf6;
+  --vp-c-brand-1: #00ccf6; /* Tron Blue */
+  --vp-c-brand-2: #c30dff; /* Pink (hover/secondary accent) */
+  --vp-c-brand-3: #00ccf6; /* Solid brand background */
+  --vp-c-brand-soft: rgba(0, 204, 246, 0.16);
 
-  --vp-button-brand-border: var(--vp-c-brand-dark);
-  --vp-button-brand-text: var(--vp-c-white);
-  --vp-button-brand-bg: var(--vp-c-brand-dark);
-  --vp-button-brand-hover-border: var(--vp-c-brand-dark);
-  --vp-button-brand-hover-text: var(--vp-c-white);
-  --vp-button-brand-hover-bg: var(--vp-c-brand-dark);
-  --vp-button-brand-active-border: var(--vp-c-brand-dark);
-  --vp-button-brand-active-text: var(--vp-c-white);
-  --vp-button-brand-active-bg: var(--vp-button-brand-bg);
+  /* Buttons */
+  --vp-button-brand-border: var(--vp-c-brand-1);
+  --vp-button-brand-text: #020320;
+  --vp-button-brand-bg: var(--vp-c-brand-1);
+
+  --vp-button-brand-hover-border: var(--vp-c-brand-2);
+  --vp-button-brand-hover-text: #ffffff;
+  --vp-button-brand-hover-bg: var(--vp-c-brand-2);
+
+  --vp-button-brand-active-border: var(--vp-c-brand-2);
+  --vp-button-brand-active-text: #ffffff;
+  --vp-button-brand-active-bg: var(--vp-c-brand-2);
 }
 
 /**
@@ -102,19 +105,22 @@
 
 :root {
   --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(120deg,
-      #3ff882 30%,
-      #3ff882);
+  --vp-home-hero-name-background: -webkit-linear-gradient(
+    120deg,
+    #00ccf6 10%,
+    #c30dff 55%,
+    #ead91c 95%
+  );
 
-  --vp-home-hero-image-background-image: linear-gradient(-45deg,
-      #3ff882 50%,
-      #023B17 50%);
-  --vp-home-hero-image-filter: blur(44px);
+  /* Soft neon wash behind the hero image */
+  --vp-home-hero-image-background-image: linear-gradient(
+    -45deg,
+    rgba(0, 204, 246, 0.28) 0%,
+    rgba(195, 13, 255, 0.20) 50%,
+    rgba(234, 217, 28, 0.16) 100%
+  );
 
-
-
-  --vp-home-hero-image-background-image: linear-gradient(-45deg, #6abee246 50%, #abe6ff45 50%);
-  --vp-home-hero-image-filter: blur(100px) opacity(20%);
+  --vp-home-hero-image-filter: blur(100px) opacity(22%);
 }
 
 @media (min-width: 640px) {
@@ -147,4 +153,12 @@
 
 .DocSearch {
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
+}
+
+#VPContent > div > div.VPHero.has-image.VPHomeHero > div > div.image > div > img {
+  width: 100%;
+  max-width: 960px;
+  height: auto;
+  min-height: 540px;
+  object-fit: contain;
 }

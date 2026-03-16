@@ -31,9 +31,9 @@ Each synergy represents a specialization of the trainer, allowing better command
 | **Gender: Stallion**        | Better synergy and control over stallion horses.                                 |
 | **Breed Type: Purebred**    | Enhances consistency and strategy precision with purebred horses.                |
 | **Breed Type: Crossbreed**  | Improves balance and adaptability for crossbreed horses.                         |
-| **Bloodline: Tempest**      | Increased aggression control and execution precision for Tempest Mustangs.       |
+| **Bloodline: Tempest**      | Increased aggression control and execution precision for Mustangs.       |
 | **Bloodline: Sakura**       | Improved strategic execution and agility handling for Sakura bloodline.          |
-| **Bloodline: Mystic Fjord** | Enhances stamina regulation and temperament balance for Mystic Fjords.           |
+| **Bloodline: Fjord** | Enhances stamina regulation and temperament balance for Fjords.           |
 | **Bloodline: Mirage**       | Improves balanced decision-making and strategy responsiveness for Mirage horses. |
 | **Class Level: E–D**        | Trainers better command horses in entry-level races.                             |
 | **Class Level: C–B**        | Balanced strategic adaptation for mid-tier competition.                          |

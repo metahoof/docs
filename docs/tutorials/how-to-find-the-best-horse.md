@@ -37,9 +37,9 @@ Each bloodline in MetaHoof carries unique genetic traits and demographic origins
 | Bloodline           | Fog 🌫️ | Rain 🌧️ | Heat 🔥 | Notes                                                     |
 | ------------------- | ------ | ------- | ------- | --------------------------------------------------------- |
 | **Sakura**          | High   | High    | Low     | Agile and precise, thrive in low-visibility conditions    |
-| **Tempest Mustang** | Medium | High    | High    | Enduring and explosive, great in chaotic conditions       |
-| **Mirage Arabians** | Medium | Low     | High    | Desert-born sprinters with strong heat resistance         |
-| **Mystic Fjord**    | High   | High    | Low     | All-weather endurance runners, especially in wet climates |
+| **Mustang** | Medium | High    | High    | Enduring and explosive, great in chaotic conditions       |
+| **Mirage** | Medium | Low     | High    | Desert-born sprinters with strong heat resistance         |
+| **Fjord**    | High   | High    | Low     | All-weather endurance runners, especially in wet climates |
 
 👉 Choose a horse whose **bloodline thrives in that day's weather** to gain hidden performance advantages.
 
@@ -55,10 +55,10 @@ Your horse's **bloodline** and **training history** affect performance on each s
 
 | Bloodline           | Dirt 🟫 | Grass 🌿 | Synthetic 🟦  | Notes                                                 |
 | ------------------- | ------- | -------- | ------------ | ----------------------------------------------------- |
-| **Mirage Arabians** | Medium  | High     | Low          | Well-rounded with slight preference for grass         |
-| **Mystic Fjord**    | High    | Medium   | High         | Strong on synthetic and dirt, solid all-arounder      |
+| **Mirage** | Medium  | High     | Low          | Well-rounded with slight preference for grass         |
+| **Fjord**    | High    | Medium   | High         | Strong on synthetic and dirt, solid all-arounder      |
 | **Sakura**          | High    | Low      | High         | Excels on dirt and synthetic, less effective on grass |
-| **Tempest Mustang** | Medium  | High     | Medium       | Thrives on grass, decent on synthetic                 |
+| **Mustang** | Medium  | High     | Medium       | Thrives on grass, decent on synthetic                 |
 
 👉 Always **check the race surface** and match it with your horse’s natural strengths for peak performance.
 

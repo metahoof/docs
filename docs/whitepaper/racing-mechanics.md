@@ -89,10 +89,10 @@ A balanced, all-weather surface for consistent racing.
 
 | Bloodline           | Dirt 🟫 | Grass 🌿 | Synthetic 🟦  | Notes                                                 |
 | ------------------- | ------- | -------- | ------------ | ----------------------------------------------------- |
-| **Mirage Arabians** | Medium  | High     | Low          | Well-rounded with slight preference for grass         |
-| **Mystic Fjord**    | High    | Medium   | High         | Strong on synthetic and dirt, solid all-arounder      |
+| **Mirage** | Medium  | High     | Low          | Well-rounded with slight preference for grass         |
+| **Fjord**    | High    | Medium   | High         | Strong on synthetic and dirt, solid all-arounder      |
 | **Sakura**          | High    | Low      | High         | Excels on dirt and synthetic, less effective on grass |
-| **Tempest Mustang** | Medium  | High     | Medium       | Thrives on grass, decent on synthetic                 |
+| **Mustang** | Medium  | High     | Medium       | Thrives on grass, decent on synthetic                 |
 
 :::tip
 💡 **Strategy Synergy** – Before every race, players select a racing strategy (e.g., pacing, sprint timing, race style). These affect how your horse reacts to environmental variables and leverages their traits effectively. _(See: [Horse Strategies](./strategies.md))_
@@ -114,18 +114,18 @@ Weather can **dramatically alter race strategies**, impacting **track conditions
 Each **bloodline** in MetaHoof carries unique **genetic traits and demographic origins** that influence how they perform under different **weather conditions**:
 
 - 🌸 **Sakura** – Thrive in **fog and rainy conditions**, thanks to their agile and precise nature.
-- 🌪 **Tempest Mustang** – Perform exceptionally in **rain**, and are **resilient in hot wave** conditions due to their raw endurance.
+- 🌪 **Mustang** – Perform exceptionally in **rain**, and are **resilient in hot wave** conditions due to their raw endurance.
 - 🏇 **Mirage Arabian** – Excel in **hot environments**, with a **moderate tolerance to fog**.
-- 🌊 **Mystic Fjord** – Specialists in **rainy races**, and **well-adapted to fog**, owing to their strong endurance and adaptability.
+- 🌊 **Fjord** – Specialists in **rainy races**, and **well-adapted to fog**, owing to their strong endurance and adaptability.
 
 #### Reference Bloodline vs Weather Condition
 
 | Bloodline           | Fog 🌫️ | Rain 🌧️ | Heat 🔥 | Notes                                                     |
 | ------------------- | ------ | ------- | ------- | --------------------------------------------------------- |
 | **Sakura**          | High   | High    | Low     | Agile and precise, thrive in low-visibility conditions    |
-| **Tempest Mustang** | Medium | High    | High    | Enduring and explosive, great in chaotic conditions       |
-| **Mirage Arabians** | Medium | Low     | High    | Desert-born sprinters with strong heat resistance         |
-| **Mystic Fjord**    | High   | High    | Low     | All-weather endurance runners, especially in wet climates |
+| **Mustang** | Medium | High    | High    | Enduring and explosive, great in chaotic conditions       |
+| **Mirage** | Medium | Low     | High    | Desert-born sprinters with strong heat resistance         |
+| **Fjord**    | High   | High    | Low     | All-weather endurance runners, especially in wet climates |
 
 Understanding these **bloodline affinities** can give players a **strategic edge** when selecting horses for races with **challenging weather**.
 

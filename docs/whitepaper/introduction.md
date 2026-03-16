@@ -6,7 +6,7 @@ editLink: true
 # Introduction
 
 <div style="diplay: flex; margin-top: 24px; align-items: center; margin-bottom: 24px; justify-content: center">
-   <iframe width="100%" height="315" src="https://www.youtube.com/embed/84GYCpbr33E?si=ZEM77RGCNYGBKRMV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   <iframe width="100%" height="400" src="https://www.youtube.com/embed/DrPEEHuEF3Y?si=k2mOwpt3X7Pw2xvE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 **MetaHoof** is an exclusive digital horse racing game that brings the thrill of traditional horse racing into the modern age. MetaHoof creates a dynamic, immersive

@@ -35,22 +35,22 @@ MetaHoof features **four distinct bloodlines**, each carrying **unique attribute
 - Their **quick acceleration and precise movements** make them formidable in **short-distance sprint races**.
 - Behind their **calm demeanor** lies a **fierce competitive spirit**, driving them to success in high-intensity races.
 
-🌪 **Tempest Mustang** → **Raw Power & Untamed Spirit**
+🌪 **Mustang** → **Raw Power & Untamed Spirit**
 
-- Tempest Mustangs embody **high-risk racing**, bringing **explosive speed and unmatched power**.
+- Mustangs embody **high-risk racing**, bringing **explosive speed and unmatched power**.
 - Their **wild temperament** makes them unpredictable but **dominant in aggressive races**.
 - Best suited for **tough, unpredictable race conditions**, where sheer strength leads to victory.
 
 
-🌊 **Mystic Fjord** → **Resilient & Intelligent**
+🌊 **Fjord** → **Resilient & Intelligent**
 
-- Mystic Fjords are **highly intelligent horses**, known for **strategic thinking and adaptability**.
+- Fjords are **highly intelligent horses**, known for **strategic thinking and adaptability**.
 - Their **stamina and resilience** allow them to **outlast competitors in long, grueling races**.
 - These horses thrive in **challenging race conditions**, where strategy and endurance are key.
 
-🏇 **Mirage Arabians** → **Agile & Refined**
+🏇 **Mirage** → **Agile & Refined**
 
-- Mirage Arabians are **graceful, strategic racers**, excelling in **both speed and endurance**.
+- Mirage are **graceful, strategic racers**, excelling in **both speed and endurance**.
 - Their **mysterious temperament and adaptability** make them ideal for **stamina-based, long-distance races**.
 - They perform exceptionally well in **desert-like conditions**, maintaining energy even in harsh environments.
 

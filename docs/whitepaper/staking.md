@@ -2,141 +2,193 @@
 
 # Horse Staking
 
-Horse Staking is a key system that powers MetaHoof’s Free-to-Play access and creates a new layer of utility and strategy for horse owners.
+Horse Staking is a core pillar of the MetaHoof competitive ecosystem. It enables players to commit their horses on-chain, participate in prediction-enabled races, and earn sustainable rewards while strengthening the overall game economy.
+
+Through staking, horses become part of the active racing pool that powers MetaHoof’s Prediction Market and competitive leagues.
 
 ## 🎯 Purpose
 
-The staking pool enables players without owned horses to participate in races by borrowing staked horses. These horses are supplied primarily by Player’s Horses and, when needed, by the platform itself.
+Horse Staking exists to achieve three main objectives:
+
+1. **Ensure Competitive Integrity**  
+   Only committed horses can enter prediction-enabled races, preventing manipulation and last-minute withdrawals.
+
+2. **Power the Prediction Market**  
+   Staked horses provide stable liquidity and participation for betting, forecasting, and reward distribution.
+
+3. **Reward Long-Term Players**  
+   Players who consistently stake and compete are rewarded with SOMI based on performance and engagement.
+
+In short: staking aligns player incentives with the long-term health of MetaHoof.
 
 ## 🧩 Core Mechanics
 
-Players can stake their horses under two conditions:
+Players can stake their horses under two main commitment models:
 
-| Condition      |
-| -------------- |
-| Duration-based |
-| Usage-based    |
+| Condition      | Description                                   |
+| -------------- | --------------------------------------------- |
+| Duration-based | Horse is locked for a minimum time period     |
+| Usage-based    | Horse is locked for a minimum number of races |
 
-A minimum lock-in of **24 hours or 10 races** applies. Whichever comes first will trigger the end of staking, and the horse will automatically return to its original owner, provided it is not currently in a race.
+A minimum lock-in of **24 hours or 10 races** applies. Once this minimum is completed, the horse becomes flexible and may be withdrawn at any time by the owner.
 
-### Maximum Commitment
+Staked horses remain active in the racing pool unless manually withdrawn.
 
-| Maximum Condition | Value                    |
-| ----------------- | ------------------------ |
-| Duration-based    | 30 days                  |
-| Usage-based       | 100 races                |
-| Aging-based       | Up to the next age stage |
+## ⏳ Maximum Commitment
 
-- Horses return automatically at max duration, race count, or when aging to the next stage.
-- Owners may re-stake eligible horses (full energy, not max decay).
+Horse Staking uses a **minimum commitment model**, not a hard cap.
 
-This system prevents indefinite parking while tying staking to the natural aging and decay mechanics.
+This means:
+
+- Players commit their horse for at least the selected duration or race count
+- After the minimum is completed, the horse may continue racing
+- Owners may unstake at any time after completion
+
+If a player does not withdraw their horse, it will continue participating and generating rewards.
+
+This model ensures stable liquidity for the Prediction Market and avoids sudden drops in participation.
 
 ## ✅ Eligibility & Restrictions
 
-| Restrictions and Conditions                                                  |
-| ---------------------------------------------------------------------------- |
-| Transferred to a **staking smart contract** (ownership temporarily assigned) |
-| Cannot be **bred**, **upgraded class**, or **resold**                              |
-| Can only be reclaimed by the original owner after the minimum commitment     |
-| Must be in **full energy state** to be eligible                              |
-| Must not have reached **maximum decay (Level 8)**                            |
+To preserve fairness and security, only approved MetaHoof horses are eligible for staking.
+
+### Eligibility
+
+- Must be an official MetaHoof ERC-721 horse
+- Must be owned by the player
+- Must not already be staked
+- Must not be locked in another system
+
+### Restrictions
+
+While staked, horses:
+
+- Cannot be sold or transferred
+- Cannot be burned
+- Cannot be bridged
+- Cannot be duplicated
+
+Ownership is temporarily held in escrow and returned when unstaked.
 
 ## 📈 Staking Lifecycle
 
-| Stage             | Description                                                                |
-| ----------------- | -------------------------------------------------------------------------- |
-| **Stake**         | Owner stakes horse (must have full energy and not be at max decay).        |
-| **Lock Period**   | Minimum of 24 hours OR 10 races, whichever comes first.                    |
-| **Active Usage**  | Horse participates in eligible races (Casual, PvE Ranked, etc.).           |
-| **XP & Aging**    | Horse continues to gain XP and age; decay system applies as normal.        |
-| **Max Threshold** | Ends after 30 days, 100 races, or upon reaching the next age stage.        |
-| **Auto Return**   | Horse is returned automatically once conditions are met or thresholds hit. |
-| **Re-Stake**      | Owner may re-stake if horse is still eligible.                             |
+The lifecycle of a staked horse follows a clear sequence:
+
+1. **Stake**  
+   Player locks their horse on-chain
+
+2. **Compete**  
+   Horse participates in races and prediction markets
+
+3. **Accrue Rewards**  
+   Performance and engagement generate SOMI rewards
+
+4. **Complete Commitment**  
+   Minimum lock conditions are met
+
+5. **Flexible Phase**  
+   Horse may be withdrawn at any time
+
+6. **Unstake**  
+   NFT is returned to the owner
+
+This process guarantees transparency and player control.
 
 ## 💰 Remuneration
 
-To reward staking participation, **1% of all event entry fees** are allocated to a **staking reward pool**. Distribution happens **weekly** in $TOKEN, based on points:
+Staked horses earn rewards in native **SOMI**.
 
-| Race Type         | Points Earned  |
-| ----------------- | -------------- |
-| Casual Race       | +1 point       |
-| PvE Ranked Race   | +2 points      |
-| Future Race Types | TBD (weighted) |
+Rewards are generated through:
 
-- Points reflect horse activity and race type.
-- Owners can track races, points, and rewards via the staking dashboard.
-- The 1% pool may be adjusted in the future through governance.
+- Prediction market participation
+- Competitive race outcomes
+- Engagement-based incentives
+- Seasonal reward pools
+
+### Distribution
+
+Rewards are calculated through MetaHoof’s settlement system and deposited on-chain.
+
+Players can claim their accumulated rewards at any time.
+
+Reward distribution follows a performance-weighted model, encouraging strategic racing and consistent participation.
 
 ## 🐋 Fairness & Anti-Whale Measures
 
-| Measure                  | Description                                                                               |
-| ------------------------ | ----------------------------------------------------------------------------------------- |
-| **Per-User Reward Cap**  | A single account can earn a maximum of 8% of the weekly staking pool.                     |
-<!-- | **Diminishing Returns**  | After 5 horses, each additional horse counts at reduced efficiency (e.g., 70%, then 50%). | -->
-| **Activity Requirement** | Horses must run at least 3 races per week to qualify.                                     |
-| **Eligibility Filters**  | Only horses with full energy and below maximum decay (Level 8) are eligible.              |
-| **Seasonal Resets**      | All staking metrics reset each season to prevent compounding advantages.                  |
+Horse Staking includes built-in mechanisms to prevent excessive concentration of rewards.
 
-These measures ensure fairness while keeping the staking pool vibrant and useful for Free-to-Play players.
+### Active Limits
 
-## 🧑‍🌾 Platform-Owned Horses
+- Maximum number of concurrent stakes per account
+- Commitment requirements for participation
+- Performance-weighted payouts
 
-| Priority and Treatment                                                                                                                                                                                                                                |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Player horses have priority**                                                                                                                                                                                                                       |
-| Platform-owned horses fill the pool when player-supplied horses are insufficient. They follow the same usage rules but may be retired at the platform’s discretion (e.g., resold, auctioned, or burned when no longer fit, such as at maximum decay). |
+### Economic Balance
+
+- Diminishing returns for inactive assets
+- Incentives for mid-tier and new players
+- Dynamic reward pools
+
+These systems ensure that success is driven by skill and strategy, not only capital.
 
 ## 🧰 Control Panel & Player Experience
 
-Owners can:
+MetaHoof provides a dedicated staking dashboard for full transparency.
 
-| Feature              | Description                                                  |
-| -------------------- | ------------------------------------------------------------ |
-| Staking Status       | View remaining time/races for each staked horse              |
-| Performance Tracking | Track horse race history and staking rewards                 |
-| Management Options   | Extend or cancel staking after the lock-in, if horse is idle |
+Players can:
 
-Staked horses remain visible in the stable in **read-only mode**.
+| Feature             | Description                     |
+| ------------------- | ------------------------------- |
+| Staking Status      | View remaining time and races   |
+| Reward Balance      | Track pending SOMI              |
+| Performance History | Review recent results           |
+| Management Options  | Unstake or extend participation |
 
+Clear visual indicators show whether a horse is locked, flexible, or ready for withdrawal.
 
-## 🧵 Free-to-Play Link
+## 🛡️ Abuse Prevention
 
-| Prize Distribution                                                                        |
-| ----------------------------------------------------------------------------------------- |
-| **20% of any prize won** by an F2P player using a staked horse goes to the original owner |
+To protect the ecosystem, multiple safeguards are in place.
 
-- Owners see which player used their horse and its performance logs.
-- Direct interaction with borrowers is disabled to ensure fairness.
+### Technical Safeguards
 
-## 🛡️ Borrowing Quotas & Abuse Prevention
+- On-chain escrow custody
+- Smart contract access control
+- Reentrancy protection
+- Upgrade security controls
 
-While Horse Staking enables Free-to-Play access, safeguards are necessary to prevent abuse and ensure fair distribution of borrowed horses.
+### Behavioral Safeguards
 
-### Potential Abuses
-- **Multi-Account Farming (Sybil Attack)**: Creating multiple accounts to borrow many horses and farm rewards.
-- **Idle Borrowing**: Borrowing horses but not racing them, blocking access for active players.
-- **Horse Hoarding**: Taking multiple horses at once, reducing availability for other F2P players.
-- **Trophy Hunting**: Attempting to repeatedly borrow only the strongest horses if selection is predictable.
+- Minimum commitments
+- Anti-sybil detection
+- Monitoring of abnormal betting patterns
+- Oracle verification
 
-### Borrowing Rules (First Iteration)
+Accounts engaging in abusive behavior may have rewards restricted or access limited.
 
-| Rule                     | Setting                                                             |
-| ------------------------- | ------------------------------------------------------------------- |
-| **Max Borrowed Horses**  | 1 horse per F2P account (up to 2 if account is verified)             |
-| **Borrowing Duration**   | 24 hours OR 10 races, whichever comes first                         |
-| **Cooldown Between Borrows** | 12 hours cooldown before borrowing another horse after return       |
-| **Assignment Method**    | Randomized (redshifted queue) to prevent targeting specific horses   |
-| **Activity Requirement** | Horses returned automatically if idle for more than 12 hours        |
+## 🌐 Role in the Prediction Market
 
-These quotas ensure fair access for genuine Free-to-Play players while protecting the staking system from abuse. As the ecosystem evolves, quotas may expand to include stake-linked borrowing, seasonal passes, or reputation-based borrowing privileges.
+Horse Staking is the foundation of MetaHoof’s Prediction Market.
 
-## 🔮 Future Expansions
+Only staked horses may enter prediction-enabled races. This guarantees that:
 
-| Planned Features                                                               |
-| ------------------------------------------------------------------------------ |
-| **Staking tiers** (e.g. Bronze, Silver, Gold) to reward more committed stakers |
-| **Rental Vaults** for race-type-specific horse pools                           |
-| **DAO governance** to adjust reward percentages and system rules               |
+- Race participants cannot exit mid-market
+- Odds remain stable
+- Liquidity is predictable
+- Outcomes remain verifiable
 
-By staking your horse, you power MetaHoof’s player growth while turning your stable into a revenue stream — even when you're not racing.
+By anchoring race participation on-chain, staking enables transparent and trust-minimized betting.
+
+## ✅ Summary
+
+Horse Staking transforms passive NFT ownership into active economic participation.
+
+It provides:
+
+- Secure on-chain commitment
+- Sustainable SOMI rewards
+- Fair competitive access
+- Prediction market stability
+- Long-term ecosystem growth
+
+Through staking, players become long-term contributors to the MetaHoof universe.

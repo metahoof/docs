@@ -65,22 +65,22 @@ Each bloodline specializes in a unique balance of performance traits. Below is a
 
 | Bloodline           | Speed (min–max) | Endurance (min–max) | Agility (min–max) | Temperament (min–max) | Breeding Potential |
 | ------------------- | --------------- | ------------------- | ----------------- | --------------------- | ------------------ |
-| **Mystic Fjord**    | 60–75           | 75–90               | 80–95             | 70–85                 | 60–100             |
-| **Tempest Mustang** | 80–95           | 70–85               | 65–80             | 40–60                 | 60–100             |
+| **Fjord**    | 60–75           | 75–90               | 80–95             | 70–85                 | 60–100             |
+| **Mustang** | 80–95           | 70–85               | 65–80             | 40–60                 | 60–100             |
 | **Sakura**          | 70–88           | 68–82               | 82–95             | 65–90                 | 60–100             |
-| **Mirage Arabians** | 68–88           | 70–85               | 72–88             | 68–85                 | 60–100             |
+| **Mirage** | 68–88           | 70–85               | 72–88             | 68–85                 | 60–100             |
 
-- **Mystic Fjord**: Top-tier endurance and strategic agility, with a stable temperament for consistent performance across varied tracks.
-- **Tempest Mustang**: Explosive speed and raw power, moderate endurance, and a wilder temperament ideal for aggressive races.
+- **Fjord**: Top-tier endurance and strategic agility, with a stable temperament for consistent performance across varied tracks.
+- **Mustang**: Explosive speed and raw power, moderate endurance, and a wilder temperament ideal for aggressive races.
 - **Sakura**: Balanced speed with supreme agility, excelling in technical circuits and tight maneuvers, underpinned by strong adaptability.
-- **Mirage Arabians**: Well-rounded stats providing reliable speed, solid stamina, and calm temperament for versatile race strategies.
+- **Mirage**: Well-rounded stats providing reliable speed, solid stamina, and calm temperament for versatile race strategies.
 
 Use these attribute ranges to align bloodline selection with race conditions and breeding goals:
 
-- **Endurance-focused races** favor **Mystic Fjord**.
-- **Sprint or power-driven competitions** suit **Tempest Mustang**.
+- **Endurance-focused races** favor **Fjord**.
+- **Sprint or power-driven competitions** suit **Mustang**.
 - **Technical short-course events** highlight **Sakura**.
-- **Balanced tracks** reward **Mirage Arabians**.
+- **Balanced tracks** reward **Mirage**.
 
 ## 5️⃣ Breed Types & Their Impact
 

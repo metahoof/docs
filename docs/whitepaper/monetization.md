@@ -14,21 +14,17 @@ Racing is at the heart of MetaHoof—and so are the rewards. Every paid-entry ra
 
 **Revenue Distribution for Paid Races**
 
-| Component                   | % of Entry Fees | Purpose                                        |
-| --------------------------- | --------------- | ---------------------------------------------- |
-| Player Rewards              | 90%             | Distributed among winners (WTA, Top 2/3/6)     |
-| Game Development (MetaHoof) | 6%              | Reinvested into game infrastructure and growth |
-| Creator Program             | 1%              | Reward for Creator and KOLs                    |
-| Stake                       | 1%              | Contribution to Stake Pool                     |
-| Leaderboards                | 2%              | Supports competitive leaderboard prizes        |
+| Component                   | % of Entry Fees | Purpose                                          |
+| --------------------------- | --------------- | ------------------------------------------------ |
+| Player Rewards              | 90%             | Distributed among winners (WTA, Top 2/3/6)       |
+| Game Development (MetaHoof) | 8%              | Reinvested into game infrastructure and growth   |
+| Treasury                    | 2%              | Supports competitive leaderboard, in-game prizes |
 
 > Example: For a 1,000 $TOKEN race pool:
 >
 > - 900 $TOKEN are paid back to racers
-> - 60 $TOKEN are reinvested in the platform
-> - 10 $TOKEN are shared with refferer account
-> - 10 $TOKEN are distributed to stake pool
-> - 20 $TOKEN are distributed across leaderboard pools
+> - 80 $TOKEN are reinvested in the platform
+> - 20 $TOKEN are distributed to treasury
 
 **Payout Types**
 
@@ -38,7 +34,7 @@ Racing is at the heart of MetaHoof—and so are the rewards. Every paid-entry ra
 
 This balanced distribution ensures that competition remains rewarding while continuously strengthening the ecosystem.
 
-## 3️⃣ Breeding & Stud Market
+<!-- ## 3️⃣ Breeding & Stud Market
 
 Breeding and stud mechanics not only expand the ecosystem but also fuel competitive progression. Players contribute to the economy through these interactions while unlocking value.
 
@@ -127,11 +123,11 @@ Season Passes offer access to special competitions, gated rewards, and exclusive
 
 MetaHoof earns a royalty on all secondary market sales, sustaining the game and enabling community rewards.
 
-| Allocation         | % of Sale      |
-| ------------------ | -------------- |
-| MetaHoof           | 5%             |
+| Allocation   | % of Sale      |
+| ------------ | -------------- |
+| MetaHoof     | 5%             |
 | Protocol Fee | 2%             |
-| Promoter Fee       | 2% (up to 10%) |
+| Promoter Fee | 2% (up to 10%) |
 
 All royalty earnings are flexibly used to fund operations, events, and strategic initiatives.
 
@@ -146,5 +142,5 @@ A special collaborative mint that enables co-creation between MetaHoof and artis
 | Co-Creator (mint)  | 40%            |
 | Co-Creator Royalty | 2%             |
 | MetaHoof Royalty   | 3%             |
-| Protocol Fee | 2%             |
-| Promoter Fee       | 2% (up to 10%) |
+| Protocol Fee       | 2%             |
+| Promoter Fee       | 2% (up to 10%) | -->
