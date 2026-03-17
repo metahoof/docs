@@ -1,5 +1,3 @@
-<!-- ![hero](/img/banners/STAKE.png) -->
-
 # Horse Staking
 
 Horse Staking is a core pillar of the MetaHoof competitive ecosystem. It enables players to commit their horses on-chain, participate in prediction-enabled races, and earn sustainable rewards while strengthening the overall game economy.

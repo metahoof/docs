@@ -106,8 +106,3 @@ Once satisfied with your configuration:
 2. Click **Create Strategy** to save it for use in races and training sessions.
 
 Your horse will follow this strategy whenever it's assigned—so pick wisely and always test it under different conditions.
-
-🔗 For more:
-
-- [Trainer Synergy Guide](./trainers-synergy.md)
-- [Trainer Skills Reference](./trainers-skills.md)
