@@ -25,7 +25,7 @@ Every horse in MetaHoof is defined by three core layers:
 | 🎨 Appearance | Cosmetic traits that define visual style          |
 | ⚡ Attributes | Physical capabilities used by the race simulation |
 
-Together these layers shape your horse’s **career, potential, and value**.
+Together these layers shape how your horse looks, performs, and grows over time.
 
 ### 🔍 Reveal Status
 
@@ -41,7 +41,7 @@ Before reveal, horses appear as mystery placeholders. Once revealed, the full id
 
 ## 🧬 Identity & Genetics
 
-These traits define the horse’s origin and breeding potential.
+These traits describe where your horse comes from and how it can be used for breeding.
 
 ### Bloodline
 
@@ -97,7 +97,7 @@ Horses evolve over time.
 | Adult   | Prime racing stage     |
 | Veteran | Experienced competitor |
 
-Age affects **progression, stamina behavior, and long‑term development**.
+Age affects how your horse grows, performs, and evolves over time.
 
 ## 🎨 Appearance & Cosmetics
 
@@ -117,174 +117,92 @@ These traits help create **visual identity and collectibility**.
 
 ## ⚡ Core Racing Attributes
 
-MetaHoof horses have three core physical attributes that influence race behavior.
+Every horse in MetaHoof has three core attributes that define how it performs on the track.
 
-| Attribute | Role                                       |
-| --------- | ------------------------------------------ |
-| Speed     | Determines natural running pace            |
-| Endurance | Controls stamina efficiency                |
-| Power     | Determines acceleration and responsiveness |
+| Attribute | Role                                         |
+| --------- | -------------------------------------------- |
+| Speed     | How fast the horse can run                   |
+| Endurance | How long the horse can maintain its pace     |
+| Power     | How quickly the horse reacts and accelerates |
 
-Inside the race simulation these values are normalized into a **1–10 effective scale** after applying:
+These attributes work together to shape how your horse behaves during a race.
 
-- progression
-  n- trainer bonuses
-- age effects
-- temperament modifiers
+They are not just numbers — they define the horse’s racing style.
 
-These attributes are **not isolated stats**.
-
-They act as **performance modifiers inside the race simulation**, influencing how the horse behaves during the race.
+---
 
 ### 🐎 Speed
 
-#### What Speed Represents
+Speed is how fast your horse can run.
 
-Speed defines the horse’s **natural running pace**.
+A horse with high Speed:
 
-It determines the **baseline velocity** the horse can achieve under normal racing conditions.
+- Reaches higher top speeds
+- Moves faster during the race
+- Has an advantage in open stretches
 
-In the simulation, Speed contributes to the horse’s base velocity:
+A horse with low Speed:
 
-```
-baseSpeed = CONFIG.baseSpeedMPS * speedFactor
-```
+- May struggle to keep up with faster competitors
+- Needs good timing or strategy to win
 
-Where the **speedFactor** is derived from the horse's Speed level.
+👉 Think of Speed as your horse’s **natural pace**.
 
-### Effects of High Speed
-
-Horses with higher Speed:
-
-- Run faster during normal racing phases
-- Cover more distance per simulation tick
-- Have higher potential race pace
-
-#### What Speed Does NOT Affect
-
-Speed does **not control**:
-
-- Acceleration
-- Stamina consumption
-- Reaction speed
-- Sprint timing
-- Tactical responsiveness
-
-Those behaviors are governed by other attributes.
-
-#### Gameplay Meaning
-
-Speed determines **how fast a horse can run when conditions are ideal**.
-
-However, without enough stamina or responsiveness, even a fast horse can lose races.
+---
 
 ### 🏃 Endurance
 
-#### What Endurance Represents
+Endurance is how long your horse can keep running without getting tired.
 
-Endurance measures the horse’s **stamina efficiency and fatigue resistance**.
+A horse with high Endurance:
 
-It determines how efficiently the horse converts energy into sustained performance during the race.
+- Keeps its speed for longer
+- Performs better in longer races
+- Still has energy left for the final stretch
 
-#### Simulation Behavior
+A horse with low Endurance:
 
-Endurance reduces stamina drain using a nonlinear efficiency curve:
+- Gets tired faster
+- Slows down near the end of races
 
-```
-staminaDrainMultiplier = enduranceDiscount(enduranceLevel)
-```
+👉 Think of Endurance as your horse’s **stamina tank**.
 
-Higher Endurance results in progressively stronger stamina efficiency.
-
-#### Effects of High Endurance
-
-Horses with strong Endurance:
-
-- Lose stamina more slowly
-- Maintain speed for longer periods
-- Perform better in long races
-- Preserve stamina for late‑race sprints
-
-#### Effects of Low Endurance
-
-Low Endurance horses tend to:
-
-- Drain stamina quickly
-- Enter fatigue states earlier
-- Lose speed in longer races
-
-#### What Endurance Does NOT Affect
-
-Endurance does **not directly change**:
-
-- Maximum speed
-- Acceleration
-- Tactical reactions
-
-It strictly affects **energy efficiency and stamina longevity**.
+---
 
 ### 💥 Power
 
-#### What Power Represents
+Power is how quickly your horse can react and accelerate.
 
-Power represents the horse’s **physical strength and explosive capability**.
+A horse with high Power:
 
-Within the simulation, Power translates into **Agility**, which controls how quickly a horse can change speed or react to race conditions.
+- Accelerates faster
+- Responds quickly to race situations
+- Performs better in tight or competitive races
 
-#### Simulation Effects
+A horse with low Power:
 
-Power influences acceleration through the following relationship:
+- Takes longer to speed up
+- Reacts slower during key moments
 
-```
-accelerationScale = 0.8 + agilityFactor * 0.4
-```
+👉 Think of Power as your horse’s **explosiveness and reaction speed**.
 
-Where **agilityFactor** is derived from the horse's Power attribute.
+---
 
-Higher Power improves:
+## ⚙️ How Attributes Work Together
 
-- Acceleration toward target speed
-- Reaction time during tactical moments
-- Responsiveness to sprint triggers
-- Ability to react in dense race packs
+The best horses are not always the ones with the highest numbers — it’s about balance.
 
-#### Effects of Low Power
+- High Speed + Low Endurance → Fast start, but may fade
+- High Endurance + Low Speed → Consistent, but may lack pace
+- High Power → Better control and timing during the race
 
-Low Power horses typically:
+Winning races comes from combining:
 
-- Accelerate more slowly
-- React later to race dynamics
-- Struggle to respond to tactical shifts
+- The right horse
+- The right strategy
+- The right moment
 
-#### What Power Does NOT Affect
-
-Power does **not increase**:
-
-- Maximum speed
-- Stamina efficiency
-
-It only affects **how quickly the horse can adjust its speed during the race**.
-
-## ⚙️ Attribute Interaction
-
-The three attributes work together to create a horse’s racing profile.
-
-| Attribute | Primary Role   | Key Effect                          |
-| --------- | -------------- | ----------------------------------- |
-| Speed     | Pace           | Determines base running velocity    |
-| Endurance | Stamina        | Reduces fatigue and stamina drain   |
-| Power     | Responsiveness | Improves acceleration and reactions |
-
-Final race outcomes emerge from the interaction between:
-
-- Horse attributes
-- Player race strategy
-- Track conditions
-- Stamina management
-- Pack dynamics
-- Random race variance
-
-This creates a **skill‑driven racing system**, where strategy and horse selection both matter.
+This is what makes MetaHoof a **skill-based racing experience**.
 
 ## 🧩 Placeholder Horses
 
@@ -306,11 +224,9 @@ Once revealed, the full horse profile becomes available.
 
 Your horse’s attributes influence:
 
-- Race performance
-- Strategy selection
-- Breeding outcomes
-- Market value
-- Competitive ranking
+- How your horse performs in races
+- Which strategies work best
+- How valuable your horse becomes
 
 Successful stable owners analyze their horses and build strategies around their strengths.
 
