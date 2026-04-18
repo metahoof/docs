@@ -11,6 +11,15 @@ MetaHoof operates through a set of interconnected economic loops rather than a s
 
 No loop exists in isolation. Racing, deployment, expansion, transformation, and resource consumption all depend on player participation and all affect one another. The economy remains active only when players continue to deploy assets, make decisions, and accept competitive outcomes.
 
+| Loop | Primary purpose | Depends on |
+| --- | --- | --- |
+| Core participation loop | Create competitive outcomes and redistribute value | Race entry and contested performance |
+| Deployment loop | Put assets into play manually or through agents | Player intent and valid opportunities |
+| Delegation and pooling loop | Route delegated assets into system participation | Pool coordination, agents, and real activity |
+| Expansion loop | Introduce new supply under controlled conditions | Resource cost and system rules |
+| Transformation loop | Change asset potential and create progression tradeoffs | Resource consumption and player choice |
+| Resource consumption loop | Regulate scale and preserve balance | Costs, readiness, and sink mechanisms |
+
 ## 2. Core Participation Loop
 
 The fundamental loop of MetaHoof is:
@@ -20,6 +29,14 @@ enter race -> compete -> receive outcome -> reinvest or adjust
 This is the primary loop of the system. It is the point at which horses are deployed, value is committed through entry, outcomes are determined, and players decide what to do next.
 
 All primary value flow originates here. If races are not being entered, value is not being committed, redistributed, or recirculated through the game. No participation means no primary economic activity.
+
+```mermaid
+flowchart LR
+    A[Enter race] --> B[Compete]
+    B --> C[Receive outcome]
+    C --> D[Reinvest or adjust]
+    D --> A
+```
 
 ## 3. Deployment Loop (Agents and Manual Play)
 
@@ -78,6 +95,18 @@ The economic loops in MetaHoof continuously feed into one another. Participation
 This interdependence is important. A change in one loop affects the others. Higher participation changes prize competition. Supply expansion affects race environments. Resource constraints regulate how quickly players can cycle back into further activity.
 
 The system is therefore governed by feedback, not isolated mechanics.
+
+```mermaid
+flowchart TD
+    A[Participation] --> B[Outcomes]
+    B --> C[Redeployment decisions]
+    C --> A
+    B --> D[Expansion and transformation choices]
+    D --> E[Asset supply and asset potential]
+    E --> A
+    A --> F[Resource consumption]
+    F --> C
+```
 
 ## 9. Role of Agents in Economic Loops
 

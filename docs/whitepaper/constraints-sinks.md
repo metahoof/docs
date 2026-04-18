@@ -11,6 +11,15 @@ Constraints are the systems that limit participation, regulate pacing, and preve
 
 Without constraints, the system would be vulnerable to exploitation, excessive automation, and unstable economic behavior. Constraints ensure that participation requires timing, selectivity, and resource management rather than unrestricted repetition.
 
+| Mechanism | Type | Economic function |
+| --- | --- | --- |
+| Energy and readiness | Constraint | Limits participation frequency and creates timing tradeoffs |
+| Eligibility rules | Constraint | Restricts access to valid environments and prevents unrestricted deployment |
+| Participation caps | Constraint | Prevents spam, abuse, and unlimited scaling |
+| Entry costs | Sink | Removes value at the point of participation |
+| Expansion costs | Sink | Limits supply growth and forces deliberate creation decisions |
+| Transformation costs | Sink | Ties progression to resource consumption |
+
 ## 2. Participation Constraints
 
 Participation in MetaHoof is bounded by several layers of limits that shape when and how assets can be deployed.

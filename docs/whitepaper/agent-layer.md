@@ -25,6 +25,13 @@ Agents use those inputs to execute participation. They interpret player-defined 
 
 This keeps authority with the player while shifting repetitive operational steps into a controlled execution layer.
 
+| Player defines | Agent executes |
+| --- | --- |
+| Which horses may be used | Evaluates only assigned and eligible horses |
+| Which races or environments are allowed | Filters only valid opportunities within those rules |
+| Which strategy profile should apply | Submits participation using the configured strategy |
+| When participation should stop | Stops or continues only within explicit bounded limits |
+
 ## 3. Discrete Execution Model
 
 MetaHoof agents operate in discrete cycles. Each cycle corresponds to one race participation.
@@ -38,6 +45,18 @@ A cycle consists of:
 After that execution, the agent must either stop or continue only if explicit and bounded continuation conditions have been defined.
 
 This distinction is central to the design. MetaHoof agents are not continuous systems, background automation loops, or set-and-forget optimizers. They are execution systems that act one participation cycle at a time within defined limits.
+
+```mermaid
+flowchart LR
+    A[Player-defined rules] --> B[Evaluate valid opportunities]
+    B --> C[Select one eligible race]
+    C --> D[Submit one race participation]
+    D --> E{Continuation allowed?}
+    E -- No --> F[Stop]
+    E -- Yes, within limits --> B
+```
+
+> How to read this layer: the player defines intent once, but the agent still executes only one participation cycle at a time and remains subject to stopping conditions after each cycle.
 
 ## 4. Bounded Continuation
 

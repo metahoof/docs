@@ -13,6 +13,15 @@ In MetaHoof, staking is delegation of participation rights, not passive value ge
 
 This places delegated participation within the same participation-driven framework as the rest of the economy. Without participation, the delegated layer produces no value.
 
+```mermaid
+flowchart LR
+    A[Player delegates horse] --> B[Horse enters pool]
+    B --> C[Agent executes one valid participation cycle]
+    C --> D[System records outcome]
+    D --> E[Redistribution follows activity and results]
+    E --> F[Player keeps, withdraws, or reconfigures]
+```
+
 ## 2. Staked Horses
 
 When a horse is staked, it is temporarily allocated to a system-controlled context and becomes available for delegated participation. The horse remains part of the broader economy, but its use is routed through system-controlled execution rather than direct manual deployment.
@@ -34,6 +43,13 @@ Its flow is straightforward:
 delegation -> pooling -> participation -> outcome -> redistribution -> reallocation
 
 This loop extends the racing economy rather than sitting outside it. Delegated assets still depend on racing activity, agent execution, and broader system participation. If those conditions are absent, the loop does not produce meaningful outcomes and no value is redistributed.
+
+| Stage | What happens | What it does not mean |
+| --- | --- | --- |
+| Delegation | Player allocates a horse to system-controlled participation | The horse starts generating value by default |
+| Pooling | The system groups delegated assets for coordinated use | The pool guarantees an outcome |
+| Participation | Agents execute valid participation cycles | Automation runs without limits |
+| Outcome and redistribution | Results follow real activity and system rules | Rewards are fixed or detached from participation |
 
 ## 5. Prediction Markets
 

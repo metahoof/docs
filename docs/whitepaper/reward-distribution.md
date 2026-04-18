@@ -13,6 +13,13 @@ The system does not create a fixed reward stream detached from gameplay. Reward 
 
 This structure is fundamental to the economy: no participation means no reward pool.
 
+```mermaid
+flowchart LR
+    A[Players enter races] --> B[Entry value forms prize pool]
+    B --> C[Race outcome determines placement]
+    C --> D[Pool is redistributed by result]
+```
+
 ## 2. Prize Pool Allocation
 
 Each race forms a prize pool from participant entry contributions. That pool is dynamic rather than fixed.
@@ -39,6 +46,13 @@ In general, higher placements receive larger shares of the available prize pool,
 This structure is designed to reward performance while maintaining competitive pressure throughout the field. It preserves the importance of placement and ensures that distribution remains tied to results rather than being evenly spread across all entries.
 
 The exact structure may vary by race or environment, but the governing principle remains consistent: allocation follows performance.
+
+| Reward stage | Governing principle |
+| --- | --- |
+| Prize pool formation | Value comes from actual race participation |
+| Allocation decision | Performance determines who receives what |
+| Share size | Higher placements receive larger shares |
+| Unrewarded participation | Some entrants may receive no reward |
 
 ## 5. Variability of Rewards
 

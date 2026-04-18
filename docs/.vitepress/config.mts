@@ -122,7 +122,7 @@ export default withMermaid(
       ],
 
       footer: {
-        copyright: `© 2025 ANP LABS. ALL RIGHTS RESERVED.`,
+        copyright: `© 2026 ANP LABS. ALL RIGHTS RESERVED.`,
       },
 
       socialLinks: [
