@@ -96,8 +96,7 @@ export default withMermaid(
           {
             text: "Additional Resources",
             items: [
-              { text: "Team", link: "/whitepaper/team" },
-              { text: "FAQ", link: "/whitepaper/faq" }
+              { text: "Team", link: "/whitepaper/team" }
             ],
           },
         ],
