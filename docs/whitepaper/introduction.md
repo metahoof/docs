@@ -1,112 +1,56 @@
 ---
-title: MetaHoof | The Whitepaper - Welcome to the future of horse racing games
+title: MetaHoof | Whitepaper - Introduction
 editLink: true
 ---
 
 # Introduction
 
-<div style="diplay: flex; margin-top: 24px; align-items: center; margin-bottom: 24px; justify-content: center">
-   <iframe width="100%" height="400" src="https://www.youtube.com/embed/DrPEEHuEF3Y?si=k2mOwpt3X7Pw2xvE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+## 1. What MetaHoof Is
 
-**MetaHoof** is an exclusive digital horse racing game that brings the thrill of traditional horse racing into the modern age. MetaHoof creates a dynamic, immersive
-world where players can engage in races, breed champion horses, and build a thriving in-game economy.
+MetaHoof is a competitive racing game built around structured participation. Players deploy horses into races, define how those horses should be used, and compete within a system governed by explicit rules, costs, and eligibility requirements.
 
-Players can dive into the exciting world of MetaHoof by taking on various roles within the ecosystem: **owners**, **breeders**, and **trainers**. Whether you're racing your horses to victory in high-stakes tournaments, breeding for the
-next champion, or strategically managing your stable, the game offers endless possibilities for engagement and fun.
+The game comes first. Economic activity exists because players participate in races, make decisions, and accept competitive outcomes. MetaHoof is not designed as a yield system layered onto game assets. It is a game system in which participation, strategy, and performance determine results.
 
-At its core, MetaHoof blends **strategy**, **competition**, and **community**. Players can participate in both **casual
-and competitive racing events**, train their horses to improve their performance, and interact with a global community
-of passionate players. Whether you're an experienced gamer or a horse racing enthusiast, MetaHoof offers a fresh,
-exciting way to experience the sport in the digital world.
+## 2. From Manual Play to Structured Participation
 
-## 1️⃣ Key Elements
+MetaHoof allows players to move from fully manual operation to structured participation without removing player control. The player remains the source of intent: which horses to deploy, which races to target, which constraints to accept, and which strategic profile to use.
 
-- **Ownership of Digital Items**: Every horse in MetaHoof is a unique digital item, ensuring players have true ownership over their assets. Horses can be traded, sold, or showcased within the game’s marketplace, giving players control and flexibility over their collections.
+Agents exist to execute those decisions. They are tactical execution systems, not autonomous optimizers. An agent evaluates available opportunities, selects from player-defined options, and submits participation within fixed rules. It does not operate as an open-ended loop, and it does not replace the need for player judgment.
 
-- **Breeding and Genetics**: The breeding system is at the heart of MetaHoof, allowing players to create new horses by
-  combining inherited traits from parent horses. This adds a layer of strategy, as players can selectively breed for
-  desirable attributes like speed, stamina, and rarity, making each horse unique.
+Agent execution is discrete. Each cycle consists of evaluating valid opportunities, selecting an eligible action, and submitting a single race participation. After that cycle, the agent stops or continues only within explicitly bounded limits. Re-engagement remains necessary because participation is constrained by readiness, cost, eligibility, and player-defined limits.
 
-- **Racing Competitions**: Players can compete in a variety of **race formats and events**, from casual sprints to
-  high-stakes tournaments. The performance of each horse is influenced by its stats, training, and breeding lineage,
-  providing a dynamic and competitive racing experience.
+## 3. Introducing the Agentic Game Economy
 
-- **Dynamic In-Game Economy**: MetaHoof offers a thriving, player-driven economy where horses, breeding rights, and
-  other assets can be earned, bought, and sold. Players can earn rewards through racing, breeding, and trading, creating an
-  exciting play-to-earn model.
+MetaHoof is best understood as an Agentic Game Economy.
 
-- **Community Engagement**: MetaHoof isn’t just a game—it’s a community. Players can interact, trade horses, join
-  events, and collaborate with others. Whether through competitions or governance, the community has a voice in shaping
-  the future of MetaHoof.
+In this system:
 
-## 2️⃣ Mission and Vision
+- players are operators
+- horses are performance-based assets
+- agents are the execution layer
 
-**Mission:** The mission of MetaHoof is to deliver a premier digital horse racing experience that is both entertaining
-and rewarding. We aim to provide a fair, transparent, and engaging platform where players can fully own and control
-their digital assets, while also fostering a strong, passionate community.
+Players define strategy and control deployment. Horses generate outcomes only through competition. Agents act on behalf of players by carrying out permitted actions inside the game. They do not create value independently, and they do not function as separate economic actors.
 
-**Vision:** Our vision is to become the leading digital horse racing game, known for its innovation,
-fairness, and community focus. We strive to create a sustainable and dynamic ecosystem where players can enjoy strategic
-gameplay, participate in a thriving economy, and engage with a dedicated community.
+This structure matters because it keeps authorship of decisions with the player while allowing execution to scale in a controlled way. The role of the agent is operational efficiency, not independent optimization and not passive extraction.
 
-## 3️⃣ The Problem
+## 4. Participation Over Extraction
 
-1. **Lack of True Ownership in Digital Games**  
-   Many digital games today operate in a traditional model where players can buy in-game items, skins, or assets, but
-   they don’t truly own them. These items are often locked behind walled gardens and cannot be traded or sold outside
-   the game’s ecosystem. Players are left with no real control over the assets they’ve spent time and money on.
+MetaHoof does not offer guaranteed returns, fixed yields, or passive income. There is no promise that deploying a horse, configuring an agent, or increasing activity will produce profit.
 
-2. **Limited Interoperability Between Games**  
-   In the current gaming landscape, digital assets are often confined to a single game. There’s no way for players to
-   take their hard-earned items or characters across different games or platforms. This limits the value and utility of
-   in-game assets, leaving players with few long-term incentives.
+Outcomes depend on participation in competitive environments. Entry has cost. Races have uncertainty. Performance varies by horse attributes, race conditions, and strategic deployment. Rewards, when they exist, are variable and outcome-dependent.
 
-3. **Barriers to Entry in Horse Racing**  
-   Horse racing, a sport that has long been associated with luxury, is difficult to access for most people due to the
-   high costs of owning and maintaining racehorses. Moreover, traditional racing is often seen as inaccessible to the
-   everyday player, limiting opportunities for fans to participate and compete.
+This distinction is central to the system. MetaHoof is not structured around passive holding. It is structured around active operation inside a competitive game.
 
-4. **Opacity in In-Game Economies**  
-   Many games today operate on closed, centralized economies with little transparency. Players don’t always understand
-   how the in-game economy works, and the true value of assets is often difficult to assess. This can create frustration
-   and mistrust among players.
+## 5. Competitive Integrity
 
-5. **Limited Earning Potential in Traditional Gaming**  
-   In traditional gaming, players invest significant amounts of time, effort, and sometimes money into their gaming
-   experience, but without tangible rewards. The idea of play-to-earn has been underdeveloped, and many players seek new
-   ways to generate value from their gaming time.
+The economy is constrained on purpose. Participation is bounded by energy, fees, readiness, cooldowns, race eligibility, and system-level participation limits. These constraints prevent continuous farming behavior and limit the extent to which activity can scale through automation alone.
 
-## 4️⃣ How MetaHoof Solves It
+The design objective is competitive integrity rather than maximum extraction. No agent can bypass game rules, override costs, or ignore eligibility. No horse can participate without readiness. No system should permit infinite scaling or a single dominant strategy that collapses decision-making into repetition.
 
-1. **True Ownership of Digital Items**  
-   MetaHoof ensures that each digital horse, track, and in-game asset is unique and owned by the player. Items can be collected, traded, or sold, giving players control and flexibility over their investments.
+Predictable rules do not produce predictable results. Players can understand what their agents are allowed to do, but outcomes remain governed by competition.
 
-2. **Flexibility and Portability**  
-   Horses, equipment, and other assets are designed to be flexible within the MetaHoof universe, with potential for broader use as the ecosystem evolves.
+## 6. Positioning Statement
 
-3. **Accessible Horse Racing for All**  
-   MetaHoof democratizes access to horse racing by eliminating the barriers to entry that have traditionally kept many
-   people away from the sport. Players don’t need to spend vast amounts of money to own a real racehorse. Instead, they
-   can buy, breed, and race digital horses within an engaging and accessible digital ecosystem. This opens the door for
-   players from all walks of life to participate, compete, and enjoy the thrill of the race.
+MetaHoof is not a play-to-earn game.
 
-4. **Transparent, Player-Driven Economy**  
-   MetaHoof’s economy is transparent and secure, giving players visibility into how the economy operates and the value of their assets. This fosters trust and confidence in the game’s systems.
-
-5. **Play-to-Earn Model**  
-   MetaHoof introduces a fully integrated **play-to-earn system** that allows players to generate real-world value from
-   their time spent in the game. Players can earn rewards through racing, breeding, and trading horses. The game’s
-   economy is designed to provide players with continuous opportunities to earn, whether it’s from winning races,
-   selling horses, or participating in special events and tournaments. By blending gaming with the potential for real
-   economic gain, MetaHoof elevates the player experience to new heights.
-
-## 5️⃣ Target Audience
-
-MetaHoof is designed to appeal to a diverse range of users, including:
-
-- **Gamers and Strategists**: Individuals who enjoy competitive gameplay, strategic planning, and the thrill of racing. MetaHoof offers deep mechanics for those who want to refine their skills, develop winning strategies, and compete at the highest levels.
-
-- **Horse Racing Fans**: Fans of the traditional sport who are excited to engage with the horse racing world in a digital format. MetaHoof offers a fresh, interactive way to experience the excitement of races, breeding, and competition.
-
-- **Investors**: Individuals seeking unique in-game items and opportunities. The MetaHoof ecosystem offers opportunities to invest in valuable player-owned horses, tracks, and other digital assets. Additionally, investors can explore advertising opportunities within the game, tapping into a growing player base and creating an alternative revenue stream through branded in-game events, sponsored races, and digital billboards, all while leveraging the reach of a passionate and engaged community.
+It is a participation-driven competitive system built around racing, player-defined strategy, and bounded agent execution. The economy exists to support gameplay, not to replace it.

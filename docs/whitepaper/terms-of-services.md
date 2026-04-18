@@ -1,549 +1,390 @@
-# **MetaHoof Terms of Service**
+# MetaHoof Terms of Service
 
-_Draft Outline_
+_Last updated: April 18, 2026_
 
-## **1. Introduction and Acceptance of Terms**
+These Terms of Service ("Terms") form a binding agreement between you and **ANP LABS TECNOLOGIA LTDA** ("ANP Labs," "we," "our," or "us") regarding your access to and use of the MetaHoof platform, including any website, game client, user interface, application, marketplace feature, payment flow, support channel, digital item system, official automation feature, content, and related services we make available (collectively, the "Platform").
 
-Welcome to MetaHoof, a digital horse racing game platform developed and operated by ANP Labs, a company legally established in Brazil. These Terms of Service (“Terms”) govern your access to and use of the MetaHoof platform, including our website, game, services, features, content, and associated technologies (collectively, the “Platform”). By using or accessing MetaHoof, you agree to be bound by these Terms, which form a binding legal agreement between you and ANP Labs.
+By accessing or using the Platform, creating an account, purchasing or using any digital item or virtual currency, linking any third-party account, or otherwise participating in MetaHoof, you agree to these Terms. If you do not agree, you must not access or use the Platform.
 
-If you do not agree to these Terms, you must not use or access MetaHoof in any form.
+## 1. Eligibility and Access
 
-MetaHoof is a digital horse racing game. It includes a website, game client, services, features, content, and supporting technologies. Users may interact with MetaHoof using supported sign‑in methods and payment providers. Where MetaHoof integrates third‑party services (such as identity, payments, age‑verification, or storefronts), the terms and policies of those third parties apply to that portion of your experience and are incorporated by reference to the extent required by those providers.
+You may use the Platform only if you:
 
-_Important Notice:_
+- are at least 18 years old, or the age of legal majority required to use the Platform in your jurisdiction, whichever is higher;
+- have legal capacity to enter into a binding agreement;
+- are not prohibited from using the Platform under any applicable law, sanction, restriction, or regulatory rule; and
+- comply with these Terms and all applicable laws.
 
-_MetaHoof is intended exclusively for users who are 18 years or older, or who meet the minimum legal age in their jurisdiction for accessing digital games and online services. If it is unlawful or restricted in your region to access online games or virtual items, you are prohibited from using MetaHoof._
+You are solely responsible for determining whether your use of the Platform is lawful where you access it. ANP Labs may restrict, refuse, suspend, or terminate access in any jurisdiction, for any user category, or for any device, network, payment method, or sign-in method, at any time and without liability to you.
 
-ANP Labs reserves the right to amend or update these Terms at any time. All changes will be posted on the Platform, and your continued use of MetaHoof constitutes your acceptance of any such updates. It is your responsibility to review the Terms periodically for modifications.
+## 2. Nature of the Platform
 
-For any inquiries related to these Terms, you may contact us at: [support@anplabs.io](mailto:support@anplabs.io)
+MetaHoof is a competitive digital game with a participation-driven virtual economy. It is not:
 
-## **2. Definitions and Interpretation**
+- a bank, brokerage, exchange, money transmission service, or investment platform;
+- a gambling service or wagering product;
+- a promise of profit, yield, appreciation, liquidity, or recoverable value; or
+- a commitment that any digital item, balance, reward, or participation right will retain utility, value, transferability, or availability.
 
-In these Terms of Service ("Terms"), the following definitions apply unless the context otherwise requires. These definitions are provided for clarity and consistency throughout this agreement:
+The Platform may include official system-controlled execution features, including official in-game agents and delegated participation systems, where expressly enabled by ANP Labs. Those features remain subject to these Terms, game rules, balancing controls, and ANP Labs' enforcement discretion.
 
-### **2.1. Definitions**
+## 3. Definitions
 
-- _**ANP Labs**_ refers to <u>ANP LABS TECNOLOGIA LTDA</u>, a Brazilian company registered and operating under Brazilian law, responsible for developing and maintaining the MetaHoof Platform.
-- _**MetaHoof**_ refers to the digital horse racing game and its associated services, website, content, and features offered by ANP Labs.
-- _**Platform**_ means the MetaHoof ecosystem, including but not limited to its website, application, in-game logic, digital assets, and integrations.
-- _**User**, "you", or "your"_ refers to any individual or entity who accesses or uses the MetaHoof Platform.
-- _**Digital Item**_ means a virtual item used within MetaHoof (e.g., horse, trainer, strategy, cosmetic), which may be earned or purchased and is associated with your account.
-- _**Virtual Currency**_ means in‑game currencies made available by MetaHoof (for example, soft coins or premium currency) used for purchases and fees within the Platform.
-- _**Terms**_ means these Terms of Service, as amended from time to time.
-- _**Content**_ includes all digital content available within or related to MetaHoof, including but not limited to artwork, animations, audio, text, game logic, and code.
-- _**Account**_ means your MetaHoof user account and any linked third‑party sign‑in or payment profile you use to access the Platform.
+For purposes of these Terms:
 
-### **2.2. Interpretation**
+- **Account** means your MetaHoof account and any linked authentication profile, wallet profile, payment profile, or related user identity recognized by the Platform.
+- **Digital Item** means any virtual or digital object, entitlement, access right, horse, trainer, cosmetic, blueprint, ticket, license, progression item, or similar item associated with the Platform.
+- **Virtual Currency** means any in-game unit, balance, point, credit, or premium currency made available by ANP Labs for use within the Platform.
+- **Blockchain-Linked Asset** means any digital item or record that ANP Labs chooses to associate with one or more blockchain environments. Blockchain linkage does not limit ANP Labs' rights under these Terms.
+- **Official Automation** means an automation or execution feature expressly made available by ANP Labs within the Platform, subject to Platform rules and constraints.
+- **Unauthorized Automation** means any bot, script, macro, emulator, headless client, automation framework, external orchestrator, unofficial agent, browser automation, packet manipulation tool, scraping tool, or similar mechanism not expressly authorized by ANP Labs.
+- **Platform Records** means ANP Labs' internal books, logs, telemetry, gameplay records, enforcement records, account records, payment records, support records, state records, and other internal systems of record.
 
-- Headings are for convenience only and do not affect the interpretation of these Terms.
-- Use of the singular includes the plural and vice versa.
-- Any phrase introduced by the terms "including," "includes," "in particular," or any similar expression is illustrative and does not limit the generality of the related general words.
-- References to "law" or "laws" include all applicable statutes, regulations, rules, and judicial interpretations in any relevant jurisdiction.
-- References to "we", "our", or "us" refer to ANP Labs unless otherwise specified.
+## 4. Account Registration, Security, and Verification
 
-## **3. Eligibility and Minimum Age**
+You must provide accurate, current, and complete information when creating or maintaining an Account. You must promptly update information that becomes inaccurate.
 
-### **3.1. Age Requirement**
+You are responsible for:
 
-MetaHoof is intended solely for individuals who are 18 years of age or older, or who meet the minimum legal age required by their jurisdiction to access blockchain-based digital games and online platforms. By using the Platform, you represent and warrant that:
+- maintaining the confidentiality and security of your credentials, devices, wallets, email addresses, and linked provider accounts;
+- all activity occurring through your Account or linked credentials, whether or not authorized by you; and
+- immediately notifying ANP Labs if you suspect compromise, unauthorized access, fraud, or misuse.
 
-- You are at least 18 years old; **or**
-- You have reached the minimum legal age for digital services and online games in your country, territory, or jurisdiction.
+ANP Labs may require you, at any time and in its sole discretion or reasonable determination, to verify:
 
-### **3.2. Jurisdictional Restrictions**
+- identity;
+- age;
+- jurisdiction;
+- source of funds;
+- payment method ownership;
+- wallet control;
+- device or network association; or
+- any information relevant to fraud prevention, compliance, security, or Platform integrity.
 
-It is your responsibility to ensure that your access and use of MetaHoof is not prohibited or restricted under the laws of your country or region. If you are located in a jurisdiction where access to online games, virtual currencies, or digital items is restricted or illegal, you are not permitted to use MetaHoof.
+We may deny, delay, suspend, or terminate access pending review, and we may rely on third-party verification providers. Failure to cooperate may result in account restriction or closure.
 
-_MetaHoof explicitly disclaims liability for any use of the Platform in violation of applicable local laws._ ANP Labs reserves the right to restrict, suspend, or terminate access to MetaHoof for any user who is found to be in breach of this provision.
+## 5. Limited License; Ownership of the Platform
 
-### **3.3. Geographic and Regulatory Compliance**
+Subject to these Terms, ANP Labs grants you a limited, personal, non-exclusive, non-transferable, non-sublicensable, revocable license to access and use the Platform solely for lawful, personal, non-commercial entertainment purposes.
 
-We do not target or market MetaHoof to residents of jurisdictions where participation in online games, digital items, virtual currencies, or similar online platforms is restricted or requires prior regulatory approval.
+Except for this limited license, ANP Labs and its licensors retain all right, title, and interest in and to:
 
-_Users are solely responsible for understanding and complying with the legal, tax, and regulatory requirements of their own jurisdiction before accessing the Platform._
+- the Platform;
+- all software, code, systems, databases, simulations, balancing logic, content, artwork, audio, text, interfaces, and branding;
+- all game rules, economies, mechanics, standings, rewards, and state systems; and
+- all derivatives, modifications, and improvements.
 
-## **4. Account Registration and Security**
+No Digital Item, Virtual Currency, Blockchain-Linked Asset, or Account grants you any ownership interest in the Platform or any intellectual property rights, except to the limited extent expressly stated in these Terms.
 
-To access and use MetaHoof, you must create a MetaHoof account (or use a supported sign‑in method) and, where applicable, link a supported payment method. MetaHoof does not independently store your password if you use a third‑party sign‑in provider.
+## 6. Digital Items, Virtual Currency, and Blockchain-Linked Assets
 
-### **4.1. Account Creation**
-- Users must create and maintain an account to access MetaHoof’s services.
-- MetaHoof does not store payment credentials; payments, if any, are processed by third‑party providers.
-- Signing in to your account creates a session associated with your in‑game profile.
+### 6.1 General Nature
 
-### **4.2. Authentication and Credentials**
-- You are fully responsible for maintaining the security of your account and associated devices.
-- You agree not to share access credentials, nor to allow others to control your account or in‑game items on your behalf.
-- Multiple account creation for the purpose of exploiting game mechanics, obtaining unfair advantages, or circumventing rules is strictly prohibited. MetaHoof may ban, suspend, or blacklist such accounts at its _sole discretion_.
+Digital Items and Virtual Currency are licensed, limited-use digital rights made available within the Platform. They are not deposits, stored value, securities, property interests in ANP Labs, or obligations to redeem for money, goods, or services outside the Platform.
 
-### **4.3. Age/KYC/AML**
-- MetaHoof may request verification of age, identity, or origin of funds at any time, either directly or through third‑party vendors, if deemed necessary for legal, regulatory, or anti‑fraud purposes.
-- Some payment providers may require their own verification. You agree to cooperate with any such request where applicable.
+### 6.2 Account-Bound and Blockchain-Linked Treatment
 
-> _Important Notice: Any attempt to use MetaHoof to engage in fraud, abuse, or illegal activities will result in immediate termination of access and may lead to reporting to competent authorities._
+Some Digital Items may be account-bound, some may be Blockchain-Linked Assets, and some may include both Platform and external state components. In all cases:
 
-## **5. Scope of Service**
+- Platform access, utility, functionality, and eligibility are governed by ANP Labs and the Platform;
+- ANP Labs may require Platform recognition, synchronization, validation, locking, or state confirmation before any item can be used;
+- Platform Records govern how items are treated within MetaHoof, subject to applicable law; and
+- blockchain visibility or transferability does not guarantee in-Platform recognition, access, utility, or eligibility.
 
-MetaHoof is an online digital horse racing game developed by ANP Labs. It provides users with an interactive, strategic gameplay experience where digital items such as racehorses, trainers, and in-game items can be collected, used, and traded through the Platform.
+### 6.3 No Guarantee of Value or Availability
 
-### **5.1. Description of MetaHoof and Its Features**
+ANP Labs makes no promise that any Digital Item, Blockchain-Linked Asset, or Virtual Currency will:
 
-MetaHoof offers a range of features designed to enhance competitive gameplay and digital ownership:
+- maintain value or utility;
+- be continuously usable;
+- remain transferable;
+- remain compatible with third-party services;
+- remain available after updates, balancing changes, suspensions, discontinuations, or enforcement actions; or
+- be immune from modification, disabling, restriction, blacklisting, or invalidation.
 
-- **Race Simulation:** Horses participate in deterministic, strategy-based races that factor in traits, energy, conditions, and user-selected strategies.
-- **Digital Item Ownership:** Users acquire and use in‑game digital items (e.g., horses, trainers) that are associated with their MetaHoof account.
-- **Season Passes & Leaderboards:** Players can earn points and rewards via events, competitions, and limited-time campaigns.
-- **Breeding & Asset Progression:** Certain digital items (like horses) can evolve or breed, generating new assets with varying rarity and traits.
-- **Gameplay Economy:** Entry fees, rewards, breeding costs, and other economic interactions may use virtual currency or other in‑game mechanisms.
+### 6.4 Platform Control
 
-> _MetaHoof is **not a gambling platform**. Race outcomes are the result of user strategies and simulation logic, with no betting or random financial rewards._
+To protect fairness, security, compliance, and the game economy, ANP Labs may at any time:
 
-### **5.2. Platforms and Access Channels**
+- create, modify, reclassify, rebalance, replace, suspend, disable, lock, restrict, delist, or discontinue any Digital Item or Virtual Currency;
+- alter item attributes, utility, eligibility, performance, rarity, progression, or participation rights;
+- separate, merge, remap, or invalidate item states;
+- prevent use of any asset associated with misconduct, abnormal activity, disputes, suspected fraud, technical errors, or economy harm; and
+- render any item, asset, balance, or participation right unusable within the Platform.
 
-- **Web Browsers:** The primary interface for gameplay and account management.
-- **Supported Sign‑in/Payment Providers:** Where applicable, MetaHoof may integrate third‑party sign‑in or payment services. Their terms govern those interactions.
+## 7. Payments, Fees, Refunds, and Chargebacks
 
-> _Important Note on Dependencies:_ MetaHoof may rely on third‑party services for identity, payments, content delivery, or storefront functionality. You must also comply with the terms of those services where applicable.
+### 7.1 Payments and Fees
 
-## **6. License to Use**
+The Platform may offer paid content, Digital Items, Virtual Currency, entries, upgrades, passes, and other services. Prices, taxes, fees, availability, and payment methods may vary by region, provider, and time, and may change at any time without prior notice.
 
-By accessing and using MetaHoof, ANP Labs grants you a limited, non-exclusive, non-transferable, revocable license to use the Platform for your personal, non-commercial entertainment purposes, subject to full compliance with these Terms.
+Payments may be processed by third-party providers, storefronts, payment processors, or platform operators. ANP Labs does not control all third-party payment systems and is not responsible for their acts, omissions, delays, reversals, compliance decisions, or outages.
 
-### **6.1. Grant of License**
+### 7.2 Finality
 
-You are granted permission to:
+Except as required by applicable law, all purchases, fees, entries, and consumptions are final, non-refundable, and non-reversible once submitted, fulfilled, consumed, credited, or otherwise recognized by the Platform or applicable provider.
 
-- Access and use the MetaHoof game interface via supported web browsers.
-- Interact with in-game content and features, including digital items associated with your account.
-- Participate in races, events, and game systems provided by ANP Labs.
+You are responsible for reviewing all transaction details before confirming a purchase. Mistaken purchases, dissatisfaction with balancing changes, item performance, utility, eligibility, or race outcomes do not entitle you to reversal, refund, or compensation.
 
-_This license does not transfer any ownership rights in the Platform, intellectual property, or game logic._
+### 7.3 Errors and Mispricing
 
-### **6.2. Usage Restrictions**
+ANP Labs may refuse, cancel, reverse, or correct any transaction, fulfillment, listing, balance, reward, or item state resulting from:
 
-You may not, under any circumstances:
+- system error;
+- display error;
+- pricing error;
+- synchronization failure;
+- payment or provider error;
+- duplicate crediting;
+- abnormal activity; or
+- human mistake.
 
-- Use the Platform for commercial purposes without explicit written authorization from ANP Labs.
-- Modify, reproduce, republish, distribute, or create derivative works of any MetaHoof content, including but not limited to visuals, code, audio, and documentation.
-- Deploy bots, scripts, or other automated methods to interact with the game.
-- Exploit bugs, use reverse engineering, or tamper with any game mechanic or service logic.
-- Share, rent, or sell access to your account or game-linked NFTs for the purpose of bypassing game rules.
+ANP Labs may reclaim or invalidate mistakenly delivered items, balances, access, rewards, or rights, and may restrict the associated Account while reviewing the issue.
 
-_Violation of these restrictions may result in suspension, termination, or permanent blacklisting of your account and NFTs associated with it._
+### 7.4 Chargebacks and Payment Disputes
 
-### **6.3. Intellectual Property Ownership (Rights of ANP Labs)**
+If you initiate a chargeback, payment reversal, unauthorized-payment claim, or similar dispute, ANP Labs may, to the fullest extent permitted by law:
 
-- All content, design elements, software code, branding, art assets, audio, and any other materials made available by MetaHoof are the exclusive intellectual property of ANP Labs, protected under applicable copyright, trademark, and trade secret laws.
-- Acquisition of a MetaHoof digital item grants you a limited license to use and display that item within MetaHoof and for personal, non‑commercial purposes, subject to these Terms.
-- You may not use any MetaHoof-related assets or content in connection with offensive, defamatory, illegal, or infringing material.
+- suspend or restrict your Account immediately;
+- freeze, disable, or invalidate related Digital Items, balances, entries, rewards, or participation rights;
+- deny further purchases or participation;
+- offset disputed amounts against any balances or rights associated with your Account; and
+- report the matter to payment providers, fraud systems, and law enforcement where appropriate.
 
-> _Disclaimer: Acquisition of a MetaHoof digital item grants you a limited license to use and display that item within MetaHoof and for personal, non‑commercial purposes, subject to these Terms._
+ANP Labs may maintain restrictions during and after dispute review and is not required to restore access even if a payment provider reaches a different determination.
 
-## **7. Virtual Currency and Digital Items**
+## 8. Rules of Conduct
 
-MetaHoof utilizes in‑game virtual currencies and digital items to facilitate gameplay mechanics, access to features, and participation in the game economy.
+You must not use the Platform in any manner that is unlawful, abusive, unfair, deceptive, harmful to the Platform, harmful to other users, or harmful to the game economy.
 
-### **7.1. Virtual Currency Description**
-- MetaHoof may make available one or more forms of virtual currency (for example, soft coins and/or premium currency) that can be used for in‑game purchases, race entries, and other services.
-- Virtual currency is a limited, non‑transferable, revocable license right associated with your account and has no real‑world monetary value.
+Without limitation, you must not:
 
-### **7.2. Purchase and Conversion**
-- Purchases of virtual currency or digital items may be offered through the MetaHoof storefront and processed by third‑party payment providers.
-- Pricing and availability may vary by region and are subject to change at any time.
+- engage in fraud, deception, impersonation, identity abuse, or payment misuse;
+- use multiple Accounts, mule Accounts, nominee Accounts, shared Accounts, rented Accounts, or coordinated Accounts to obtain unfair advantage or evade restrictions;
+- collude, cooperate, coordinate, or signal with others to manipulate races, standings, rewards, markets, matchmaking, events, distributions, or any economy mechanic;
+- exploit bugs, glitches, unintended interactions, latency, sync issues, stale state, pricing anomalies, or design loopholes;
+- engage in reward farming, wash activity, circular transfers, self-dealing, artificial volume creation, or resource-drain activity;
+- manipulate race results, race entries, standings, rewards, item attributes, telemetry, or market activity;
+- scrape, crawl, mirror, mine, monitor, or extract data from the Platform except through ordinary permitted use;
+- reverse engineer, decompile, disassemble, intercept, tamper with, or otherwise probe the Platform or its communications;
+- use the Platform to violate law, regulation, sanctions, or third-party rights; or
+- encourage, assist, or attempt any of the foregoing.
 
-### **7.3. Purchase and Use Limits**
-- ANP Labs may impose limits on purchases or usage (e.g., daily spending caps, breeding frequency, event entry quotas) to preserve gameplay balance. Limits may change without prior notice.
+## 9. Official Automation and Prohibited Automation
 
-### **7.4. Transfers and Third‑Party Marketplaces**
-- Virtual currency and digital items are not real currency, are not legal tender, and are not redeemable for any sum of money.
-- Unless expressly permitted within MetaHoof, you may not sell, trade, gift, or transfer virtual currency or digital items outside the Platform.
+### 9.1 Official Automation
 
-### **7.5. Risk Disclosures**
-- Digital items and virtual currency may be modified, become unavailable, or be discontinued as part of ongoing game balancing and updates.
-- There are no guarantees of any value, availability, or specific utility for any virtual currency or digital item.
+ANP Labs may make available Official Automation features, including official in-game agents or delegated participation systems. Any such feature is permitted only to the extent expressly enabled by ANP Labs and remains subject to:
 
-> _MetaHoof is **not an investment platform**. All virtual items and currency are intended solely for **gameplay and entertainment purposes**._
+- discrete-cycle execution rules;
+- gameplay constraints;
+- fees, energy, readiness, and eligibility rules;
+- balancing adjustments;
+- suspension, throttling, or disabling by ANP Labs; and
+- these Terms.
 
-## **8. Purchase, Sale, and Transfer of Digital Items**
+Official Automation does not create any right to continuous operation, profitability, uninterrupted access, or immunity from enforcement.
 
-MetaHoof integrates account‑bound digital items (such as racehorses, trainers, breeding licenses, and energy refills). These items are associated with your account and are governed by Platform rules.
+### 9.2 Unauthorized Automation
 
-### **8.1. Ownership of Digital Horses and In‑Game Items**
-- Digital items you acquire are associated with your account. MetaHoof does not provide custody of any external wallets.
-- Ownership and availability of items are determined by MetaHoof’s internal records.
+You must not use Unauthorized Automation. This prohibition includes:
 
-### **8.2. Sale Conditions**
-- Where MetaHoof offers a storefront or peer‑to‑peer features, listings and purchases are subject to Platform rules, fees, and any applicable policies.
-- ANP Labs may define royalty‑like fees or service charges within the Platform economy where applicable.
+- bots, scripts, macros, browser automation, keyboard or mouse automation, and external orchestration tools;
+- unofficial agents, bot frameworks, or automation wrappers;
+- emulators, headless clients, modified clients, packet injectors, or traffic manipulation tools;
+- scraping, monitoring, or data extraction tools designed to automate decision-making or gain unfair advantage; and
+- any method intended to simulate, accelerate, amplify, or conceal user or agent activity beyond officially permitted Platform behavior.
 
-### **8.3. License to Use; No IP Transfer**
-- Acquiring a MetaHoof digital item grants a limited, personal‑use license for the associated in‑game asset.
-- You do **not** receive commercial rights to the art or content; IP ownership remains with ANP Labs.
+ANP Labs may treat suspicious patterns, abnormal timing, synchronized actions, high-frequency interactions, impossible usage patterns, or telemetry inconsistent with ordinary use as evidence of Unauthorized Automation or abuse.
 
-### **8.4. Disclaimer of Market Value Guarantees**
-- MetaHoof makes no representations regarding market value, liquidity, or appreciation of any digital item.
-- Items may be modified, disabled, or removed for technical, balancing, or policy reasons.
+## 10. Economy Integrity, Balance, and Sustainability
 
-> _In the event of a software error, human mistake, or mispricing that leads to the accidental distribution of digital items, ANP Labs may invalidate, reverse, or correct such actions at its discretion._
+The MetaHoof economy is a rule-bound game system. You acknowledge and agree that ANP Labs may take any action it deems necessary, in its sole discretion or reasonable determination, to protect:
 
-## **9. User Conduct**
+- game balance;
+- economy integrity;
+- reward fairness;
+- anti-inflation controls;
+- anti-abuse protections;
+- anti-collusion protections;
+- player safety;
+- service stability; and
+- long-term sustainability of the Platform.
 
-To preserve fair gameplay, community integrity, and operational security, all users of MetaHoof are required to adhere strictly to the behavioral and technical guidelines outlined below. Violations may result in account suspension, asset blacklisting, or permanent banishment from the Platform.
+Without limitation, ANP Labs may:
 
-### **9.1. Prohibited Behavior**
+- rebalance mechanics, rewards, item utility, race logic, participation rules, progression paths, fees, and costs;
+- cap, throttle, queue, suspend, or restrict participation, automation, entries, rewards, or distributions;
+- alter eligibility rules, classing rules, environment access, item attributes, and participation conditions;
+- remove, reduce, delay, suspend, or discontinue rewards, campaigns, passes, pools, or economy components;
+- reverse or void abnormal gains, standings, rewards, balances, item states, or participation rights;
+- lock, disable, or blacklist assets linked to abuse, manipulation, or economy harm; and
+- discontinue any feature, mode, or mechanic at any time.
 
-You agree **not** to engage in any of the following:
+You have no claim based on the existence, continuation, prior design, or future availability of any economy mechanic, item utility, balancing state, or reward pattern.
 
-- Use of bots, scripts, or automation tools to gain unfair advantage, interact with the Platform, or bypass rate limits.
-- Exploitation of bugs, glitches, or unintended mechanics for personal gain or to disrupt gameplay.
-- Multi-accounting or creating duplicate accounts for the purpose of exploiting in-game systems, leaderboards, or promotions.
-- Collusion with other users or groups to manipulate races, marketplaces, or competitive outcomes.
-- Attempting to reverse engineer, modify, copy, decompile, or gain unauthorized access to any aspect of the Platform.
-- Using MetaHoof to engage in fraud or other illegal activities.
+## 11. Source of Truth and Platform Records
 
-_MetaHoof reserves the right to roll back races, transactions, or results if bad faith conduct, systemic abuse, or technical exploitation is detected._
+Subject to applicable law, Platform Records are the authoritative source of truth for disputes, reviews, corrections, and enforcement relating to:
 
-### **9.2. Harassment, Hate Speech, and Defamation**
+- Account ownership and access;
+- Digital Items, Virtual Currency, and Blockchain-Linked Asset recognition within the Platform;
+- race entries, race outcomes, standings, rewards, and participation history;
+- balances, fees, purchases, and consumptions;
+- eligibility, readiness, cooldowns, locks, and restrictions;
+- suspected exploitation, collusion, abuse, or automation; and
+- enforcement actions and related determinations.
 
-Users must refrain from:
+Displayed values, user interfaces, cached data, blockchain displays, storefront displays, notifications, or third-party records may be delayed, incomplete, or inaccurate. ANP Labs may correct discrepancies at any time and is not obligated to honor erroneous displays or states.
 
-- Posting or transmitting offensive, hateful, racist, or discriminatory content within community forums, race comments, or any MetaHoof interface.
-- Harassing or defaming other players, staff members, or third parties involved with the game.
+## 12. Monitoring, Investigations, and Evidence Preservation
 
-_MetaHoof maintains a zero-tolerance policy on toxic behavior and may enforce immediate bans for violations._
+ANP Labs may monitor use of the Platform, collect telemetry, review logs, correlate related Accounts and devices, and investigate suspected misconduct, abnormal activity, fraud, security incidents, or economy harm.
 
-### **9.3. Restrictions on VPN/Proxy Use in Prohibited Jurisdictions**
+In connection with any review, ANP Labs may:
 
-- Accessing MetaHoof from a prohibited or restricted jurisdiction via VPNs, proxies, or IP-masking services is strictly prohibited.
-- We may use technical measures and audits to detect and enforce regional restrictions in compliance with legal obligations.
+- suspend first and investigate later;
+- preserve logs, data, evidence, device information, payment information, and related records without notice;
+- restrict access to associated Accounts, assets, devices, wallets, payment methods, IP addresses, or profiles;
+- request information or documents from you and third parties; and
+- share relevant information with service providers, payment processors, platform operators, regulators, and law enforcement where appropriate.
 
-### **9.4. Penalties for Misuse or Anti‐Competitive Conduct**
+ANP Labs is not required to disclose investigative methods, evidence, thresholds, or internal enforcement criteria.
 
-If you violate these Terms or attempt to bypass Platform systems, ANP Labs may take any or all of the following actions:
+## 13. Enforcement Rights
 
-- Temporarily or permanently suspend your account
-- Blacklist NFTs associated with misconduct
-- Invalidate race results or rewards
-- Restrict wallet access to the MetaHoof environment
+If ANP Labs suspects, believes, or determines that you engaged in misconduct, abnormal activity, prohibited conduct, or behavior harmful to the Platform, other users, or the game economy, ANP Labs may, with or without notice and with immediate effect:
 
-_All enforcement actions are at the sole discretion of ANP Labs, and no refunds or compensation will be issued for lost access or assets resulting from a violation._
+- warn, suspend, throttle, mute, lock, freeze, limit, or terminate your Account;
+- deny access to the Platform, specific features, or specific environments;
+- freeze, disable, blacklist, void, delist, remove, reclaim, or render unusable any Account, Digital Item, Blockchain-Linked Asset, Virtual Currency balance, reward, entry, pass, license, or participation right;
+- invalidate, reverse, cancel, correct, or restate race results, standings, rewards, entries, balances, or item states;
+- remove or delay rewards, achievements, event outcomes, or campaign entitlements;
+- restrict linked devices, wallets, payment methods, IP addresses, networks, or associated Accounts;
+- refuse reinstatement, refuse service, or deny future registration; and
+- take any other action ANP Labs deems necessary to preserve fairness, security, compliance, or sustainability.
 
-## **10. Privacy and Data Handling**
+These rights apply whether the issue arises from proven misconduct, suspected misconduct, abnormal activity, technical exploitation, payment risk, third-party reports, or protection of the Platform.
 
-MetaHoof respects your privacy and is committed to responsible data handling. MetaHoof processes limited off‑chain data necessary for gameplay, analytics, payments (when applicable), and support.
+## 14. Suspension and Termination
 
-### **10.1. Collection of Personal Data**
+ANP Labs may suspend or terminate all or part of your access to the Platform at any time, for any reason permitted by law, including for convenience, compliance, security, inactivity, provider dependency, service discontinuation, or risk management.
 
-MetaHoof minimizes collection of personal data. Authentication may be handled by MetaHoof or by supported third‑party sign‑in providers. Payments, if any, are handled by payment processors; MetaHoof does not store payment card data.
+On suspension or termination:
 
-We may collect off‑chain data including:
+- your license to use the Platform terminates immediately to the affected extent;
+- your access to Accounts, Digital Items, balances, and participation rights may be restricted, disabled, or ended;
+- ANP Labs may preserve, delete, or retain data as permitted by law and operational need;
+- no refund, compensation, or restoration is owed except as required by applicable law; and
+- attempts to evade enforcement may result in broader restrictions across related Accounts, assets, devices, and networks.
 
-- Race participation history
-- In-game decisions and performance statistics
-- Device/session identifiers for analytics or abuse prevention
-- Support request metadata (when contacting us)
+ANP Labs may keep enforcement actions confidential where appropriate and is not obligated to offer an appeal process, explanation, or reinstatement.
 
-Any data collected is minimal, gameplay-focused, and detached from personally identifiable records unless provided explicitly in support requests.
+## 15. Third-Party Services and Dependencies
 
-### **10.2. Use, Sharing, and Retention of Information**
+The Platform may depend on third-party services, including:
 
-- We use off‑chain data exclusively to operate, improve, and maintain the MetaHoof game and user experience.
-- MetaHoof may share anonymized or aggregated data with service partners for platform optimization, abuse mitigation, or support coordination.
-- You may request the deletion of your off‑chain data by contacting us at [support@anplabs.io](mailto:support@anplabs.io).
+- authentication providers;
+- payment processors and storefronts;
+- wallet providers;
+- blockchain networks and infrastructure;
+- cloud, hosting, analytics, security, or content delivery services; and
+- fraud, compliance, or age-verification providers.
 
-### **10.3. Cookies and Tracking Technologies**
+ANP Labs does not control third-party services and is not responsible for their acts, omissions, unavailability, outages, reversals, compliance restrictions, policy changes, or failures. Third-party terms may also apply to your use of those services.
 
-MetaHoof may use cookies or local storage to enhance user experience, maintain session states, or collect gameplay-related analytics. By using the Platform, you consent to the use of such technologies in accordance with this policy.
+If a third-party provider suspends, blocks, restricts, reverses, or otherwise affects your access or assets, ANP Labs may take related action within the Platform and shall have no liability for resulting losses, delays, or restrictions.
 
-You may disable cookies in your browser settings, but doing so may impair certain game functionalities.
+## 16. Privacy and Data Use
 
-### **10.4. User Rights**
+Your use of the Platform may involve collection and processing of gameplay, device, fraud-prevention, support, payment-adjacent, and operational data as described by ANP Labs from time to time.
 
-You have the right to:
+You agree that ANP Labs may process, store, correlate, and disclose data as reasonably necessary to:
 
-- Request access to the off‑chain data MetaHoof holds about your session(s)
-- Request correction or deletion of such data
-- Withdraw your usage at any time, understanding that game participation will be affected
+- operate and secure the Platform;
+- investigate abuse, fraud, and misconduct;
+- enforce these Terms;
+- comply with law and regulatory obligations; and
+- preserve the integrity and sustainability of the Platform.
 
-## **11. Intellectual Property**
+ANP Labs may retain records for legal, operational, evidentiary, and enforcement purposes for as long as reasonably necessary or permitted by law.
 
-All content, branding, and technology used in MetaHoof is the exclusive intellectual property of ANP Labs or its licensors. While NFTs grant users certain usage rights, those rights do not transfer ownership of the underlying intellectual property.
+## 17. Disclaimers
 
-### **11.1. Trademarks, Copyrights, and Trade Secrets**
+To the fullest extent permitted by law, the Platform is provided on an **"as is"** and **"as available"** basis. ANP Labs disclaims all warranties, express, implied, statutory, or otherwise, including warranties of merchantability, fitness for a particular purpose, non-infringement, availability, title, accuracy, reliability, quiet enjoyment, and error-free operation.
 
-- The MetaHoof name, logo, UI elements, design language, character artwork, audio, race simulations, and all supporting media are protected by copyright, trademark, and trade secret laws.
-- You may not use MetaHoof branding or assets without prior written authorization from ANP Labs.
-- Any unauthorized reproduction, distribution, public display, or commercial use of MetaHoof assets is strictly prohibited and may result in legal action.
+Without limiting the foregoing, ANP Labs does not warrant that:
 
-### **11.2. User License for Content (Feedback, Media, Materials)**
+- the Platform will be uninterrupted, secure, or error-free;
+- any race, event, reward, Digital Item, balance, or feature will remain available;
+- any bug, exploit, or vulnerability will be corrected on any particular timeline;
+- any third-party service will remain compatible or accessible;
+- any displayed state, result, balance, or record will be free from delay or display error;
+- any enforcement decision will be delayed pending notice to you; or
+- any Digital Item, Virtual Currency, or Blockchain-Linked Asset will retain utility, functionality, or recognition within the Platform.
 
-By submitting any content to MetaHoof — including but not limited to feedback, gameplay suggestions, bug reports, screenshots, race recordings, or promotional media — you grant ANP Labs a worldwide, irrevocable, perpetual, royalty-free license to use, copy, adapt, modify, display, publish, or distribute such content for any purpose, including marketing and game improvement.
+ANP Labs may modify, suspend, or discontinue the Platform, in whole or in part, at any time, with or without notice.
 
-- You waive any claim to compensation, attribution, or ownership for submitted content.
-- You confirm that you have the legal right to grant this license and that your submission does not infringe any third-party rights.
+## 18. Limitation of Liability
 
-MetaHoof may feature user content (e.g. race highlights, leaderboard names, screenshots) in promotional material, game communications, or social media without requiring further consent.
+To the fullest extent permitted by law, ANP Labs and its affiliates, licensors, service providers, officers, directors, employees, contractors, and agents shall not be liable for any indirect, incidental, special, consequential, exemplary, or punitive damages, or for any loss of profits, revenue, business, opportunity, goodwill, data, access, digital items, virtual currency, rewards, standings, or participation rights, arising out of or related to the Platform or these Terms.
 
-## **12. Refund and Cancellation Policy**
+To the fullest extent permitted by law, the total aggregate liability of ANP Labs for all claims arising out of or relating to the Platform or these Terms shall not exceed the greater of:
 
-All digital purchases made within MetaHoof are considered final and non-refundable, except as required by applicable law or at the sole discretion of ANP Labs. Due to the nature of blockchain transactions and the issuance of NFTs, refunds are not guaranteed and cannot be automated.
+- USD $100; or
+- the total amount you paid directly to ANP Labs for use of the Platform in the ninety (90) days before the event giving rise to the claim.
 
-### **12.1. Non-Refundable Virtual Items**
+These limitations apply regardless of legal theory and even if a remedy fails of its essential purpose.
 
-- All digital items, race entries, breeding fees, energy refills, and in-game assets are non‑refundable upon purchase or use.
-- Once a purchase is confirmed by our systems and/or the payment processor, it may be non‑reversible. MetaHoof cannot guarantee cancellations or refunds after fulfillment.
-- Refunds are not granted for:
-  - Change of mind
-  - Dissatisfaction with game outcomes or item utility
-  - User error or accidental purchases
+Nothing in these Terms excludes liability to the extent such exclusion is prohibited by applicable law.
 
-### **12.2. Chargeback and Payment Dispute Procedures**
+## 19. Indemnification
 
-- Any chargeback request, dispute of a confirmed payment, or abuse of payment systems may result in:
-  - Suspension of your MetaHoof account
-  - Blacklisting of associated NFTs
-  - Reporting to payment processors
-- Users are expected to resolve any billing concerns by contacting MetaHoof at [support@anplabs.io](mailto:support@anplabs.io) before initiating disputes.
+You agree to defend, indemnify, and hold harmless ANP Labs and its affiliates, licensors, service providers, officers, directors, employees, contractors, and agents from and against any claims, actions, liabilities, damages, judgments, losses, costs, and expenses, including reasonable legal fees, arising out of or related to:
 
-### **12.3. Refunds in Exceptional Cases**
+- your use of the Platform;
+- your breach of these Terms;
+- your violation of law or third-party rights;
+- your fraud, misconduct, abuse, automation, collusion, manipulation, or circumvention;
+- your Digital Items, Blockchain-Linked Assets, transfers, or external transactions; or
+- any dispute involving your Account, payment method, wallet, device, network, or content.
 
-In rare, exceptional situations — such as technical failure or verifiable error in asset delivery — ANP Labs may issue a discretionary refund in the original payment currency, typically in $TOKEN tokens, or reverse the in-game action.
+ANP Labs may control the defense and settlement of any matter subject to indemnification, and you will cooperate fully.
 
-- MetaHoof reserves the right to nullify, reverse, or reclaim assets mistakenly distributed due to human or software error.
-- Refund value, if granted, will be determined by ANP Labs based on internal records, not market valuation.
+## 20. Intellectual Property and Feedback
 
-> _Important: You agree that by using MetaHoof, you waive any expectation of guaranteed refunds for virtual goods or services and accept the risk of digital transactions._
+All Platform intellectual property belongs to ANP Labs or its licensors. You may not copy, reproduce, distribute, modify, create derivative works from, publicly display, publicly perform, sell, license, or exploit any Platform content except as expressly authorized in writing by ANP Labs.
 
-## **13. Payments and Fees**
+If you provide ideas, feedback, suggestions, reports, creative input, or other submissions relating to the Platform, you grant ANP Labs a perpetual, irrevocable, worldwide, royalty-free, fully sublicensable right to use, modify, reproduce, distribute, display, perform, and otherwise exploit them for any purpose, without compensation or attribution.
 
-All payments within MetaHoof, where offered, are executed using supported payment methods (for example, credit/debit cards, local payment options, or platform storefront balances) and/or in‑game virtual currency.
+## 21. Governing Law and Dispute Resolution
 
-### **13.1. Accepted Payment Methods**
+These Terms and any dispute, claim, or controversy arising out of or relating to the Platform or these Terms are governed by the laws of the Federative Republic of Brazil, without regard to conflict-of-law principles.
 
-- MetaHoof supports payments using methods made available in your region by our payment partners and/or platform storefronts.
-- Payments are executed through your chosen provider; MetaHoof does not manage or store payment card details.
+Before filing formal proceedings, you agree to attempt to resolve the matter informally by contacting **support@anplabs.io** and allowing ANP Labs at least thirty (30) days to review the issue.
 
-### **13.2. Transaction Fees**
+Subject to applicable law, the courts of Curitiba, Paraná, Brazil shall have exclusive jurisdiction over disputes arising out of or relating to these Terms or the Platform, and you irrevocably submit to that jurisdiction and venue.
 
-- Transactions may incur fees such as:
-  - Platform service fees for breeding, race entries, or participation in seasonal features
-  - Storefront or payment processor fees (as applicable)
-- MetaHoof may define internal in‑game fees as part of the gameplay economy.
+Nothing in these Terms limits ANP Labs' right to seek injunctive, equitable, protective, or emergency relief in any competent jurisdiction.
 
-_All fees are non‑refundable, even in cases of failed transactions, system downtime, or user error._
+## 22. General
 
-### **13.3. User Tax Obligations**
+### 22.1 Changes to the Terms
 
-- Reporting and paying any taxes due on gains or sales from digital items or other purchases
-- Compliance with local regulations concerning digital assets, income, and capital gains
-- ANP Labs does not provide tax, financial, or legal advice. Please consult a qualified professional in your jurisdiction.
+ANP Labs may modify these Terms at any time by posting updated Terms or otherwise providing notice as ANP Labs deems appropriate. Changes take effect when posted or on the date specified by ANP Labs. Your continued use of the Platform after changes take effect constitutes acceptance of the revised Terms.
 
-## **14. Risks, Disclaimers, and Notices**
+### 22.2 Assignment
 
-By accessing and using MetaHoof, you acknowledge that participation in blockchain-enabled games and ownership of digital assets carries significant risks. ANP Labs provides MetaHoof _“AS IS”_ and makes no representations or guarantees regarding its functionality, uptime, or asset value.
+You may not assign, transfer, delegate, or sublicense any rights or obligations under these Terms without ANP Labs' prior written consent. ANP Labs may assign or transfer these Terms, in whole or in part, without restriction.
 
-### **14.1. Market Risk and Digital Item Valuation**
+### 22.3 Severability and Waiver
 
-- MetaHoof digital items and in-game virtual currency may fluctuate in value, become illiquid, or lose all value over time.
-- The market for digital items is volatile, speculative, and impacted by factors outside of ANP Labs’ control.
-- No part of the Platform constitutes an investment opportunity, financial instrument, or guarantee of future value or rewards.
+If any provision of these Terms is held invalid or unenforceable, the remaining provisions will remain in full force and effect, and the invalid provision will be enforced to the maximum extent permitted by law. No waiver by ANP Labs is effective unless in writing, and no failure to enforce any provision constitutes a waiver.
 
-_Holding or trading MetaHoof assets is entirely at your own risk._
+### 22.4 Entire Agreement
 
-### **14.2. Service Availability and Technical Limitations**
+These Terms, together with any additional policies, rules, or notices expressly incorporated by reference, constitute the entire agreement between you and ANP Labs regarding the Platform and supersede prior or contemporaneous understandings on that subject.
 
-- MetaHoof may experience downtime, interruptions, bugs, or unexpected failures due to software updates, congestion, or third-party infrastructure.
-- We do not guarantee continuous, uninterrupted access to gameplay or assets.
-- Race results, marketplace listings, or other real-time data may be delayed or displayed incorrectly due to caching, frontend errors, or sync issues. The official source of truth is the data recorded on MetaHoof’s systems.
+### 22.5 Contact
 
-_MetaHoof reserves the right to suspend races, events, or services temporarily or permanently, with or without notice, for technical, operational, or legal reasons._
-
-### **14.3. No Warranties; “AS IS” Basis**
-
-- The Platform is provided _“AS IS”_ and _“AS AVAILABLE”_, without any warranties of any kind — express, implied, statutory, or otherwise.
-- ANP Labs disclaims all implied warranties, including those of:
-  - Merchantability
-  - Fitness for a particular purpose
-  - Title and non-infringement
-  - Accuracy or reliability of results
-  - Continuous or error-free operation
-
-## **15. Limitation of Liability**
-
-To the fullest extent permitted by applicable law, ANP Labs disclaims all liability arising out of or related to your access to or use of the MetaHoof Platform, NFTs, tokens, or any related services.
-
-### **15.1. Exclusion of Indirect and Consequential Damages**
-
-Under no circumstances shall ANP Labs, its affiliates, directors, officers, employees, or agents be liable for any:
-
-- Indirect, incidental, special, punitive, or consequential damages
-- Loss of profits, business opportunities, goodwill, or data
-- Game performance losses due to strategy, randomization mechanics, or player error
-- Issues arising from third-party platforms, including but not limited to third‑party sign‑in, payment processors, or external storefronts
-
-_This applies regardless of the legal theory, whether in contract, tort (including negligence), warranty, strict liability, or otherwise — even if ANP Labs was advised of the possibility of such damages._
-
-### **15.2. Cap on Direct Liability**
-
-- In all cases, ANP Labs’ total aggregate liability for any claims under these Terms or related to your use of MetaHoof is strictly limited to the greater of (i) $100 USD or (ii) the total value of $TOKEN you spent directly in the game over the past 3 months prior to the incident giving rise to the claim.
-
-_This limitation shall apply even if any remedy fails of its essential purpose._
-
-By using the Platform, you explicitly agree to this limitation and waive any claim that exceeds it.
-
-## **16. Indemnification and Defense**
-
-You agree to defend, indemnify, and hold harmless ANP Labs, its directors, officers, employees, contractors, affiliates, and agents (collectively, the “Indemnified Parties”) from and against any and all claims, damages, obligations, losses, liabilities, costs, or expenses (including attorneys’ fees) arising out of or related to:
-
-- Your access to or use of the MetaHoof Platform
-- Your violation of these Terms
-- Your use or transfer of NFTs or tokens, whether inside or outside of MetaHoof
-- Your interaction with third-party services (e.g., marketplaces, payment processors)
-- Any content or material submitted or shared by you
-- Your violation of any applicable law or regulation, including but not limited to tax, AML, or gaming regulations
-
-You agree that:
-
-- ANP Labs shall have the right to control the defense and settlement of any claim subject to indemnification under this section.
-- You will cooperate with all reasonable requests in the defense of such claims.
-- This obligation shall survive termination of your account and the conclusion of your relationship with MetaHoof.
-
-_This clause protects ANP Labs from third-party claims resulting from your actions or misuse of the Platform, whether intentional or negligent._
-
-## **17. Suspension, Termination, and Account Cancellation**
-
-MetaHoof reserves the right to suspend, restrict, or permanently terminate your access to the Platform, game services, and associated assets at any time, with or without notice, based on violations of these Terms or operational necessity.
-
-### **17.1. Grounds for Suspension/Termination**
-
-Your account or access to MetaHoof may be suspended or terminated for reasons including, but not limited to:
-
-- Violation of any provision in these Terms
-- Fraud, botting, exploitation, or cheating behavior
-- Use of prohibited automation tools or multi-accounting
-- Use of the Platform in connection with illegal or unauthorized activities (e.g., money laundering, hacking, circumvention of jurisdictional restrictions)
-- Disputes over payments or abuse of refund/chargeback systems
-- Any conduct that ANP Labs, in its _sole discretion_, deems to compromise the fairness, integrity, or security of the Platform
-
-_Termination decisions are final and may result in loss of access to NFTs, in-game progress, and unrewarded balances._
-
-### **17.2. User Notification Procedures**
-
-- While ANP Labs will make reasonable efforts to notify users of suspension or termination via in-game alerts or email (where applicable), such notice is not required in urgent or high-risk scenarios (e.g., exploit detection, fraud).
-- No refunds or compensation will be provided for any digital items, entry fees, or currency lost due to enforcement actions.
-
-### **17.3. Effects of Termination**
-
-Upon termination:
-
-- Your session and game access are disabled. Access to in‑game digital items and virtual currency may be restricted.
-- You remain liable for any outstanding obligations or damages incurred prior to termination.
-- Any attempt to circumvent bans or recreate accounts may result in permanent bans on new wallets or IP restrictions.
-
-_Users who have been suspended or terminated have no right to appeal unless invited by ANP Labs to do so._
-
-## **18. DMCA and Copyright Policy**
-
-MetaHoof respects the intellectual property rights of others and expects all users to do the same. In accordance with the Digital Millennium Copyright Act (DMCA) and applicable international copyright laws, we have implemented the following procedures to address copyright infringement claims.
-
-### **18.1. Copyright Infringement Claim Procedure**
-
-If you believe that any content available on the MetaHoof Platform infringes your copyright, you may submit a notice of infringement including the following details:
-
-- A description of the copyrighted work you claim has been infringed
-- A detailed description of where the allegedly infringing material is located on the Platform (e.g., URL or screenshot)
-- Your full name, email address, and physical address
-- A statement that you have a good-faith belief the disputed use is not authorized by the copyright owner, its agent, or the law
-- A statement made under penalty of perjury that the information provided in your notice is accurate and that you are the copyright owner or authorized to act on behalf of the owner
-- Your electronic or physical signature
-
-Please send infringement notices to:  
-📧 [support@anplabs.io](mailto:support@anplabs.io)  
-Subject: DMCA Notice – Copyright Infringement
-
-We will review and respond to properly submitted notices in accordance with applicable law.
-
-### **18.2. Counter-Notice Procedure**
-
-If you believe that content you posted was removed in error, you may submit a counter-notice containing:
-
-- Identification of the removed content and its original location
-- Your contact information
-- A statement under penalty of perjury that you believe the content was removed in error or misidentification
-- Consent to the jurisdiction of a competent court in Brazil
-- Your electronic or physical signature
-
-Upon receiving a valid counter-notice, we may reinstate the content unless the original complainant files a court action.
-
-_Submitting false or fraudulent notices or counter-notices may result in account suspension and legal liability._
-
-## **19. Dispute Resolution Provisions**
-
-MetaHoof is committed to resolving disputes fairly and efficiently. The following provisions apply to all users of the Platform.
-
-### **19.1. Informal Resolution Attempts**
-
-Before initiating any formal legal action, you agree to first contact ANP Labs at [support@anplabs.io](mailto:support@anplabs.io) and engage in good faith efforts to resolve the dispute informally. The parties shall have up to 30 (thirty) days to attempt to resolve the issue.
-
-Most issues, including gameplay, asset concerns, and technical matters, can and should be resolved directly through our support team.
-
-### **19.2. Governing Law and Jurisdiction**
-
-These Terms and any disputes arising from or related to the use of MetaHoof shall be governed by and construed exclusively in accordance with the laws of the Federative Republic of Brazil, without regard to conflict-of-law principles.
-
-- The parties agree that any legal action, dispute, or proceeding shall be submitted exclusively to the jurisdiction of the courts of Curitiba, State of Paraná, Brazil.
-- You hereby waive any claim or objection related to jurisdiction, venue, or forum non conveniens outside of Curitiba, Paraná.
-
-### **19.3. Language of Proceedings**
-
-These Terms are written in English. In the event of any dispute, arbitration, or legal proceeding, the official language of record shall be Portuguese, in accordance with Brazilian procedural standards, unless otherwise agreed by the parties.
-
-_Nothing in this section shall limit ANP Labs’ right to seek injunctive or equitable relief in any competent jurisdiction to protect its intellectual property or prevent unauthorized use of the Platform._
-
-## **20. Force Majeure**
-
-ANP Labs shall not be held liable for any delay or failure to perform its obligations under these Terms if such delay or failure is caused by circumstances beyond its reasonable control, including but not limited to:
-
-- Natural disasters, acts of God (earthquakes, floods, fires, storms)
-- War, terrorism, civil unrest, or armed conflict
-- Governmental actions, embargoes, or regulations
-- Labor disputes, strikes, or supply chain disruptions
-- Failures of telecommunications or internet service providers
-- Blockchain network failures, smart contract malfunctions, or third-party infrastructure outages (e.g., Wallet service disruptions)
-- Epidemics, pandemics, or public health emergencies
-
-**Consequences of Force Majeure**
-
-- ANP Labs’ obligations under these Terms will be suspended for the duration of the force majeure event.
-- The company will make reasonable efforts to resume operations and fulfill its commitments as soon as the event is resolved.
-- Such suspension shall not constitute a breach of contract or give rise to any claim for damages.
-
-_You agree that ANP Labs is not responsible for losses, delays, or disruptions caused by events beyond its control._
-
-## **21. Assignment**
-
-### **21.1. User’s Prohibition on Assigning Rights**
-
-You may not assign, transfer, delegate, or sublicense any of your rights or obligations under these Terms — whether by operation of law or otherwise — without the prior written consent of ANP Labs. Any attempted assignment in violation of this section shall be null, void, and without effect.
-
-### **21.2. ANP Labs’ Right to Assign**
-
-ANP Labs may assign or transfer these Terms, in whole or in part, without restriction and without notice to you, including but not limited to:
-
-- Transfers to affiliates or subsidiaries
-- Assignments in connection with a merger, acquisition, corporate reorganization, or sale of assets
-- Delegation of responsibilities to third-party service providers or operators acting on behalf of ANP Labs
-
-Such assignment shall not impair your rights under these Terms but may affect the entity delivering services.
-
-_By continuing to use MetaHoof, you acknowledge and agree that ANP Labs may transfer its rights and obligations at any time as part of its business operations._
-
-## **22. Severability**
-
-If any provision of these Terms is found to be invalid, illegal, or unenforceable under applicable law or by a court of competent jurisdiction, such provision shall be severed and the remaining provisions shall continue in full force and effect.
-
-- The invalid or unenforceable portion shall be interpreted, where possible, in a manner that most closely reflects the original intent of the parties.
-- The failure of ANP Labs to enforce any provision or right under these Terms shall not constitute a waiver of that provision or right.
-
-_These Terms constitute the entire agreement between you and ANP Labs with respect to your use of MetaHoof and supersede all prior or contemporaneous communications and understandings, whether oral or written._
+For support or legal notices relating to these Terms, you may contact: **support@anplabs.io**

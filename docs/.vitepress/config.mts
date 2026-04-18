@@ -6,7 +6,7 @@ export default withMermaid(
   defineConfig({
     title: "MetaHoof | Whitepaper",
     description:
-      "Explore MetaHoof documentation for comprehensive guides, gameplay mechanics, breeding systems, race formats, economic models, and developer resources for the innovative NFT digital horse racing game built on-chain.",
+      "Explore the MetaHoof whitepaper covering its Agentic Game Economy, racing-driven value flows, strategic participation systems, sustainability model, and multi-chain infrastructure.",
     themeConfig: {
       logo: "/img/logo.png",
       siteTitle: false,
@@ -14,7 +14,6 @@ export default withMermaid(
       nav: [
         { text: "Home", link: "/" },
         { text: "Whitepaper", link: "/whitepaper/introduction" },
-        // { text: "Tutorials", link: "/tutorials" },
         { text: "Website", link: "https://metahoof.com" },
         { text: "Play Now", link: "https://play.metahoof.com" },
       ],
@@ -32,128 +31,75 @@ export default withMermaid(
       sidebar: {
         "/whitepaper/": [
           {
-            text: "Introduction",
-            items: [
-              { text: "Game Overview", link: "/whitepaper/introduction" },
-              // {
-              //   text: "Blockchain & Technology",
-              //   link: "/whitepaper/blockchain",
-              // },
-              { text: "Team", link: "/whitepaper/team" },
-              // { text: "Roadmap", link: "/whitepaper/roadmap" },
-            ],
+            text: "Overview",
+            items: [{ text: "Introduction", link: "/whitepaper/introduction" }],
           },
           {
-            text: "Gameplay",
+            text: "Core Framework",
             items: [
-              // {
-              //   text: "Horses",
-              //   collapsed: true,
-              //   link: "/whitepaper/horses",
-              //   items: [
-              //     { text: "Traits", link: "/whitepaper/horses-traits" },
-              //     {
-              //       text: "Progression",
-              //       link: "/whitepaper/horses-progression",
-              //     },
-              //   ],
-              // },
-              { text: "Horses", link: "/whitepaper/horses" },
-              // { text: "Trainers", link: "/whitepaper/trainers" },
-              // { text: "Gears", link: "/whitepaper/gears" },
-              // { text: "Strategies", link: "/whitepaper/strategies" },
-              // { text: "Race", link: "/whitepaper/racing-mechanics" },
-              // { text: "Breed System", link: "/whitepaper/breed" },
-              // { text: "Stud", link: "/whitepaper/stud" },
-              // { text: "Breed Fees", link: "/whitepaper/breed-fees" },
-            ],
-          },
-          {
-            text: "Ecosystem",
-            items: [
-              { text: "NFTs & Ownership", link: "/whitepaper/nfts" },
-              // { text: "Genesis Horses", link: "/whitepaper/genesis" },
-              // { text: "Horse Staking", link: "/whitepaper/staking" },
-              // { text: "Founder Collections", link: "/whitepaper/founders" },
-              // { text: "Bloodline Forge Pass", link: "/whitepaper/bloodline-forge-pass" },
-              // { text: "Sponsorship Pass", link: "/whitepaper/sponsorship" },
-              // {
-              //   text: "Creator Program",
-              //   link: "/whitepaper/creator-program",
-              // },
-              // { text: "Game Economy", link: "/whitepaper/game-economy" },
               {
-                text: "Monetization & Revenue Model",
-                link: "/whitepaper/monetization",
+                text: "Economic Philosophy",
+                link: "/whitepaper/economic-philosophy",
               },
-              { text: "Community", link: "/whitepaper/community" },
+              {
+                text: "Core Economic Primitives",
+                link: "/whitepaper/core-primitives",
+              },
+              {
+                text: "Racing as an Economic Engine",
+                link: "/whitepaper/racing-economy",
+              },
+              {
+                text: "Agentic Participation Layer",
+                link: "/whitepaper/agent-layer",
+              },
+            ],
+          },
+          {
+            text: "Economic Design",
+            items: [
+              {
+                text: "Economic Loops",
+                link: "/whitepaper/economic-loops",
+              },
+              {
+                text: "Delegated Participation",
+                link: "/whitepaper/delegated-participation",
+              },
+              {
+                text: "Constraints & Sinks",
+                link: "/whitepaper/constraints-sinks",
+              },
+              {
+                text: "Reward Distribution",
+                link: "/whitepaper/reward-distribution",
+              },
+              {
+                text: "Sustainability Model",
+                link: "/whitepaper/sustainability-model",
+              },
+            ],
+          },
+          {
+            text: "Infrastructure",
+            items: [
+              {
+                text: "Multi-Chain Economy",
+                link: "/whitepaper/multichain-economy",
+              },
+              {
+                text: "Forward Vision",
+                link: "/whitepaper/forward-vision",
+              },
             ],
           },
           {
             text: "Additional Resources",
             items: [
-              { text: "FAQ", link: "/whitepaper/faq" },
-              { text: "Changelog", link: "/whitepaper/changelog" },
+              { text: "Team", link: "/whitepaper/team" },
+              { text: "FAQ", link: "/whitepaper/faq" }
             ],
           },
-        ],
-        "/tutorials/": [
-          // {
-          //   text: "Web3 Onboarding",
-          //   items: [
-          //     {
-          //       text: "Setup Ultra Wallet",
-          //       link: "/tutorials/setup-ultra-wallet",
-          //     },
-          //   ],
-          // },
-          {
-            text: "Getting Started",
-            items: [
-              {
-                text: "Understanding Horse Attributes",
-                link: "/tutorials/horse-attributes-explained",
-              },
-              {
-                text: "How to Find the Best Horse for a Race",
-                link: "/tutorials/how-to-find-the-best-horse",
-              },
-            ],
-          },
-          {
-            text: "Stable Management",
-            items: [
-              {
-                text: "Training & Fitness Guide",
-                link: "/tutorials/training-and-fitness",
-              },
-              {
-                text: "Energy & Recovery Tips",
-                link: "/tutorials/energy-recovery-tips",
-              },
-            ],
-          },
-          // {
-          //     text: 'Breeding & Bloodlines',
-          //     items: [
-          //     { text: 'How Breeding Works', link: '/tutorials/breeding-guide' },
-          //     { text: 'Bloodlines & Their Strengths', link: '/tutorials/bloodline-characteristics' },
-          //     ]
-          // },
-          // {
-          //     text: 'Race Strategy & Tactics',
-          //     items: [
-          //     { text: 'Choosing the Right Race Strategy', link: '/tutorials/race-strategy-guide' },
-          //     { text: 'Reading Race Conditions', link: '/tutorials/race-conditions-guide' },
-          //     ]
-          // },
-          // {
-          //     text: 'Progression & Rewards',
-          //     items: [
-          //     { text: 'Leveling Up & XP', link: '/tutorials/xp-and-leveling' },
-          //     { text: 'Season Pass & Daily Tasks', link: '/tutorials/season-pass-guide' },
-          //     ]
-          // }
         ],
       },
 
@@ -192,5 +138,5 @@ export default withMermaid(
     markdown: {
       math: true,
     },
-  })
+  }),
 );
