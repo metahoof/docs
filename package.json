@@ -14,7 +14,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@wharfkit/antelope": "^1.0.2",
     "fast-glob": "^3.3.2",
     "gray-matter": "^4.0.3",
     "tiny-emitter": "^2.1.0"
